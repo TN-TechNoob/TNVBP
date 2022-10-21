@@ -12,5 +12,11 @@
 
 </div>
 
-## 安裝方式：
-# ![image](https://user-images.githubusercontent.com/73622262/190558791-314adfa5-0684-4e63-ac72-bd377d24bb89.png)![image](https://user-images.githubusercontent.com/73622262/190560030-ac0cc6f9-8213-47b9-8556-4ed0bbfe57c0.png)![image](https://user-images.githubusercontent.com/73622262/190559525-eddd760e-35fb-4513-89bc-a1c2a320f39d.png)![image](https://user-images.githubusercontent.com/73622262/190559808-fc36a106-c97c-4882-a2f9-9d67850093b8.png)
+## 安裝方式 (ex:[Prism Launcher](https://prismlauncher.org/download/)、[MuiltiMC](https://multimc.org/#Download))：
+
+<div align="center" >
+
+# ![explorer_lk4smqvtLa](https://user-images.githubusercontent.com/73622262/197226031-75bc8ae8-df23-4adc-813c-87b9ac05c437.png)![prismlauncher_NOCITixGFc](https://user-images.githubusercontent.com/73622262/197226083-2b2416d4-282e-4cef-8288-356834ea661b.png)![explorer_ldp8p62Z1x](https://user-images.githubusercontent.com/73622262/197226096-8a01778a-3fac-4137-8bbd-0eb3319dae3f.png)
+
+</div>
+
