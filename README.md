@@ -1,6 +1,6 @@
 # <img src="https://i.redd.it/hpi2fcsou3471.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="33" height="27" /> **TN VanillaBoostPack** | TNVBP
 
-一個可以大幅提升原版Minecraft效能的模組包 | [模組列表](https://docs.google.com/spreadsheets/d/1xkfMznuglSiO3qweUCxzBD2HT56MNTea/edit?usp=sharing&ouid=102573864101075637081&rtpof=true&sd=true)
+一個可以大幅提升原版Minecraft效能的模組包 | [模組包內的模組](https://docs.google.com/spreadsheets/d/1xkfMznuglSiO3qweUCxzBD2HT56MNTea/edit?usp=sharing&ouid=102573864101075637081&rtpof=true&sd=true)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/TN-TechNoob/TN-VanillaBoostPack?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&logo=Github) ![GitHub all releases](https://img.shields.io/github/downloads/TN-TechNoob/TN-VanillaBoostPack/total?color=FF5A00&label=%E7%B8%BD%E4%B8%8B%E8%BC%89%E9%87%8F&logo=Github)
 
