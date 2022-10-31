@@ -1,6 +1,6 @@
 <div align="center" >
 
-![Modpack 1600x256](https://user-images.githubusercontent.com/73622262/199087525-f0bac8c9-1056-4032-8581-ccc6734b2b77.png)
+![TNVBP](https://user-images.githubusercontent.com/73622262/199087525-f0bac8c9-1056-4032-8581-ccc6734b2b77.png)
 
 </div>
 
