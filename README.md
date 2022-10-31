@@ -1,6 +1,6 @@
 <div align="center" >
 
-<img src="https://user-images.githubusercontent.com/73622262/199066934-37db19f6-3c23-4e02-bd65-893d07ac0a56.png" width="250" height="250">
+![Modpack 1600x256](https://user-images.githubusercontent.com/73622262/199087525-f0bac8c9-1056-4032-8581-ccc6734b2b77.png)
 
 </div>
 
