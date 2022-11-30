@@ -14,7 +14,7 @@
 
 <div align="center" >
 
-![GitHub all releases](https://img.shields.io/github/downloads/TN-TechNoob/TNVBP/total?color=orange&label=%E7%B8%BD%E4%B8%8B%E8%BC%89%E6%95%B8&logo=github&style=flat-square)![GitHub release (latest by date)](https://img.shields.io/github/v/release/TN-TechNoob/TNVBP?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&logo=github&style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/TN-TechNoob/TNVBP/total?color=orange&label=%E7%B8%BD%E4%B8%8B%E8%BC%89%E6%95%B8&logo=github&style=flat-square) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/TN-TechNoob/TNVBP?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&logo=github&style=flat-square)
 
 </div>
 
