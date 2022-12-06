@@ -1,5 +1,12 @@
 <div align="center" >
 
+未來新版本都會在CurseForge
+CurseForge載點：https://www.curseforge.com/minecraft/modpacks/tnvbp
+
+</div>
+
+<div align="center" >
+
 ![TNVBP](https://user-images.githubusercontent.com/73622262/199087525-f0bac8c9-1056-4032-8581-ccc6734b2b77.png)
 
 </div>
