@@ -2,7 +2,7 @@
 
 未來新版本都會在Modrinth
 
-CurseForge載點：https://modrinth.com/modpack/tnvbp
+Modrinth載點：https://modrinth.com/modpack/tnvbp
 
 </div>
 
