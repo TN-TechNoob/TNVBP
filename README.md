@@ -1,8 +1,8 @@
 <div align="center" >
 
-未來新版本都會在CurseForge
+未來新版本都會在Modrinth
 
-CurseForge載點：https://www.curseforge.com/minecraft/modpacks/tnvbp
+CurseForge載點：https://modrinth.com/modpack/tnvbp
 
 </div>
 
