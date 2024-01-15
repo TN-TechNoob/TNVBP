@@ -1,0 +1,38 @@
+name: Publish Mod
+
+on:
+  push:
+    branches:
+      - main  # 你的主分支名稱
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Java
+      uses: actions/setup-java@v2
+      with:
+        distribution: 'adopt'
+        java-version: '1.16'  # 根據你的模組所需的 Minecraft 版本選擇相應的 Java 版本
+
+    - name: Build Mod
+      run: ./gradlew build  # 使用 Gradle 或其他建構工具
+
+    - name: Publish to GitHub Releases
+      uses: softprops/action-gh-release@v1
+      with:
+        files: build/libs/*.jar  # 根據你的實際情況調整文件路徑
+        token: ${{ secrets.GITHUB_TOKEN }}
+        releaseName: Release ${{ github.sha }}
+
+    - name: Publish to Modrinth
+      run: |
+        curl -X POST -H "Content-Type: application/json" -H "Authorization: Bearer ${{ secrets.MODRINTH_API_KEY }}" \
+        -d '{"version": "1.0.0", "changelog": "Initial release", "game_versions": ["1.16.5"], "files": [{"file": "build/libs/your-mod-1.0.0.jar"}]}' \
+        https://api.modrinth.com/api/v1/mod/your-mod-id/version
+      env:
+        MODRINTH_API_KEY: ${{ secrets.MODRINTH_API_KEY }}
