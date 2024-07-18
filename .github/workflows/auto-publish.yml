@@ -18,7 +18,7 @@ jobs:
          uses: actions/download-artifact@v4
          with:
            name: "Linux 64-bit x86"
-           github-token: ${{ secrets.GH_PAT }}
+           github-token: ${{ secrets.PERSONAL_TOKEN }}
            repository: packwiz/packwiz
            run-id: 9259662367
        - name: Export to packwiz
@@ -53,4 +53,4 @@ jobs:
          with:
            name: MC1.21-${{ github.ref_name }}.mrpack
            path: MC1.21-${{ github.ref_name }}.mrpack
-           repo-token: ${{ secrets.GITHUB_TOKEN }}
+           repo-token: ${{ secrets.PERSONAL_TOKEN }}
