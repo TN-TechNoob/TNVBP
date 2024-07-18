@@ -1,7 +1,5 @@
 name: Automatically publish to Modrinth
-on:
-  release:
-    types: [published]
+on: push
 jobs:
   publish-to-modrinth:
     if: github.repository_owner == 'TN-TechNoob'
