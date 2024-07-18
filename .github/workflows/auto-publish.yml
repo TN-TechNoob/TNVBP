@@ -25,7 +25,7 @@ jobs:
          run: |
            chmod +x ./packwiz
            pushd Packwiz/${{ vars.MC_VERSION }}
-           ../../packwiz modrinth export -o ../../MC1.21-${{ github.ref_name }}.mrpack
+           ../../packwiz modrinth export -o ../../1.21-${{ github.ref_name }}.mrpack
            popd
        - name: Attest mrpack
          id: attest-mrpack
