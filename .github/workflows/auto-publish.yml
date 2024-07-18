@@ -32,20 +32,15 @@ jobs:
          uses: actions/attest-build-provenance@v1
          with:
           subject-path: MC1.21-${{ github.ref_name }}.mrpack
-       - name: Copy and zip attestation
-         run: |
-           cp ${{ steps.attest-mrpack.outputs.bundle-path }} cosign-bundle.json
-           zip cosign-bundle.zip cosign-bundle.json
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.3
          with:
-           name: ${{ github.ref_name }} for ${{ vars.MC_VERSION }}
+           name: TNVBP MC${{ vars.MC_VERSION }}-${{ github.ref_name }}
            modrinth-id: Ohwb2cTF
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
            files: |
              MC1.21-${{ github.ref_name }}.mrpack
-             cosign-bundle.zip
            loaders: fabric
            game-versions: ${{ vars.MC_VERSION }}
        - name: Upload to Github
