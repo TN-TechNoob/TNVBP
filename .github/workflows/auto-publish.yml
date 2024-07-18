@@ -1,5 +1,5 @@
 name: Automatically publish to Modrinth
-on: push
+on: workflow_dispatch
 jobs:
   publish-to-modrinth:
     if: github.repository_owner == 'TN-TechNoob'
