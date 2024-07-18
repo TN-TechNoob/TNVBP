@@ -1,0 +1,56 @@
+name: Automatically publish to Modrinth
+on:
+  release:
+    types: [published]
+jobs:
+  publish-to-modrinth:
+    if: github.repository_owner == 'TN-TechNoob'
+    runs-on: ubuntu-22.04
+    environment: github-actions
+    permissions:
+      id-token: write
+      attestations: write
+      contents: write
+    steps:
+       - name: Clone Repo
+         uses: actions/checkout@v4
+       - name: Download packwiz
+         uses: actions/download-artifact@v4
+         with:
+           name: "Linux 64-bit x86"
+           github-token: ${{ secrets.GH_PAT }}
+           repository: packwiz/packwiz
+           run-id: 9259662367
+       - name: Export to packwiz
+         run: |
+           chmod +x ./packwiz
+           pushd Packwiz/${{ vars.MC_VERSION }}
+           ../../packwiz modrinth export -o ../../MC1.21-${{ github.ref_name }}.mrpack
+           popd
+       - name: Attest mrpack
+         id: attest-mrpack
+         uses: actions/attest-build-provenance@v1
+         with:
+          subject-path: MC1.21-${{ github.ref_name }}.mrpack
+       - name: Copy and zip attestation
+         run: |
+           cp ${{ steps.attest-mrpack.outputs.bundle-path }} cosign-bundle.json
+           zip cosign-bundle.zip cosign-bundle.json
+       - name: Publish to Modrinth
+         uses: Kir-Antipov/mc-publish@v3.3
+         with:
+           name: ${{ github.ref_name }} for ${{ vars.MC_VERSION }}
+           modrinth-id: Ohwb2cTF
+           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+           modrinth-unfeature-mode: subset
+           files: |
+             MC1.21-${{ github.ref_name }}.mrpack
+             cosign-bundle.zip
+           loaders: fabric
+           game-versions: ${{ vars.MC_VERSION }}
+       - name: Upload to Github
+         uses: Shopify/upload-to-release@v2.0.0
+         with:
+           name: MC1.21-${{ github.ref_name }}.mrpack
+           path: MC1.21-${{ github.ref_name }}.mrpack
+           repo-token: ${{ secrets.GITHUB_TOKEN }}
