@@ -25,13 +25,13 @@ jobs:
          run: |
            chmod +x ./packwiz
            pushd Packwiz/${{ vars.MC_VERSION }}
-           ../../packwiz modrinth export -o ../../1.21-${{ github.ref_name }}.mrpack
+           ../../packwiz modrinth export -o ../../MC1.21-${{ github.ref_name }}.mrpack
            popd
        - name: Attest mrpack
          id: attest-mrpack
          uses: actions/attest-build-provenance@v1
          with:
-          subject-path: 1.21-${{ github.ref_name }}.mrpack
+          subject-path: MC1.21-${{ github.ref_name }}.mrpack
        - name: Copy and zip attestation
          run: |
            cp ${{ steps.attest-mrpack.outputs.bundle-path }} cosign-bundle.json
@@ -44,13 +44,13 @@ jobs:
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
            files: |
-             1.21-${{ github.ref_name }}.mrpack
+             MC1.21-${{ github.ref_name }}.mrpack
              cosign-bundle.zip
            loaders: fabric
            game-versions: ${{ vars.MC_VERSION }}
        - name: Upload to Github
          uses: Shopify/upload-to-release@v2.0.0
          with:
-           name: 1.21-${{ github.ref_name }}.mrpack
-           path: 1.21-${{ github.ref_name }}.mrpack
+           name: MC1.21-${{ github.ref_name }}.mrpack
+           path: MC1.21-${{ github.ref_name }}.mrpack
            repo-token: ${{ secrets.PERSONAL_TOKEN }}
