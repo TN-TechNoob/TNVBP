@@ -1,0 +1,13 @@
+filename = 'BetterF3-6.0.3-Fabric-1.19.4.jar'
+name = 'BetterF3'
+side = 'both'
+
+[download]
+hash = 'a9dcdf690dc91bac00e00ba85b73dd36a72eff6d24e5767f0009a1262968bf953d791dca71784b338e8a1737c633ef7c5d86eb000f3264dcc7725213541f9b81'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8shC1gFX/versions/cPKBdNOO/BetterF3-6.0.3-Fabric-1.19.4.jar'
+
+[update.modrinth]
+mod-id = '8shC1gFX'
+version = 'cPKBdNOO'

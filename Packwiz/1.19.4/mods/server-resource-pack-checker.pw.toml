@@ -1,0 +1,14 @@
+name = "Server Resourcepack Checker"
+filename = "resourcepackchecker-1.19.4-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fCpuZIcM/versions/S4EUozjR/resourcepackchecker-1.19.4-1.0.1.jar"
+hash-format = "sha512"
+hash = "53e4d697f56cc215f33ef5ac39e31d09f76cecbbdde31733154731afa38b2a4927e3d2e0ac50859b8275dcaed6de54e589126419fa471e2a8e525c12d086f9c5"
+
+[update]
+[update.modrinth]
+mod-id = "fCpuZIcM"
+version = "S4EUozjR"
