@@ -23,7 +23,7 @@ jobs:
           run: |
             chmod +x ./packwiz
             pushd Packwiz/${{ vars.MC_VERSION }}
-            ../../packwiz modrinth export -o MC${{ vars.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
+            ../../packwiz modrinth export -o ../../MC${{ vars.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
             popd
         - name: Attest mrpack
           id: attest-mrpack
@@ -33,6 +33,6 @@ jobs:
         - name: Publish to Modrinth
           uses: Kir-Antipov/mc-publish@v3.3
           with:
-            # name: TNVBP MC${{ vars.MC_VERSION }}-${{ vars.PACK_VERSION }}
+            name: TNVBP MC${{ vars.MC_VERSION }}-${{ vars.PACK_VERSION }}
             modrinth-id: Ohwb2cTF
             modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
