@@ -37,5 +37,6 @@ jobs:
             modrinth-id: Ohwb2cTF
             modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
             files: MC${{ vars.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
+            loaders: fabric
             game-versions: ${{ vars.MC_VERSION }}
             version: ${{ vars.PACK_VERSION }}
