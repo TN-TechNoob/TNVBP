@@ -1,0 +1,13 @@
+filename = 'fasterrandom-5.0.1.jar'
+name = 'Faster Random'
+side = 'both'
+
+[download]
+hash = 'db228dfa21954e43b6c2302dd1de11dfd28b2d3cf85e0ef574bf5392b5941e620aa7be6377cb9e678fad9fe67690b2b7a23922a2e765393dd1553d3244c96db6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RfFxanNh/versions/39yHBKs1/fasterrandom-5.0.1.jar'
+
+[update.modrinth]
+mod-id = 'RfFxanNh'
+version = '39yHBKs1'

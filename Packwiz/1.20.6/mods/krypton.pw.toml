@@ -1,0 +1,13 @@
+filename = 'krypton-0.2.7.jar'
+name = 'Krypton'
+side = 'both'
+
+[download]
+hash = 'c25c2213db3aa4b646b583c826c8f7bcb7e4e256da0106e213048baadad605ebd2472b9f1b7739bcbb2b5f9968d53d2ef6445f4288225ca5096ef190b8059740'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fQEb0iXm/versions/PYi5mm1G/krypton-0.2.7.jar'
+
+[update.modrinth]
+mod-id = 'fQEb0iXm'
+version = 'PYi5mm1G'
