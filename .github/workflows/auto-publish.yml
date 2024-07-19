@@ -33,5 +33,6 @@ jobs:
         - name: Publish to Modrinth
           uses: Kir-Antipov/mc-publish@v3.3
           with:
+            name: TNVBP MC${{ vars.MC_VERSION }}-${{ vars.PACK_VERSION }}
             modrinth-id: Ohwb2cTF
             modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
