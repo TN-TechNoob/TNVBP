@@ -34,7 +34,7 @@ jobs:
           id: attest-mrpack
           uses: actions/attest-build-provenance@v1
           with:
-            subject-path: MC$MC_VERSION-${{ vars.PACK_VERSION }}.mrpack
+            subject-path: ../../*.mrpack
         - name: Publish to Modrinth
           uses: Kir-Antipov/mc-publish@v3.3
           with:
