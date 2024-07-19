@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "331ec038826a2045cb1c287840c9fd89fc87e61a94eae31941b1ee0c5c66a30a"
+hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
 metafile = true
 
 [[files]]
