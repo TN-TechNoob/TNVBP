@@ -1,0 +1,13 @@
+filename = 'cubes-with-borders-1.1.0+1.14.3.jar'
+name = 'Cubes With Borders'
+side = 'client'
+
+[download]
+hash = 'c35142f17325757d7c69e3f4623b0b93b2297594bcec409e15f0422ba282baa7b0a77b0b0225864005314a8ae9d9577ff5d8b0fb45eff6b120c496f00472b60a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GDD2aMCn/versions/6Zon8b9p/cubes-with-borders-1.1.0%2B1.14.3.jar'
+
+[update.modrinth]
+mod-id = 'GDD2aMCn'
+version = '6Zon8b9p'

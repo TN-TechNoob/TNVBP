@@ -1,0 +1,13 @@
+filename = 'IAS-Fabric-1.18.2-9.0.0.jar'
+name = 'In-Game Account Switcher'
+side = 'both'
+
+[download]
+hash = '6cd106ee6605bbaec40d6513bb0fc84edbb247c41b8395ffd5f89a7fa9d0215b8e282e28a6cce54804cb4ecee1ff805181e459d6008636cb66a7507fb070513c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cudtvDnd/versions/MppmkULG/IAS-Fabric-1.18.2-9.0.0.jar'
+
+[update.modrinth]
+mod-id = 'cudtvDnd'
+version = 'MppmkULG'
