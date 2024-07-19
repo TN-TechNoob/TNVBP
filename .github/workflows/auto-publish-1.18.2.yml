@@ -1,8 +1,5 @@
-name: Automatically publish to Modrinth
-on: 
-  push:
-    paths:
-      - Packwiz/1.18.2/**
+name: 1.18.2 Auto Publish
+on: workflow_dispatch
 env: 
   MC_VERSION: 1.18.2
 jobs:
