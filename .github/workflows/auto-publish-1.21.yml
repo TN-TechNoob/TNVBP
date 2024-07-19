@@ -45,3 +45,4 @@ jobs:
             loaders: fabric
             game-versions: ${{ env.MC_VERSION }}
             version: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}
+            changelog-file: CHANGELOG.MD
