@@ -30,6 +30,11 @@ jobs:
             pushd Packwiz/$MC_VERSION
             ../../packwiz modrinth export -o ../../MC$MC_VERSION-${{ vars.PACK_VERSION }}.mrpack
             popd
+        - name: Attest mrpack
+          id: attest-mrpack
+          uses: actions/attest-build-provenance@v1
+          with:
+            subject-name: $MC_VERSION.mrpack
         - name: Publish to Modrinth
           uses: Kir-Antipov/mc-publish@v3.3
           with:
