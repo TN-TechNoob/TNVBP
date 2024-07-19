@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "57b215f72aa7bddff048938fc84b91fc388189746a2aba9257c67d95fdb625c1"
+hash = "03c1c1b8420938e9b45516c3c558e6be201e67d395f679c19b526b235b92ac86"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "cdcb142b92be5865dc951227e6d5b5b0102bcfc52a9fb39ace3871713824f120"
+hash = "cd4053b09d3d53c0f0729dabaf756d8f813ff52816c9a0d26d9184c83fb67bed"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "b480b3ab7d32076bc7d041cb5556bb1d1d378f46e5b4f4dd95c55ccb3b67fffe"
+hash = "0a4af48f6f4995258ad01de973c2012664a4f9725dbab119592e1016ecce8322"
 metafile = true
 
 [[files]]
