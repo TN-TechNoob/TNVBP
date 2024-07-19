@@ -1,5 +1,6 @@
 name = "MC1.21"
 author = "TN_TechNoob"
+version = "v1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
