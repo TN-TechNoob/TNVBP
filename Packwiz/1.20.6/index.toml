@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "1750a91da9a96f14519e19e4ed25bd7a9bb8122bdda1d566729a5a541d39732f"
+hash = "c4dc919c3184afbb618a51f163f2d059dcc08598f88386ec02167bf4a33d5024"
 metafile = true
 
 [[files]]
@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "cdcb142b92be5865dc951227e6d5b5b0102bcfc52a9fb39ace3871713824f120"
+hash = "cd4053b09d3d53c0f0729dabaf756d8f813ff52816c9a0d26d9184c83fb67bed"
 metafile = true
 
 [[files]]

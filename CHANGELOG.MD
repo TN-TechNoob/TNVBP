@@ -1,6 +1,6 @@
 - **新增**
 - **修復**
 - **更新**
-    - cubes-without-borders-2.1.0+1.19.3.jar -> cubes-without-borders-2.1.1+1.19.3.jar
+    - cubes-without-borders-2.1.0+1.20.jar -> cubes-without-borders-2.1.1+1.20.jar
     - e4mc_minecraft-5.0.0-fabric.jar -> e4mc_minecraft-5.1.0.jar
 - **移除**
