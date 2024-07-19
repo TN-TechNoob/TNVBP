@@ -36,3 +36,4 @@ jobs:
             name: TNVBP MC${{ vars.MC_VERSION }}-${{ vars.PACK_VERSION }}
             modrinth-id: Ohwb2cTF
             modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+            files: MC${{ vars.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
