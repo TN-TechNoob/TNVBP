@@ -1,9 +1,5 @@
 <img src="https://i.imgur.com/TTzZoVa.png" alt="TNVBP">
-<img src="https://img.shields.io/modrinth/dt/Ohwb2cTF?label=Downloads&logo=modrinth&style=flat-square" alt="Modrinth Downloads">
-<img src="https://img.shields.io/modrinth/game-versions/Ohwb2cTF?logo=modrinth&style=flat-square" alt="Modrinth Game Versions">
-<a href="https://discord.gg/Yj9WH3P8RN">
-    <img src="https://img.shields.io/discord/607123183249653770?label=Discord&logo=discord&style=flat-square" alt="Discord">
-</a>
+<img src="https://img.shields.io/modrinth/dt/Ohwb2cTF?label=Downloads&logo=modrinth&style=flat-square" alt="Modrinth Downloads"><img src="https://img.shields.io/modrinth/game-versions/Ohwb2cTF?logo=modrinth&style=flat-square" alt="Modrinth Game Versions"><a href="https://discord.gg/Yj9WH3P8RN"><img src="https://img.shields.io/discord/607123183249653770?label=Discord&logo=discord&style=flat-square" alt="Discord"></a>
 
 <h3>關於模組包</h3>
 <ul>
