@@ -1,0 +1,48 @@
+name: Automatically publish to Modrinth
+on: 
+  push:
+    paths:
+      - Packwiz/1.20.6/**
+env: 
+  MC_VERSION: 1.20.6
+jobs:
+  publish-to-modrinth:
+    if: github.repository_owner == 'TN-TechNoob'
+    runs-on: ubuntu-22.04
+    environment: github-actions
+    permissions:
+      id-token: write
+      attestations: write
+      contents: write
+    steps:
+        - name: Clone Repo
+          uses: actions/checkout@v4
+        - name: Download packwiz
+          uses: actions/download-artifact@v4
+          with:
+            name: "Linux 64-bit x86"
+            github-token: ${{ secrets.PERSONAL_TOKEN }}
+            repository: packwiz/packwiz
+            run-id: 9259662367
+        - name: Export to packwiz
+          run: |
+            chmod +x ./packwiz
+            pushd Packwiz/${{ env.MC_VERSION }}
+            ../../packwiz modrinth export -o ../../MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
+            popd
+        - name: Attest mrpack
+          id: attest-mrpack
+          uses: actions/attest-build-provenance@v1
+          with:
+            subject-path: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
+        - name: Publish to Modrinth
+          uses: Kir-Antipov/mc-publish@v3.3
+          with:
+            name: TNVBP MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}
+            modrinth-id: Ohwb2cTF
+            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+            files: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
+            loaders: fabric
+            game-versions: ${{ env.MC_VERSION }}
+            version: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}
+            changelog-file: CHANGELOG.MD
