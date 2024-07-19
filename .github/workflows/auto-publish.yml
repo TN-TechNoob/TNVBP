@@ -23,27 +23,15 @@ jobs:
           run: |
             chmod +x ./packwiz
             pushd Packwiz/${{ vars.MC_VERSION }}
-            ../../packwiz modrinth export -o ../../MC1.21-${{ github.ref_name }}.mrpack
+            ../../packwiz modrinth export
             popd
         - name: Attest mrpack
           id: attest-mrpack
           uses: actions/attest-build-provenance@v1
           with:
-            subject-path: MC1.21-${{ github.ref_name }}.mrpack
+            subject-path: MC${{ vars.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
         - name: Publish to Modrinth
           uses: Kir-Antipov/mc-publish@v3.3
           with:
-            name: TNVBP MC${{ vars.MC_VERSION }}-${{ github.ref_name }}
             modrinth-id: Ohwb2cTF
             modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-            modrinth-unfeature-mode: subset
-            files: |
-              MC1.21-${{ github.ref_name }}.mrpack
-            loaders: fabric
-            game-versions: ${{ vars.MC_VERSION }}
-        - name: Upload to Github
-          uses: Shopify/upload-to-release@v2.0.0
-          with:
-            name: MC1.21-${{ github.ref_name }}.mrpack
-            path: MC1.21-${{ github.ref_name }}.mrpack
-            repo-token: ${{ secrets.PERSONAL_TOKEN }}

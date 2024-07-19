@@ -2,5 +2,5 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+hash = "a4c0d5d12d50900a6b34b74e4e199dd227b7cb1295854aa1ecbfee5a19c13d0c"
 metafile = true
