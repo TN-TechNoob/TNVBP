@@ -1,0 +1,13 @@
+filename = 'vmp-fabric-mc1.21-0.2.0+beta.7.163-all.jar'
+name = 'Very Many Players'
+side = 'both'
+
+[download]
+hash = '0449ade761cc4b7dcb51e68907f02211393ea999d4799f79f10750dad84ea263661c002a171c77c90d8a6fe9b8c14effa3d15a6df76436e5f4c7432d8a291383'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wnEe9KBa/versions/PT5DZrQC/vmp-fabric-mc1.21-0.2.0%2Bbeta.7.163-all.jar'
+
+[update.modrinth]
+mod-id = 'wnEe9KBa'
+version = 'PT5DZrQC'
