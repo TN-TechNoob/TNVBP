@@ -10,40 +10,40 @@ jobs:
       attestations: write
       contents: write
     steps:
-       - name: Clone Repo
-         uses: actions/checkout@v4
-       - name: Download packwiz
-         uses: actions/download-artifact@v4
-         with:
-           name: "Linux 64-bit x86"
-           github-token: ${{ secrets.PERSONAL_TOKEN }}
-           repository: packwiz/packwiz
-           run-id: 9259662367
-       - name: Export to packwiz
-         run: |
-           chmod +x ./packwiz
-           pushd Packwiz/${{ vars.MC_VERSION }}
-           ../../packwiz modrinth export -o ../../MC1.21-${{ github.ref_name }}.mrpack
-           popd
-       - name: Attest mrpack
-         id: attest-mrpack
-         uses: actions/attest-build-provenance@v1
-         with:
-          subject-path: MC1.21-${{ github.ref_name }}.mrpack
-       - name: Publish to Modrinth
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           name: TNVBP MC${{ vars.MC_VERSION }}-${{ github.ref_name }}
-           modrinth-id: Ohwb2cTF
-           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-           modrinth-unfeature-mode: subset
-           files: |
-             MC1.21-${{ github.ref_name }}.mrpack
-           loaders: fabric
-           game-versions: ${{ vars.MC_VERSION }}
-       - name: Upload to Github
-         uses: Shopify/upload-to-release@v2.0.0
-         with:
-           name: MC1.21-${{ github.ref_name }}.mrpack
-           path: MC1.21-${{ github.ref_name }}.mrpack
-           repo-token: ${{ secrets.PERSONAL_TOKEN }}
+        - name: Clone Repo
+          uses: actions/checkout@v4
+        - name: Download packwiz
+          uses: actions/download-artifact@v4
+          with:
+            name: "Linux 64-bit x86"
+            github-token: ${{ secrets.PERSONAL_TOKEN }}
+            repository: packwiz/packwiz
+            run-id: 9259662367
+        - name: Export to packwiz
+          run: |
+            chmod +x ./packwiz
+            pushd Packwiz/${{ vars.MC_VERSION }}
+            ../../packwiz modrinth export -o ../../MC1.21-${{ github.ref_name }}.mrpack
+            popd
+        - name: Attest mrpack
+          id: attest-mrpack
+          uses: actions/attest-build-provenance@v1
+          with:
+            subject-path: MC1.21-${{ github.ref_name }}.mrpack
+        - name: Publish to Modrinth
+          uses: Kir-Antipov/mc-publish@v3.3
+          with:
+            name: TNVBP MC${{ vars.MC_VERSION }}-${{ github.ref_name }}
+            modrinth-id: Ohwb2cTF
+            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+            modrinth-unfeature-mode: subset
+            files: |
+              MC1.21-${{ github.ref_name }}.mrpack
+            loaders: fabric
+            game-versions: ${{ vars.MC_VERSION }}
+        - name: Upload to Github
+          uses: Shopify/upload-to-release@v2.0.0
+          with:
+            name: MC1.21-${{ github.ref_name }}.mrpack
+            path: MC1.21-${{ github.ref_name }}.mrpack
+            repo-token: ${{ secrets.PERSONAL_TOKEN }}
