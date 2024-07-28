@@ -53,6 +53,11 @@ hash = "e4075590da444fed2284a928e2510e11cdbf9d8e66ef10fdfcfc44094aa1885e"
 metafile = true
 
 [[files]]
+file = "mods/cubes-with-borders.pw.toml"
+hash = "5579ae9220c832aa4f4b32b636507d1276c4d254cb5f1e5939308e7f0d62f2f7"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "03c1c1b8420938e9b45516c3c558e6be201e67d395f679c19b526b235b92ac86"
 metafile = true
@@ -114,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "b18d2ee075b48d7959f2ad7a0a542c7f881b06324009fdb5bce9f38683059722"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
@@ -234,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "7232a24d9785a04315a033b798129bc612e3d9a43bf5cc6499de689e862c57dd"
+hash = "1aaec61445129cc1f3df4bf3125660f0b6254d19693568b281ad105ff32b4531"
 metafile = true
 
 [[files]]
