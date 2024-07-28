@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5e91c51585a1504e8f48be5aeada3c0d4cebfa57bf811ed0b421cef63f6e5071"
+hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
@@ -39,8 +39,8 @@ hash = "aabb597d160e991510a42faf589084226a7c174d6d18d113d40f011043f79de2"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
+file = "mods/cubes-with-borders.pw.toml"
+hash = "5579ae9220c832aa4f4b32b636507d1276c4d254cb5f1e5939308e7f0d62f2f7"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "b18d2ee075b48d7959f2ad7a0a542c7f881b06324009fdb5bce9f38683059722"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ad77e577dea35d8062101c033620e470dd4cf5e5e4cc79f124d42d96fe02f32a"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
