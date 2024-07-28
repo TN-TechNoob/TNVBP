@@ -43,8 +43,8 @@ hash = "c4d766632819c6539b646d82405ef2deabd029c6f79432a057d3508700b242e9"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "c4dc919c3184afbb618a51f163f2d059dcc08598f88386ec02167bf4a33d5024"
+file = "mods/cubes-with-borders.pw.toml"
+hash = "5579ae9220c832aa4f4b32b636507d1276c4d254cb5f1e5939308e7f0d62f2f7"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "b18d2ee075b48d7959f2ad7a0a542c7f881b06324009fdb5bce9f38683059722"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
