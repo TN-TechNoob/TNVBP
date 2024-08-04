@@ -6,11 +6,11 @@ hash = "c5bc698770695a6c4eb6a3de8b6f30a3f06d1b0a4459154d68426c6428be324f"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "f671203f844ceebab1f9ec7ab431ec01b6e56dfb9d41e4c1d1cf0b3580b7a8f3"
+hash = "7e52b0eaf57c7a0d54c898f89d63af5ede96ecae43957979a54ee3464e4fc024"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "41dbd399dd6b47af536712eabb9af5e91a151a551dd2727aa663b4ebd337b03d"
+hash = "78c3c549419c6a85e7384660a7be7768e95136d75301667bf17cdf9ad19b6326"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -55,11 +55,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-with-borders.pw.toml"
 hash = "5579ae9220c832aa4f4b32b636507d1276c4d254cb5f1e5939308e7f0d62f2f7"
-metafile = true
-
-[[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "03c1c1b8420938e9b45516c3c558e6be201e67d395f679c19b526b235b92ac86"
 metafile = true
 
 [[files]]
@@ -279,4 +274,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "160c02934974fe38af88902e3dc5097a1b75e2cd0361d735a7cd3cb3fd5d8b9d"
+hash = "f0cb57a3383008ccd355e856c3aa0365f18bca67df05e7097fe4d59739b3edb3"
