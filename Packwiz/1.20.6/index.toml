@@ -29,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9a629c137758a4fb7a326004325024b9cb9e342fd6abcef1d512cedeea33dfb3"
+hash = "aeda46817a03fc0e1c812581901ad953e99b7513c9b8ce71426c50b9545f940d"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bb979644a83674e6b63f836308e688577b48a70d0edc4605cabb8d53ca937c88"
+hash = "7da82b621c5d72ff29bc23e28a4aa9702773bfc19dd1d8c12d695cd25b46f7b3"
 metafile = true
 
 [[files]]
@@ -168,6 +168,11 @@ hash = "c1654b6c6d35cd02a245e9caf490bbbd17566dcf615029e9980e1198dc3eac7a"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "cdd01e18e133d380d3c4639a1f51f3f35973d380678477162dbaceb8daf55c62"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1ec3aab9a9adb530a631f731e582d5559dac344648d1a23c1ce7df5f6398a8c5"
 metafile = true
@@ -199,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "197bb206f5d17b9b9ca2c351677054b7f79f0e17fd43f7f4bfc370d6d059e521"
+hash = "635de9a09528f1acb5460a6f85fb2fbb9dc50fc2561c322c3e3506fd7dbe57ac"
 metafile = true
 
 [[files]]
@@ -264,4 +269,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e5fd32c9be943490a13a705096e3b6beb560db04b6df57cfd5740d82ea4dd35d"
+hash = "581e97ec04a624b41c9cd513aabdf36b342481baea7e885f8e7d9b734c9f11a9"

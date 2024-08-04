@@ -1,9 +1,9 @@
 - **新增**
-    - cubes-with-borders-1.1.0+1.14.3.jar
+    - modelfix-1.15-fabric.jar
 - **修復**
 - **更新**
-    - modernfix-fabric-5.18.8+mc1.21.jar -> modernfix-fabric-5.19.0+mc1.21.jar
-    - fasterrandom-5.0.1.jar -> fasterrandom-5.1.0.jar
-    - cloth-config-15.0.127-fabric.jar -> cloth-config-15.0.128-fabric.jar
+    - 遊戲內設定檔
+    - fabric-api-0.100.4+1.20.6.jar -> fabric-api-0.100.8+1.20.6.jar
+    - c2me-fabric-mc1.20.6-0.2.0+alpha.11.96.jar -> c2me-fabric-mc1.20.6-0.2.0+alpha.11.98.jar
+    - particle_core-0.2.3+1.20.5.jar -> particle_core-0.2.4+1.20.6.jar
 - **移除**
-    - cubes-without-borders-2.1.1+1.21.jar
