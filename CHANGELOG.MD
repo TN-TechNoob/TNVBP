@@ -1,7 +1,6 @@
 - **新增**
 - **修復**
+    - 修復加入伺服器導致遊戲閃退問題
 - **更新**
-    - 遊戲內設定檔
-    - particle_core-0.2.3+1.21.jar -> particle_core-0.2.4+1.21.jar
-    - fabric-api-0.100.7+1.21.jar -> fabric-api-0.101.0+1.21.jar
+    - fabric-api-0.101.0+1.21.jar -> fabric-api-0.101.1+1.21.jar
 - **移除**
