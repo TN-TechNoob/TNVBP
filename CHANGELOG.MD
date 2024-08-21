@@ -1,5 +1,5 @@
 - **新增**
+    - fastquit-3.0.0+1.20.6.jar
 - **修復**
 - **更新**
-    - noisium-fabric-2.2.2+mc1.20.5-1.20.6.jar -> noisium-fabric-2.3.0+mc1.20.5-1.20.6.jar
 - **移除**
