@@ -1,7 +1,5 @@
 - **新增**
-    - fabric-api-0.100.8+1.21.jar
 - **修復**
-    - 修復遊戲閃退問題
 - **更新**
+    - fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar -> fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar
 - **移除**
-    - fabric-api-0.101.1+1.21.jar
