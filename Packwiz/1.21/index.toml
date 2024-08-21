@@ -25,12 +25,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "166ffc0a108ed53d020811ba623bba64981007629c7f43f5dd67c25bb6b8bb67"
+hash = "a80eb5890d513865a9dcde90db84f5cdc45607975846f5030a6a8687f2328155"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
+hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
 metafile = true
 
 [[files]]
@@ -55,27 +55,27 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7159474ab92b993f13203ab06c20f182110d6703fec9b002f8e0ebc6190d9fe5"
+hash = "e8cf1bd4eb13233ca3d3bcef35a78976552c89b52d56ece96c5179b1c0188473"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "07cd940ddf9f1a6d8908a99350cfd539e6867b3c4a1eddaf5e5e46ea8fd2ee91"
+hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c014c5e0418162081afd75acb711e0c9a68d7d2709d633c49d2b7db331202433"
+hash = "3508403607f441ed70fe3eff44c5095a74df189887fd1a67f6fbcbc2cbe7c458"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "798e78427b1b8dfbe8afefffb9cf3fad8c0469677a2a9beaf650447a409c016a"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "221b81038335e040fdb7be42b99f142360646c63da54693fc945037c9d23e682"
+hash = "3f8f7b594419ea4fefa330c82fee1be6d904390b3a6bb40e52aeb8e7b9009c82"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ce21cfe1db81f077c6bd93f62b91dfe2374309c4325214f653ecb2985df6cade"
+hash = "b134b3baf8df0849794fa5f13ec76411ed5cfcc9ebe527ec45aa2114badb5ac5"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "eb299c3a11314066982d4cc0fa0dbdb848c57826ee27efe3959ea4601f63280f"
+hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
+hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d6c40abfdea9f82e7ab4bcd88bfb87c2e52ff27ca8fc4dfe5847ecc21548ae93"
+hash = "4eb184113cffec2a4a3f8c50b1dac81e29865c0a6a5cffc5a8435d614be257d0"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
-hash = "989742269db76516e13bfeb465a15c748723c75fa3860ac3e3372e44dc34d3e8"
+hash = "2cbdc9bd003f72e7f9fd880da248ecc1215ca30551325951367d90075f21b0c1"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "b01a65a2677c069a1334c33184e2a445ea48032c313b65658777890b7b4f48b5"
+hash = "e0c2708933ee0d9ae66b6f6b05f6fefc73b4198bdd2a6ede0874f4f4a2e246a3"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "c8922e62f13ae53c95925091ee34ab1990d98316b3376ebbeb1e08c2dc6cfb2a"
+hash = "aa4bc30e9ca939aaa03c7c5a34d50d3793841c09331ae4504d65f730e9aeb0c0"
 metafile = true
 
 [[files]]

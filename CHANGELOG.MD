@@ -1,14 +1,19 @@
 - **新增**
 - **修復**
 - **更新**
-    - cloth-config-14.0.126-fabric.jar -> cloth-config-14.0.129-fabric.jar
-    - noisium-fabric-2.1.0+mc1.20.5-1.20.6.jar -> noisium-fabric-2.2.2+mc1.20.5-1.20.6.jar
-    - ImmediatelyFast-Fabric-1.2.18+1.20.6.jar -> ImmediatelyFast-Fabric-1.2.20+1.20.6.jar
-    - entityculling-fabric-1.6.6-mc1.20.6.jar -> entityculling-fabric-1.6.7-mc1.20.6.jar
-    - entity_texture_features_fabric_1.20.6-6.1.3.jar -> entity_texture_features_fabric_1.20.6-6.2.jar
-    - SkinShuffle-2.0.4+1.20.6.jar -> SkinShuffle-2.2.0+1.20.6.jar
-    - c2me-fabric-mc1.20.6-0.2.0+alpha.11.98.jar -> c2me-fabric-mc1.20.6-0.2.0+alpha.11.100.jar
-    - entity_model_features_fabric_1.20.6-2.1.3.jar -> entity_model_features_fabric_1.20.6-2.2.jar
+    - resourcepackchecker-fabric-1.21-1.2.2.jar -> resourcepackchecker-fabric-1.21.1-1.2.2.jar
+    - cloth-config-15.0.128-fabric.jar -> cloth-config-15.0.130-fabric.jar
+    - lithium-fabric-mc1.21-0.12.7.jar -> lithium-fabric-mc1.21-0.13.0.jar
+    - entityculling-fabric-1.6.6-mc1.21.jar -> entityculling-fabric-1.6.7-mc1.21.jar
     - fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar -> fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar
-    - shulkerboxtooltip-fabric-4.1.4+1.20.6.jar -> shulkerboxtooltip-fabric-4.2.0+1.20.6.jar
+    - SkinShuffle-2.0.4+1.21.jar -> SkinShuffle-2.2.0+1.21.jar
+    - noisium-fabric-2.2.1+mc1.21.jar -> noisium-fabric-2.3.0+mc1.21-1.21.1.jar
+    - vmp-fabric-mc1.21-0.2.0+beta.7.163-all.jar -> vmp-fabric-mc1.21-0.2.0+beta.7.165-all.jar
+    - fabric-api-0.100.8+1.21.jar -> fabric-api-0.102.0+1.21.jar
+    - entity_model_features_fabric_1.21-2.1.3.jar -> entity_model_features_fabric_1.21-2.2.jar
+    - indium-1.0.34+mc1.21.jar -> indium-1.0.35+mc1.21.jar
+    - c2me-fabric-mc1.21-0.2.0+alpha.11.107.jar -> c2me-fabric-mc1.21-0.2.0+alpha.11.109.jar
+    - entity_texture_features_fabric_1.21-6.1.3.jar -> entity_texture_features_fabric_1.21-6.2.jar
+    - ImmediatelyFast-Fabric-1.2.18+1.21.jar -> ImmediatelyFast-Fabric-1.2.20+1.21.1.jar
+    - modernfix-fabric-5.19.0+mc1.21.jar -> modernfix-fabric-5.19.1+mc1.21.jar
 - **移除**
