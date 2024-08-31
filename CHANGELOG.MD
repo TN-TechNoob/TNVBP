@@ -1,7 +1,8 @@
 - **新增**
-    - Jade-1.18.2-fabric-5.100.0.jar
+    - Jade-1.19.4-fabric-10.4.0.jar
 - **修復**
 - **更新**
+    - Resourcify (1.19.4-fabric)-1.4.0.jar -> Resourcify (1.19.4-fabric)-1.4.1.jar
+    - entityculling-fabric-1.6.2-mc1.19.4.jar -> entityculling-fabric-1.7.0-mc1.19.4.jar
     - fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar -> fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar
-    - Resourcify (1.18.x-fabric)-1.4.0.jar -> Resourcify (1.18.x-fabric)-1.4.1.jar
 - **移除**

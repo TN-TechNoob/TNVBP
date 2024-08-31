@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "15d3f15b14d1d87a9a57e924a5894b2a243b7abcee568e08a15d7733efb1d69d"
+hash = "902e5039caa98ffdfd089fc5c20ead6d9af474008d24e7f497fab5c005b31fe7"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
@@ -150,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "50149a8a37f3e48e9309ee9df0afc75beefd0d62349b75327d4077a56f8e8dd3"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "17e09bf43f8a0acb665dc2bae20c71cdac4658a07e6f1b194ddabc92a6b1330a"
 metafile = true
 
 [[files]]
@@ -219,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "08fa871ce6f7a9f6c5a78797baab4ae38e0f661b588140013573ded6526abbc3"
+hash = "ac24c72326988794f46f0222e58e27260ca1423ca7d5a19e2308efb6a0dab434"
 metafile = true
 
 [[files]]
@@ -274,4 +279,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f0cb57a3383008ccd355e856c3aa0365f18bca67df05e7097fe4d59739b3edb3"
+hash = "1d20195d81f89cdcb6b3135982952e88788c0c3a65eae3c9f353f46132f5c84a"
