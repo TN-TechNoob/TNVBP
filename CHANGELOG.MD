@@ -18,3 +18,4 @@
     - entityculling-fabric-1.6.7-mc1.21.jar -> entityculling-fabric-1.7.0-mc1.21.jar
     - fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar -> fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar
 - **移除**
+    - indium-1.0.35+mc1.21.jar
