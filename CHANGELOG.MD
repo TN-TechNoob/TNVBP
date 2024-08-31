@@ -1,8 +1,12 @@
 - **新增**
-    - Jade-1.19.4-fabric-10.4.0.jar
+    - Jade-1.20.6-Fabric-14.2.4.jar
 - **修復**
 - **更新**
-    - Resourcify (1.19.4-fabric)-1.4.0.jar -> Resourcify (1.19.4-fabric)-1.4.1.jar
-    - entityculling-fabric-1.6.2-mc1.19.4.jar -> entityculling-fabric-1.7.0-mc1.19.4.jar
+    - fzzy_config-0.3.5+1.20.6.jar -> fzzy_config-0.3.7+1.20.6.jar
     - fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar -> fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar
+    - SkinShuffle-2.2.0+1.20.6.jar -> SkinShuffle-2.2.1+1.20.6.jar
+    - BetterF3-10.0.2-Fabric-1.20.6.jar -> BetterF3-10.0.3-Fabric-1.20.6.jar
+    - entity_texture_features_fabric_1.20.6-6.2.jar -> entity_texture_features_fabric_1.20.6-6.2.2.jar
+    - ImmediatelyFast-Fabric-1.2.20+1.20.6.jar -> ImmediatelyFast-Fabric-1.2.21+1.20.6.jar
+    - Resourcify (1.20.5-1.20.6-fabric)-1.4.0.jar -> Resourcify (1.20.5-1.20.6-fabric)-1.4.1.jar
 - **移除**

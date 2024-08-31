@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "44aadc95bc3fff93a53ba5976808fc4cab9550f7b0b2933443ea5a212f8d12a9"
+hash = "2898c310516243547491bfd4cbba32cefe80e539f94bf86f156a402950b9aa41"
 metafile = true
 
 [[files]]
@@ -64,17 +64,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "544bade16ad0d603f39c0e5ae3176e8875526e5a4a07ac552a68332437f2cd85"
+hash = "4548c24353d8ce8df37c97623a5f3368e07de7a9f65d5d104d25397a832b79f4"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "18b94fda344fbc611a949adc24a7399b9ce8bb1314e97abd5269a5bf110794be"
+hash = "0cd5d10380714642d2af12f13c0cc3e1b7e66c1952bbe63a04ece98eb0ae8364"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "291910bb5d3d0ccc27f00a29e42043cbb59a42bb03bc687cefea47b4929b2a93"
+hash = "80e7800ad99e1b0b065ddcb827510c91aa9628015bedcd8cfb636b1e570f8147"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
@@ -119,12 +119,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ec0fb96ee61e49ec8a51da648207c46e0078bb65b767570e289a5e4da0f60a6e"
+hash = "d81541533c9a4b03a493f122f226c63d2a2b3f308bf99ac76d5002dcee4391a5"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f478d6fadb9350aa83cc877e5b9b94af7c66e7e20c6a49b2b112322775170b2f"
+hash = "651baf2d55ff561e27d9d2fc3728b0f7f90c93fbd937dc58214a229dd10f7acc"
 metafile = true
 
 [[files]]
@@ -140,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "09211568d20a0966334b0b53b6adcba7dbaf8c6bd216b042916e1dfeb97cdd86"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "f37f5fd3fda8611c289c24ea9ba0e9e9619e9480020d292309c20a08cba64baf"
 metafile = true
 
 [[files]]
@@ -214,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "adf7d45d1bcd02cc8f6399f1cc27dc05a245bbbd47505d9b81459b3c13e95d6c"
+hash = "59395e3350b877bfe6bcba5f93bf73d1368fabaef621255864f81d19e711db36"
 metafile = true
 
 [[files]]
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "4b3b8616b336dc077cbd46d248500a78dc0bef0cdf7be7a42e96d25cdf7c2e3f"
+hash = "d31f2ceaac0f4483b18388379cce3a0176d0259c4c7eff7d65702e12eb343144"
 metafile = true
 
 [[files]]
@@ -269,4 +274,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5a867cb1873e2bc6b28856b2a1a43132283b110ac7e36283609f5565820be424"
+hash = "2a5551a495bf6e71b3a8f37b829610413eb484a28f2d59318acd53932308e4cf"

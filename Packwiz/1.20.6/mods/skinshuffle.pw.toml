@@ -1,13 +1,13 @@
 name = "SkinShuffle"
-filename = "SkinShuffle-2.2.0+1.20.6.jar"
+filename = "SkinShuffle-2.2.1+1.20.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3s19I5jr/versions/1kRNZoD6/SkinShuffle-2.2.0%2B1.20.6.jar"
+url = "https://cdn.modrinth.com/data/3s19I5jr/versions/VUAmoDpe/SkinShuffle-2.2.1%2B1.20.6.jar"
 hash-format = "sha1"
-hash = "33af0380d14ae3cde9c1b4a2cbaa4133a647f527"
+hash = "fb0d3d76a4991b6042a927e9c2b0f813f1ce69dc"
 
 [update]
 [update.modrinth]
 mod-id = "3s19I5jr"
-version = "1kRNZoD6"
+version = "VUAmoDpe"

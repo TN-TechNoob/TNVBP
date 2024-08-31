@@ -1,7 +1,7 @@
 version:3839
 
 renderDistance:8
-simulationDistance:8
+simulationDistance:6
 enableVsync:false
 maxFps:260
 mipmapLevels:0
