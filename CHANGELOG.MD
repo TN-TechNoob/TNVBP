@@ -1,5 +1,7 @@
 - **新增**
-    - fastquit-3.0.0+1.20.6.jar
+    - Jade-1.18.2-fabric-5.100.0.jar
 - **修復**
 - **更新**
+    - fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar -> fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar
+    - Resourcify (1.18.x-fabric)-1.4.0.jar -> Resourcify (1.18.x-fabric)-1.4.1.jar
 - **移除**
