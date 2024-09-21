@@ -1,6 +1,12 @@
 - **新增**
 - **修復**
 - **更新**
-    - cloth-config-10.1.117-fabric.jar -> cloth-config-10.1.135-fabric.jar
+    - entity_texture_features_fabric_1.20.6-6.2.2.jar -> entity_texture_features_fabric_1.20.6-6.2.5.jar
     - fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar -> fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar
+    - particle_core-0.2.4+1.20.6.jar -> particle_core-0.2.5+1.20.6.jar
+    - entity_model_features_fabric_1.20.6-2.2.2.jar -> entity_model_features_fabric_1.20.6-2.2.6.jar
+    - SkinShuffle-2.2.1+1.20.6.jar -> SkinShuffle-2.2.2+1.20.6.jar
+    - cloth-config-14.0.129-fabric.jar -> cloth-config-14.0.139-fabric.jar
+    - fzzy_config-0.3.7+1.20.6.jar -> fzzy_config-0.4.3+1.20.6.jar
+    - optigui-2.3.0-beta.2+1.20.5.jar -> optigui-2.3.0-beta.4+1.20.5.jar
 - **移除**
