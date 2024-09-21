@@ -25,21 +25,21 @@ jobs:
           run: |
             chmod +x ./packwiz
             pushd Packwiz/${{ env.MC_VERSION }}
-            ../../packwiz modrinth export -o ../../MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
+            ../../packwiz modrinth export -o ../../MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_4 }}.mrpack
             popd
         - name: Attest mrpack
           id: attest-mrpack
           uses: actions/attest-build-provenance@v1
           with:
-            subject-path: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
+            subject-path: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_4 }}.mrpack
         - name: Publish to Modrinth
           uses: Kir-Antipov/mc-publish@v3.3
           with:
-            name: TNVBP MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}
+            name: TNVBP MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_4 }}
             modrinth-id: Ohwb2cTF
             modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-            files: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}.mrpack
+            files: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_4 }}.mrpack
             loaders: fabric
             game-versions: ${{ env.MC_VERSION }}
-            version: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION }}
+            version: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_4 }}
             changelog-file: CHANGELOG.MD
