@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "518bd1271b550de94e824731d2ac719c42aa9da1bd3dbd9fff2d050482232ad8"
+hash = "f28026f9cf2c9030b009912030e0b81761383a7d98b52ea60d07b0cee53c3b5f"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]

@@ -1,5 +1,6 @@
 - **新增**
 - **修復**
 - **更新**
+    - cloth-config-10.1.117-fabric.jar -> cloth-config-10.1.135-fabric.jar
     - fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar -> fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar
 - **移除**

@@ -1,13 +1,13 @@
-filename = 'cloth-config-10.1.117-fabric.jar'
-name = 'Cloth Config v10'
-side = 'both'
+name = "Cloth Config v10"
+filename = "cloth-config-10.1.135-fabric.jar"
+side = "both"
 
 [download]
-hash = '51d264722e843e6cc87f660edd8feb269b3b7821fdab7780cde4d1e8e8a8ea25a02e33324bc5dee2baa2ac27e4326ee492ed871d73c75495128d24e20901cebc'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/9s6osm5g/versions/4UgNKji6/cloth-config-10.1.117-fabric.jar'
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/ZTMfeJij/cloth-config-10.1.135-fabric.jar"
+hash-format = "sha1"
+hash = "4f180acffa5c4abb1ed895c21265dc50b1420dff"
 
+[update]
 [update.modrinth]
-mod-id = '9s6osm5g'
-version = '4UgNKji6'
+mod-id = "9s6osm5g"
+version = "ZTMfeJij"
