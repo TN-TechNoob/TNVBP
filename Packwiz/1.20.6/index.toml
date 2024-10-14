@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "cd4053b09d3d53c0f0729dabaf756d8f813ff52816c9a0d26d9184c83fb67bed"
+hash = "15eaa7927e118a352c4ef7dad762dbd0de91ab3f2b3c9277a9587f8443b6385b"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b78dc07e551d44d3a9e83cf61f84ba16f343711b8c85203d66ded0bb29a90248"
+hash = "e54409b319b0e0dd1c5ae21ea499015d2e1e1ef8e8470468ce5fb27790c3f0b0"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "5ef1a06624a97ebfc82ffffa771f1736788cd2713fb2765bfcd27b1ef5313868"
+hash = "1c472202892da3431c440719d72abf8a06650a3b40a39792c43c1f14b71fb6d4"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "59395e3350b877bfe6bcba5f93bf73d1368fabaef621255864f81d19e711db36"
+hash = "e584c0395b04c5f7358981e5d4d07b8e1225f7fa70b530bb3eb290f5fa66fd63"
 metafile = true
 
 [[files]]

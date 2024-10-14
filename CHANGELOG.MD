@@ -1,8 +1,9 @@
 - **新增**
 - **修復**
 - **更新**
-    - Resourcify (1.19.4-fabric)-1.4.1.jar -> Resourcify (1.19.4-fabric)-1.4.2.jar
+    - Resourcify (1.20.5-1.20.6-fabric)-1.4.1.jar -> Resourcify (1.20.5-1.20.6-fabric)-1.4.2.jar
     - fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar -> fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar
-    - optigui-2.1.7.jar -> optigui-2.3.0-beta.6+1.19.3.jar
+    - fzzy_config-0.4.3+1.20.6.jar -> fzzy_config-0.5.3+1.20.6.jar
+    - optigui-2.3.0-beta.4+1.20.5.jar -> optigui-2.3.0-beta.6+1.20.5.jar
     - e4mc_minecraft-5.1.0.jar -> e4mc_minecraft-fabric-5.2.1.jar
 - **移除**
