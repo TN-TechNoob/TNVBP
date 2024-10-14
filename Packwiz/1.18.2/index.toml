@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "cd4053b09d3d53c0f0729dabaf756d8f813ff52816c9a0d26d9184c83fb67bed"
+hash = "15eaa7927e118a352c4ef7dad762dbd0de91ab3f2b3c9277a9587f8443b6385b"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "8d0895f97fe5c9cf70a0efcf139f220afbcc3c4e3777af03c9bd5218866c6163"
+hash = "f79a8f3f3b9102520c230e4822779eb5421481f98d022eaf6e1828260fab9170"
 metafile = true
 
 [[files]]

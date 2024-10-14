@@ -1,20 +1,7 @@
 - **新增**
-    - citresewn-1.2.1+1.21.jar
 - **修復**
 - **更新**
-    - fzzy_config-0.3.7+1.21.jar -> fzzy_config-0.4.3+1.21.jar
-    - iris-fabric-1.8.0-beta.3+mc1.21.1.jar -> iris-fabric-1.8.0-beta.4+mc1.21.1.jar
-    - SkinShuffle-2.2.1+1.21.jar -> SkinShuffle-2.2.2+1.21.jar
-    - entity_model_features_fabric_1.21-2.2.2.jar -> entity_model_features_fabric_1.21-2.2.6.jar
-    - reeses-sodium-options-fabric-1.8.0-beta.2+mc1.21.1.jar -> reeses-sodium-options-fabric-1.8.0-beta.4+mc1.21.1.jar
-    - fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar -> fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar
-    - particle_core-0.2.4+1.21.jar -> particle_core-0.2.5+1.21.jar
-    - shulkerboxtooltip-fabric-5.0.4+1.21.jar -> shulkerboxtooltip-fabric-5.1.1+1.21.jar
-    - enhancedblockentities-0.10.1+1.21.jar -> enhancedblockentities-0.10.2+1.21.jar
-    - lithium-fabric-mc1.21-0.13.0.jar -> lithium-fabric-mc1.21-0.13.1.jar
-    - entity_texture_features_fabric_1.21-6.2.2.jar -> entity_texture_features_fabric_1.21-6.2.5.jar
-    - sodium-fabric-0.6.0-beta.1+mc1.21.jar -> sodium-fabric-0.6.0-beta.2+mc1.21.1.jar
-    - optigui-2.3.0-beta.2+1.21.jar -> optigui-2.3.0-beta.4+1.21.jar
-    - sodium-extra-fabric-0.6.0-beta.1+mc1.21.1.jar -> sodium-extra-fabric-0.6.0-beta.3+mc1.21.1.jar
-    - cloth-config-15.0.130-fabric.jar -> cloth-config-15.0.140-fabric.jar
+    - Resourcify (1.18.x-fabric)-1.4.1.jar -> Resourcify (1.18.x-fabric)-1.4.2.jar
+    - fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar -> fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar
+    - e4mc_minecraft-5.1.0.jar -> e4mc_minecraft-fabric-5.2.1.jar
 - **移除**
