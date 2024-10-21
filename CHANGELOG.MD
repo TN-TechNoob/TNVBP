@@ -1,10 +1,5 @@
 - **新增**
-    - e4mc_minecraft-fabric-5.2.1.jar
 - **修復**
 - **更新**
-    - Resourcify (1.21+-fabric)-1.4.1.jar -> Resourcify (1.21+-fabric)-1.4.2.jar
-    - optigui-2.3.0-beta.4+1.21.jar -> optigui-2.3.0-beta.6+1.21.jar
-    - fzzy_config-0.4.3+1.21.jar -> fzzy_config-0.5.3+1.21.jar
-    - fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar -> fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar
-    - modmenu-11.0.2.jar -> modmenu-11.0.3.jar
+    - citresewn-1.1.5+1.19.4.jar -> citresewn-1.2.2+1.19.4.jar
 - **移除**
