@@ -1,5 +1,6 @@
 - **新增**
 - **修復**
 - **更新**
-    - fzzy_config-0.5.3+1.20.6.jar -> fzzy_config-0.5.4+1.20.6.jar
+    - citresewn-1.2.1+1.21.jar -> citresewn-1.2.2+1.21.jar
+    - fzzy_config-0.5.3+1.21.jar -> fzzy_config-0.5.4+1.21.jar
 - **移除**

@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "da4f0d277bd0dd7137f79b3faa5f19e7d16f5352a6ed2d2d6a4789621c3492ea"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0f1fcbb6f9309fce2bdf362b28f13ee4326534652e00bfb9beff3ceca6125f9d"
+hash = "b0664d65ddd932bf1cade2c28c8e9a68eddbc64de3e97613d7cd5fdab118243e"
 metafile = true
 
 [[files]]
