@@ -20,7 +20,7 @@ jobs:
             name: "Linux 64-bit x86"
             github-token: ${{ secrets.PERSONAL_TOKEN }}
             repository: packwiz/packwiz
-            run-id: 11331794741
+            run-id: 11331794723
         - name: Export to packwiz
           run: |
             chmod +x ./packwiz
