@@ -1,0 +1,16 @@
+filename = 'modmenu-4.2.0-beta.2.jar'
+name = 'Mod Menu'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '38abddc67502e3f6b08962e13777278d3e88c3ac4d22584636362fb828bd36a0f4313747cc3023afbc9d958ca7dccad13527299b05ea492f80bb6fef8d364726'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mOgUt4GM/versions/gSoPJyVn/modmenu-4.2.0-beta.2.jar'
+
+[update.modrinth]
+mod-id = 'mOgUt4GM'
+version = 'gSoPJyVn'

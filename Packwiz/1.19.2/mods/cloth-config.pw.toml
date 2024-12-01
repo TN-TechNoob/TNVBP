@@ -1,0 +1,16 @@
+filename = 'cloth-config-8.3.134-fabric.jar'
+name = 'Cloth Config API'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b28c5c603d5dcdce298cd670fc58bd8a589f6407b7d650aac0831991b661f06ea235f3f0190e50f38eef3037ae1c906c285b8a1ccef86e424cb18df163b3c20a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9s6osm5g/versions/ZpV0fKbO/cloth-config-8.3.134-fabric.jar'
+
+[update.modrinth]
+mod-id = '9s6osm5g'
+version = 'ZpV0fKbO'

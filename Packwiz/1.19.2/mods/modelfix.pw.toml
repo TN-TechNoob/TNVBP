@@ -1,0 +1,16 @@
+filename = 'modelfix-1.8-fabric (1).jar'
+name = 'Model Gap Fix'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18.1', '1.18.2', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c4971e896def3c5ba5ff9ef9915ee6df22c705e20008c6c2b6f3325f373bf651852169545997340130ba67e9770cdd1234890cc2e482aa8305514cc515617d81'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QdG47OkI/versions/7ainrOrH/modelfix-1.8-fabric %281%29.jar'
+
+[update.modrinth]
+mod-id = 'QdG47OkI'
+version = '7ainrOrH'

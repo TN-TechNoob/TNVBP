@@ -1,0 +1,16 @@
+filename = 'Debugify-2.8.0.jar'
+name = 'Debugify'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7ad21d66192520b8bc056d33981a51901dd5150b8ea8f288418366dba73755ad352925293ea3048628e8481f0cac4d122f794a10382df52c6029e315b79587ac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QwxR6Gcd/versions/UvBWAMZL/Debugify-2.8.0.jar'
+
+[update.modrinth]
+mod-id = 'QwxR6Gcd'
+version = 'UvBWAMZL'

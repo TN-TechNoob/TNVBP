@@ -1,0 +1,16 @@
+filename = 'forcecloseloadingscreen-1.1.1.jar'
+name = 'kennytvs-epic-force-close-loading-screen-mod-for-fabric'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18.2', '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9e481e744e19d946c8ca641c0bc1c665dcbfdeb057f3d322623194c6fc68c1acc8e0ca968d9d79284504fd224ae31eef58a5cf01cf6ca1bde477e2ae564ba184'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/blWBX5n1/versions/1.1.1/forcecloseloadingscreen-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'blWBX5n1'
+version = '2wHT21NC'

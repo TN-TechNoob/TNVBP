@@ -1,0 +1,16 @@
+filename = 'Jade-1.19.1-fabric-8.7.3.jar'
+name = 'Jade 🔍'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '78cfef5dfca89b2ffef1b2c98640425fdd97479d2d15020cd0b4992756a60351b65b32c877f310b11eb437233b233364c6fe4d995ca104c6487b04a395b77897'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/ZASePpsm/Jade-1.19.1-fabric-8.7.3.jar'
+
+[update.modrinth]
+mod-id = 'nvQzSEkH'
+version = 'ZASePpsm'

@@ -1,0 +1,16 @@
+filename = 'iris-mc1.19.2-1.6.11.jar'
+name = 'Iris Shaders'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f1161019af53e49ee06697e1b214567395550984f6481056c6804879242fcc36b5d0b0490258e3f4f1c46cc55d063253881070aa45656e3368e61a96a3c1cd85'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YL57xq9U/versions/LgOJIpIS/iris-mc1.19.2-1.6.11.jar'
+
+[update.modrinth]
+mod-id = 'YL57xq9U'
+version = 'LgOJIpIS'

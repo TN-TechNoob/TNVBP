@@ -1,0 +1,16 @@
+filename = 'animatica-0.5+1.19.jar'
+name = 'Animatica'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.2', '1.19.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c445bc7cb4b235af85193dba03c13142face27b5975558a8a39f81b1f2e98808a3ec528f4113cad076586685adbb2819b42cac0078e426ad07761b81ac76dc53'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.19/animatica-0.5%2B1.19.jar'
+
+[update.modrinth]
+mod-id = 'PRN43VSY'
+version = 'rghK1s60'

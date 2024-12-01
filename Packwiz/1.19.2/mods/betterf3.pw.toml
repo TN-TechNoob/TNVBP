@@ -1,0 +1,16 @@
+filename = 'BetterF3-4.0.1-Fabric-1.19.2.jar'
+name = 'BetterF3'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f37927ccea51a160b1bf3f89a5f81bbe2d0cf984586adc4389a29c21ae0ced88a29c21cad1c87fd056accb7b76deb80347b60e1211b53e6ad8198c79968f983e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8shC1gFX/versions/h7DgRLng/BetterF3-4.0.1-Fabric-1.19.2.jar'
+
+[update.modrinth]
+mod-id = '8shC1gFX'
+version = 'h7DgRLng'
