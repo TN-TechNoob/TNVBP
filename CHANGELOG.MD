@@ -1,6 +1,5 @@
 - **新增**
+    - 1.19.2 LTS版本推出
 - **修復**
 - **更新**
-    - citresewn-1.2.1+1.21.jar -> citresewn-1.2.2+1.21.jar
-    - fzzy_config-0.5.3+1.21.jar -> fzzy_config-0.5.4+1.21.jar
 - **移除**
