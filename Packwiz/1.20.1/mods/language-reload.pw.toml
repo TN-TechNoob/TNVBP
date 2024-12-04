@@ -1,0 +1,16 @@
+filename = 'language-reload-1.7.1+1.20.1.jar'
+name = 'Language Reload'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd10b6ad5f99fb5cc0f39e994e34d1be2294c2eb868f1e9b83158c848a389bd3b3350af7bad0cd38212b92bd60e46bf8b78ee73c6b5d7e9cc87a1ae18ee27d244'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uLbm7CG6/versions/bM6eLTIW/language-reload-1.7.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'uLbm7CG6'
+version = 'bM6eLTIW'
