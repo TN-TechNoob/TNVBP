@@ -1,11 +1,11 @@
 name: 1.19.2 Auto Publish
-on: workflow_dispatch
-env: 
-  MC_VERSION: 1.19.2
+on: 
+  release:
+    types: [published]
 jobs:
   publish-to-modrinth:
     if: github.repository_owner == 'TN-TechNoob'
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     environment: github-actions
     permissions:
       id-token: write
@@ -19,27 +19,31 @@ jobs:
           with:
             name: "Linux 64-bit x86"
             github-token: ${{ secrets.PERSONAL_TOKEN }}
-            repository: packwiz/packwiz
-            run-id: 11331794723
+            repository: TN-TechNoob/packwiz
+            run-id: 12161716944
         - name: Export to packwiz
           run: |
             chmod +x ./packwiz
-            pushd Packwiz/${{ env.MC_VERSION }}
-            ../../packwiz modrinth export -o ../../MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_2 }}.mrpack
+            pushd Packwiz/${{ vars.MC_VERSION }}
+            ../../packwiz modrinth export -o ../../TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
             popd
         - name: Attest mrpack
           id: attest-mrpack
           uses: actions/attest-build-provenance@v1
           with:
-            subject-path: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_2 }}.mrpack
+            subject-path: TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
         - name: Publish to Modrinth
           uses: Kir-Antipov/mc-publish@v3.3
           with:
-            name: TNVBP MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_2 }}
+            name: TNVBP ${{ vars.MC_VERSION }}-${{ github.ref_name }}
             modrinth-id: Ohwb2cTF
             modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-            files: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_2 }}.mrpack
+            files: TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
             loaders: fabric
-            game-versions: ${{ env.MC_VERSION }}
-            version: MC${{ env.MC_VERSION }}-${{ vars.PACK_VERSION_MC1_19_2 }}
-            changelog-file: CHANGELOG.MD
+            game-versions: ${{ vars.MC_VERSION }}
+        - name: Upload to Github
+          uses: Shopify/upload-to-release@v2.0.0
+          with:
+            name: TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
+            path: TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
+            repo-token: ${{ secrets.GITHUB_TOKEN }}
