@@ -18,7 +18,7 @@ jobs:
           uses: actions/download-artifact@v4
           with:
             name: "Linux 64-bit x86"
-            github-token: ${{ secrets.PERSONAL_TOKEN }}
+            github-token: ${{ secrets.GH_PAT }}
             repository: TN-TechNoob/packwiz
             run-id: 12161716944
         - name: Export to packwiz
