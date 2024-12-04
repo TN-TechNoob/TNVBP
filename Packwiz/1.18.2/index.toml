@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "7a6c2ce517feed39d3edd8e5f9d0e3837d73c624ad3d26d8efc395291eadee89"
+hash = "058d8426d573c32e2135d57381bf0e4adc887e7ec2989ae6e2902237fb9032e8"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "f79a8f3f3b9102520c230e4822779eb5421481f98d022eaf6e1828260fab9170"
+hash = "d273bf787ae8b070df7debbce2f0559be6ce53b711a7ef70e0f2ccb18e6f7148"
 metafile = true
 
 [[files]]
