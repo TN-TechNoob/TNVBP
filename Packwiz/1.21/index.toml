@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
+hash = "351926bfc2654935b27c5e40cdcbaf83431660e08cee3aca4e8ae2bd25002575"
 metafile = true
 
 [[files]]
@@ -70,12 +70,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "bb86568b5daae326e5fb8157a9d643ffd7398dde4b663cd2d8b1a922a72f2b9d"
+hash = "a21b667a929121db1467a81af73a99c9d2ad02986fbda2efb16bd9b7e1f37349"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "88787a7c6576d08c2b419449cbc4dd02b8775b5ba7143abc32dc7cbada781963"
+hash = "870b9d01f9c725f6c3b217b920060ffb8d93980fdd7b534896ad39bf05bfe455"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "a331cfae27ee25818e8b27c2a623773c9b82dbd491365e035fdf9869ec6661c1"
 metafile = true
 
 [[files]]
@@ -120,12 +120,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "cdd849e77b02e9e44ed04cf6367c36b7212162d511ff1bfa4a9e75af324f1e0e"
+hash = "6dedf190d70a005f6003654c5ef5dad15f9598de77cecfec43199b9766caf4e5"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "88a820c55f782886fbb3d063b1db33d89c924012b20554cd5aec3d27f3ce1819"
+hash = "2f3087af43b5e686620ca3d629754efe84c2dea12a2a63308d3ad1f4e5feb053"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0f82bc287ba8dc32894114f9cf5c78c8b96ff6e1c19ca4a51e2c468b617c5b91"
+hash = "8331815c29bd19d679046cd7455b2e0bae9bcbae11bf7518379232d7b2f3c8e1"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "7e1a5dfc89f7f8c99397df79d5339e1b920b316c0860ef25d5ba06832455eae9"
+hash = "014d13dae8ec1f22ad8576244e51369ccf8a1a9e1573abce651a25c6fc1e6073"
 metafile = true
 
 [[files]]
@@ -180,12 +180,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9b7a2371de4ca39b009067a20bd71a35100ef87ab16a4b0b34f04fc4ace881f3"
+hash = "1790a5bb7a0df73c0228512355163b8b89b64698c02bcdd16c73aca8cce068eb"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+hash = "4ed6639a3ee7eb1806bcf14e8fc895ad134d11811b20245269441bb80d1828f7"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "69b0045cda21697af714c4546c43d1643e38efaac029bcb3d6bf954870a5a886"
+hash = "b525efa6790cd2722ca971269590271b0e4e5f3dd8433dc39551aeecdfaa05d8"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "f9e2d5a900a99781befbe811b7a55ffb7e3ae9237b51667c32fe013be3eb6676"
+hash = "7253d5724cb84661a266675adc0966df0a41768d7ababd5f5024bc10b0735267"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "46d25a8e0a05576043a0742cf22b8b577f1d93b500f9f3e39ceeda002dbf5e52"
+hash = "b4e8a41733d98cd17d9858a83a509729667e82080346f65d56088288ac1ba7aa"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74d1cc9e24b0727f85565bb43bcfbe39746ecc90661e4d0a27ac45ae750c827c"
+hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
 metafile = true
 
 [[files]]
