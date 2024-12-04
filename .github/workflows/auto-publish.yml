@@ -41,6 +41,7 @@ jobs:
             files: TNVBP_MC${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
             loaders: fabric
             game-versions: ${{ vars.MC_VERSION }}
+            version: MC${{ vars.MC_VERSION }}-${{ github.ref_name }}
         - name: Upload to Github
           uses: Shopify/upload-to-release@v2.0.0
           with:
