@@ -25,25 +25,25 @@ jobs:
           run: |
             chmod +x ./packwiz
             pushd Packwiz/${{ vars.MC_VERSION }}
-            ../../packwiz modrinth export -o ../../TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
+            ../../packwiz modrinth export -o ../../TNVBP_MC${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
             popd
         - name: Attest mrpack
           id: attest-mrpack
           uses: actions/attest-build-provenance@v1
           with:
-            subject-path: TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
+            subject-path: TNVBP_MC${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
         - name: Publish to Modrinth
           uses: Kir-Antipov/mc-publish@v3.3
           with:
-            name: TNVBP ${{ vars.MC_VERSION }}-${{ github.ref_name }}
+            name: TNVBP MC${{ vars.MC_VERSION }}-${{ github.ref_name }}
             modrinth-id: Ohwb2cTF
             modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-            files: TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
+            files: TNVBP_MC${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
             loaders: fabric
             game-versions: ${{ vars.MC_VERSION }}
         - name: Upload to Github
           uses: Shopify/upload-to-release@v2.0.0
           with:
-            name: TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
-            path: TNVBP_${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
+            name: TNVBP_MC${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
+            path: TNVBP_MC${{ vars.MC_VERSION }}-${{ github.ref_name }}.mrpack
             repo-token: ${{ secrets.GITHUB_TOKEN }}
