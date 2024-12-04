@@ -1,0 +1,16 @@
+filename = 'SkinShuffle-2.3.0+1.20.1.jar'
+name = 'Skin Shuffle'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'adf00f5fb5ea0e09cded3bc1a60971bd0d54df3a0c84b45d7c88a0393495d0bc2c3d37efc8b57526f6ec243b63d90fc8940deebba777f3109d005ea6b0ab7810'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3s19I5jr/versions/CQR5OaDe/SkinShuffle-2.3.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = '3s19I5jr'
+version = 'CQR5OaDe'
