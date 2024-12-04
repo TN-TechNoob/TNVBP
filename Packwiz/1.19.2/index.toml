@@ -270,7 +270,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ebba21a12f36a3037e03bb4855a144cf5da056bb46a5397f803c455af95b0f5b"
-
-[[files]]
-file = "options_bak.txt"
-hash = "155a912bce32ab52ed5e15ae527072a188ae8d8a50ba1b215c502cf441de1f4e"
