@@ -2,7 +2,7 @@ name: Update MC_VERSION Based on Branch Name
 on:
   pull_request:
     types:
-      - closed
+      - opened
 jobs:
   update-mc-version:
     if: github.repository_owner == 'TN-TechNoob'
