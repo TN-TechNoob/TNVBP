@@ -1,0 +1,16 @@
+name: Update MC_VERSION Based on Branch Name
+on:
+  pull_request:
+    types:
+      - closed
+jobs:
+  update-mc-version:
+    if: github.repository_owner == 'TN-TechNoob'
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - neme: Set MC_VERSION from branch name
+        run: echo ""
