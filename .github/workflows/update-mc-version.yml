@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
-      - neme: Set MC_VERSION from branch name
-        run: echo ""
+      - run: |
+            gh variable list
+            gh variable set MC_VERSION --body "${GITHUB_REF_NAME}"
+            gh variable list
+        env: 
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
