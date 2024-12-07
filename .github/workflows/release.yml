@@ -64,7 +64,8 @@ jobs:
               files: /tmp/dist/TNVBP_${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
               changelog: |
                 ${{ env.prev }} ~ ${{ env.latest }}
+                
                 ${{ env.commit_log }}
               loaders: fabric
               game-versions: ${{ matrix.mc_version }}
-              version: ${{ env.PACK_VERSION }}
+              version: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
