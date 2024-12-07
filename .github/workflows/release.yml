@@ -21,12 +21,20 @@ jobs:
           - name: Check for changes
             id: check-for-changes
             run: |
-              CHANGED_VERSION=$(git diff --name-only $(git tag --sort version:refname | tail -n 2 | head -n 1) $(git tag --sort version:refname | tail -n 1) -- Packwiz/${{ matrix.mc_version }})
+              PREVIOUS_TAG=$(git tag --sort version:refname | tail -n 2 | head -n 1)
+              LATEST_TAG=$(git tag --sort version:refname | tail -n 1)
+
+              COMMIT_LOG=$(git log --oneline "${PREVIOUS_TAG}".."${LATEST_TAG}" -- Packwiz/${{ matrix.mc_version }})
                 
-              if [ -n $CHANGED_VERSION ]; then
-                echo "changed=true" >> $GITHUB_ENV
+              if [ -n "$COMMIT_LOG" ]; then
+                  echo "Commit Log between $PREVIOUS_TAG and $LATEST_TAG:"
+                  echo "prev=$PREVIOUS_TAG" >> $GITHUB_ENV
+                  echo "latest=$LATEST_TAG" >> $GITHUB_ENV
+                  echo "commit_log=$COMMIT_LOG" >> $GITHUB_ENV
+                  echo "changed=true" >> $GITHUB_ENV
               else
-                echo "changed=false" >> $GITHUB_ENV
+                  echo "No commits found between $PREVIOUS_TAG and $LATEST_TAG."
+                  echo "changed=false" >> $GITHUB_ENV
               fi
           - name: Build Pack
             if: env.changed == 'true'
@@ -53,7 +61,10 @@ jobs:
               name: ${{ env.PACK_VERSION }}
               modrinth-id: Ohwb2cTF
               modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-              files: TTNVBP_${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
+              files: /tmp/dist/TNVBP_${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
+              changelog: |
+                ${{ env.prev }} ~ ${{ env.latest }}
+                ${{ env.commit_log }}
               loaders: fabric
               game-versions: ${{ matrix.mc_version }}
               version: ${{ env.PACK_VERSION }}
