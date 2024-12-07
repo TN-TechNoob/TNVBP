@@ -24,12 +24,12 @@ jobs:
               CHANGED_VERSION=$(git diff --quiet $(git tag --sort version:refname | tail -n 2 | head -n 1) $(git tag --sort version:refname | tail -n 1) Packwiz/${{ matrix.mc_version }})
                 
               if [ $CHANGED_VERSION ]; then
-                echo "changed=false" >> $GITHUB_OUTPUT
+                echo "changed=false" >> $GITHUB_ENV
               else
-                echo "changed=true" >> $GITHUB_OUTPUT
+                echo "changed=true" >> $GITHUB_ENV
               fi
           - name: Build Pack
-            if: steps.check-for-changes.outputs.changed == 'true'
+            if: env.changed == 'true'
             run: |
               sudo apt-get install -y unzip zip curl
               wget -O packwiz.zip "https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip" && unzip ./packwiz.zip && rm -rf ./packwiz.zip
@@ -37,23 +37,23 @@ jobs:
               chmod +x ./packwiz && mv ./packwiz /tmp/packwiz
               pushd Packwiz/${{ matrix.mc_version}}
               PACK_VERSION=$(grep -oP 'version = "\K[^"]+' "pack.toml")
-              echo "PACK_VERSION=$(PACK_VERSION)" >> $GITHUB_ENV
+              echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
               /tmp/packwiz modrinth export -o /tmp/dist/TNVBP_${{ matrix.mc_version}}-$PACK_VERSION.mrpack
               popd
           - name: Attest mrpack
             id: attest-mrpack
-            if: steps.check-for-changes.outputs.changed == 'true'
+            if: env.changed == 'true'
             uses: actions/attest-build-provenance@v1
             with:
               subject-path: /tmp/dist/*
           - name: Publish to Modrinth
-            if: steps.check-for-changes.outputs.changed == 'true'
+            if: env.changed == 'true'
             uses: Kir-Antipov/mc-publish@v3.3
             with:
               name: ${{ env.PACK_VERSION }}
               modrinth-id: Ohwb2cTF
               modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-              files: TNVBP_${{ env.PACK_VERSION }}.mrpack
+              files: TTNVBP_${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
               loaders: fabric
               game-versions: ${{ matrix.mc_version }}
               version: ${{ env.PACK_VERSION }}
