@@ -58,7 +58,7 @@ jobs:
             if: env.changed == 'true'
             uses: Kir-Antipov/mc-publish@v3.3
             with:
-              name: ${{ env.PACK_VERSION }}
+              name: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
               modrinth-id: Ohwb2cTF
               modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
               files: /tmp/dist/TNVBP_${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
