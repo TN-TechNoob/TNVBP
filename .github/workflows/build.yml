@@ -24,15 +24,15 @@ jobs:
         id: check-for-changes
         run: |
           if ${{ github.event_name == 'pull_request' }}; then
-              CHANGED_VERSION=$(git diff --quiet--name-only -r HEAD^1 HEAD Packwiz/${{ matrix.mc_version }})
+              CHANGED_VERSION=$(git diff --name-only HEAD^1 HEAD -- Packwiz/${{ matrix.mc_version }})
           else
-              CHANGED_VERSION=$(git diff --quiet --name-only ${{ github.event.before }} ${{ github.event.after }} Packwiz/${{ matrix.mc_version }})
+              CHANGED_VERSION=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} -- Packwiz/${{ matrix.mc_version }})
           fi
-
-          if [ $CHANGED_VERSION ]; then
-            echo "changed=true" >> $GITHUB_ENV
+            
+          if [ -n "$CHANGED_VERSION" ]; then
+              echo "changed=true" >> $GITHUB_ENV
           else
-            echo "changed=false" >> $GITHUB_ENV
+              echo "changed=false" >> $GITHUB_ENV
           fi
       - name: Build Pack
         if: env.changed == 'true'
