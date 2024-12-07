@@ -30,9 +30,9 @@ jobs:
           fi
 
           if [ $CHANGED_VERSION ]; then
-            echo "changed=false" >> $GITHUB_ENV
-          else
             echo "changed=true" >> $GITHUB_ENV
+          else
+            echo "changed=false" >> $GITHUB_ENV
           fi
       - name: Build Pack
         if: env.changed == 'true'
