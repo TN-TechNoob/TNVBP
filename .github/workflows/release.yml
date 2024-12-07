@@ -21,12 +21,12 @@ jobs:
           - name: Check for changes
             id: check-for-changes
             run: |
-              CHANGED_VERSION=$(git diff --quiet $(git tag --sort version:refname | tail -n 2 | head -n 1) $(git tag --sort version:refname | tail -n 1) Packwiz/${{ matrix.mc_version }})
+              CHANGED_VERSION=$(git diff --name-only $(git tag --sort version:refname | tail -n 2 | head -n 1) $(git tag --sort version:refname | tail -n 1) -- Packwiz/${{ matrix.mc_version }})
                 
-              if [ $CHANGED_VERSION ]; then
-                echo "changed=false" >> $GITHUB_ENV
-              else
+              if [ -n $CHANGED_VERSION ]; then
                 echo "changed=true" >> $GITHUB_ENV
+              else
+                echo "changed=false" >> $GITHUB_ENV
               fi
           - name: Build Pack
             if: env.changed == 'true'
