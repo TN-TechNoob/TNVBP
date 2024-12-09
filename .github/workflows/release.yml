@@ -1,3 +1,5 @@
+name: Release
+
 on: 
     push: 
         tags: 
@@ -24,12 +26,12 @@ jobs:
               PREVIOUS_TAG=$(git tag --sort version:refname | tail -n 2 | head -n 1)
               LATEST_TAG=$(git tag --sort version:refname | tail -n 1)
 
-              COMMIT_LOG=$(git log --oneline "${PREVIOUS_TAG}".."${LATEST_TAG}" -- Packwiz/${{ matrix.mc_version }})
+              COMMIT_LOG=$(git log --pretty='format:[%h](${{ github.server_url }}/${{ github.repository }}/commmit/%H) - %s' "${PREVIOUS_TAG}".."${LATEST_TAG}" -- Packwiz/${{ matrix.mc_version }})
                 
               if [ -n "$COMMIT_LOG" ]; then
                   echo "Commit Log between $PREVIOUS_TAG and $LATEST_TAG:"
-                  echo "prev=$PREVIOUS_TAG" >> $GITHUB_ENV
-                  echo "latest=$LATEST_TAG" >> $GITHUB_ENV
+                  echo "prev=${{ github.server_url }}/${{ github.repository }}/commmit/$PREVIOUS_TAG" >> $GITHUB_ENV
+                  echo "latest=${{ github.server_url }}/${{ github.repository }}/commmit/$LATEST_TAG" >> $GITHUB_ENV
                   echo "commit_log=$COMMIT_LOG" >> $GITHUB_ENV
                   echo "changed=true" >> $GITHUB_ENV
               else
