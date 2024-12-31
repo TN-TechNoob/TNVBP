@@ -198,6 +198,11 @@ hash = "9e9e869a4bc2f6d10cf79af666cb8302dbc188de3e2ae3cd0d7b64ec1330990e"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "e3bda4416fbe13126ec4e23a45453c510d98abc0b6c65fc55544246ce2c12dc2"
 metafile = true
