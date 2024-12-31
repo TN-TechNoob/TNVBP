@@ -243,11 +243,6 @@ hash = "c0b9852efdadeb6331d6a2b84343a3fc7f360391a2b546b71098fca80f7db14a"
 metafile = true
 
 [[files]]
-file = "mods/skinshuffle.pw.toml"
-hash = "04857ee190596f08545ce64716532f3fb9abadf9417329017204ea39991483fc"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8087b7c7b254bfef1bf81c78c5f720398ae5bdfa9f42b31bf673396039dd6c5a"
 metafile = true
