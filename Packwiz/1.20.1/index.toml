@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "18a2aa24dd06954c7158cda565104cd75eac76bd03385149e0de0f7e50ac89b8"
+hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
 metafile = true
 
 [[files]]
@@ -74,12 +74,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f796f1a0686e471d3d96e71483791e948a54b847921a9a8def1bd8f64364ff33"
+hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ab3094b7f85504c6e0e149aa9baeb7d15017249498216c3251ac4820ef2b3ea"
+hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9adb166dcf4d40b81dae783ed5ae90cf46e4f5e251f41c5d58853c4607e5f183"
+hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "a85e1d702e3fe4cd87bfcea1d93b8f1fcccef37d9cb7ea1c6f9e377fc1dbab0f"
+hash = "9e8acfb4a78d7ab91a16321aa432d01c27a62fd60f7ae51a816c63f135bc983f"
 metafile = true
 
 [[files]]
