@@ -1,13 +1,13 @@
 name = "Resourcify"
-filename = "Resourcify (1.18.x-fabric)-1.5.1.jar"
+filename = "Resourcify (1.18.x-fabric)-1.6.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/FurumXqW/Resourcify%20%281.18.x-fabric%29-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/oAhlvH8I/Resourcify%20%281.18.x-fabric%29-1.6.0.jar"
 hash-format = "sha512"
-hash = "56e5c0643a4ce305fcdd0fe7a3d7b9050f560b9619174dab32dda6bbf4888facd0b2166fafa347d706bd56c1977a3bbaf134a76343829597ebc7a5631cf8b5d1"
+hash = "0bd653e7ceb466d64a944bb138992a600131ebf289b96833a635fb81bde9b01b1366cdf141d66d729de909fbbffcbf73afc56532ffb0e17eb94bc46c5a749afb"
 
 [update]
 [update.modrinth]
 mod-id = "RLzHAoZe"
-version = "FurumXqW"
+version = "oAhlvH8I"
