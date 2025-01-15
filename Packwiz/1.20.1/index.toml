@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "06f6cbaf95381911443f034ee5f47f218335fdfb2d5f64686b29b771971978cb"
+hash = "34dd1cbde7b82d5992e010b2e31b2eb0b51c2fd330564a75fcdc907a9795bc49"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "e3bda4416fbe13126ec4e23a45453c510d98abc0b6c65fc55544246ce2c12dc2"
+hash = "77077befda9c8531484703975b697a82b076c16ec968f8fb198c99362a0fced0"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "9e8acfb4a78d7ab91a16321aa432d01c27a62fd60f7ae51a816c63f135bc983f"
+hash = "b96a146dd0ab82bd15fe85dd8450c771f5adf321c98b0a706ce919a65c81c6fd"
 metafile = true
 
 [[files]]
