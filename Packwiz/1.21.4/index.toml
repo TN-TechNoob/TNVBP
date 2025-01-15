@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "2fe5e448a5e773c58e9cef866fbb082bf47d8177eeef751de0b35731fb24fa4a"
+hash = "b784e5f8696199a8ee5b67329c8118e996099eb9ee96269d9c46cac80f1b916d"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "da92e079952ebf170701d92f9e7d96d03363ea50cf1766b78f09361f09258ec2"
+hash = "ff598f555942476705a5691c20d324cb2c0cacd27729424f94a1a34cb29f75d2"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "ea4a96fe1955cc770cab3bb8ae8c7ab6f44fff1e777c74f5c8281f3b1832922f"
+hash = "d80049f4f9438f229920965bfbd1354a23165747a1f84e9b39ab8333bce527c5"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0e9a95a083f93451f24f5b8dd7e00b2d4e5b1bbd5f0eb7278ff3d6e38ab2ce72"
+hash = "96813e2679927717128f9df9b65747c8f93ec76eb976554d8b56d0b9a4baf78f"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "1b812d80c258de13ea6a8a350de0ade098c2296fa2de7270633d9b93475cdcc5"
+hash = "b736ad8457632e01078268f115bf1511da71a9576f9449f81113cf135c950ef0"
 metafile = true
 
 [[files]]
@@ -190,12 +190,12 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "92c372498a7fc3e44d93a5e45acfe77229c288ef85f71ad436596e04f206c730"
+hash = "2f6deeaf10c0cd2fbd24532d8eebb99e43348d3849ef91a197283b06ff697e8a"
 metafile = true
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
-hash = "3a2434c1fd41ebb7b40070a1662a07efa0ba55d5eba3d3b0e8d148ce23ddacae"
+hash = "0f66814bb779487672d4a8063163504f2420daee752f99bcbea275456122180e"
 metafile = true
 
 [[files]]

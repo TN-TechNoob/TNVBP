@@ -1,16 +1,13 @@
-filename = 'WI-Zoom-1.5-MC1.21.4.jar'
-name = 'WI Zoom'
-side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.21.4' ]
-x-prismlauncher-release-type = 'release'
+name = "WI Zoom"
+filename = "WI-Zoom-1.6-MC1.21.4.jar"
+side = "client"
 
 [download]
-hash = 'cf7225397a49c18d0040d94b0b6e43437a19d3288f72cfc08bf839c34d44d88cc3ca2eace1f81996bc138edc50d8f0f4e3a750fab9b9f8ac71d40c07006e8f40'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/o7DitHWP/versions/OhrlMpy2/WI-Zoom-1.5-MC1.21.4.jar'
+url = "https://cdn.modrinth.com/data/o7DitHWP/versions/tOlzaBh2/WI-Zoom-1.6-MC1.21.4.jar"
+hash-format = "sha512"
+hash = "90ade15210c7a0ca3ad7faa215e05795475085e7ba8eff9b973d8fc9a96c63e4ea533221fd6c0df99480fccd205c85052b77161b1bb6f585b28fa65106021d20"
 
+[update]
 [update.modrinth]
-mod-id = 'o7DitHWP'
-version = 'OhrlMpy2'
+mod-id = "o7DitHWP"
+version = "tOlzaBh2"
