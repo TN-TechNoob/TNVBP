@@ -18,8 +18,6 @@ skipMultiplayerWarning:true
 tutorialStep:none
 joinedFirstServer:true
 
-lang:zh_tw
-
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.wi_zoom.zoom:key.keyboard.c
