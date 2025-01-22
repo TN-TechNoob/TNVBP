@@ -74,6 +74,11 @@ hash = "5e894264beab01fbde01a8874d075bb5ad528193924efaa55eff4d2fd11a5e2f"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "fe4b38a0e9f95b5456597a405f644303fe17638e6d382031fb918683a9baffa3"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "f41b34801f65388f15a7448c0ab82d8a4cb2446d771e023a007344ca31094d95"
 metafile = true
@@ -146,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "43a7814ae978b4101ce3996ebe7bf7897afff77cefbe7dca497767552b22be10"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "26af8dd5c551fac4488fc9979cf8616ac71df8dae2a9547c80ef92c6e95d3d05"
 metafile = true
 
 [[files]]
