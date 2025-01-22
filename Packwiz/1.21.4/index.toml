@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f8f6a4d3c8d6eef51a7a4e4fb6cc5cc54edbb739694cc991daeda8e3ee98a553"
+hash = "adc6490f47a277c5738d3bb3798092aef25820f463c41ca4c74bff466bc7fd0e"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a27baece33941978d5810bc12b3c41cf22bf0484009bbc5b0df3aa08ec296293"
+hash = "4c4aa73a3c39122d34c95ca5d2b60c26c81aced32760bde7bb3b9c0dfdfa646c"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f419d8fb92a7567a747f3f448b357c1c31198826ce3e0e61966489561bfdf67"
+hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5ab3b0982ede392ecfb578d0d5d307e10127deba3140c0cfc811c2ded1e1a3cf"
+hash = "57d85950ff52812e642cc62cdb703e1397b5c635e8f159216963b29b0225b2b2"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "462e8fb0a5839c45cf3442f399b296b6d08957cb752bd62cac71c3a1eeaa5079"
+hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
 metafile = true
 
 [[files]]
