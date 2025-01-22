@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6b97831867b0fc81ba1d50f66497605c1013a5413d13029ad4ff682c9ead6ffc"
+hash = "9785349f8a7f87dedf7dea38d2fd7cc51161e254cea0337268424c6a4df8faad"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "ebfbe4c32ae0a45d49b3ac9374bb662bffa7886e48b0b46e2f462f37c88be75a"
+hash = "9189950e68af278daaef951d8ef23b06f567f27d8c9f50df898ac0117d35c93c"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "87a9b7dbae542b57d8773cd18fc57894eaf480e9631224db9cadccdf8dc3f5f0"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "1dbcbae1d06b2f5f8e762153404fbbf3dac1e12d51f4cb2dd04984a92c8c25a3"
+hash = "fb53720ae88ceae5766d15a3e85da6d9ab4648f09c769cc2c68fa30dd8a120ea"
 metafile = true
 
 [[files]]
