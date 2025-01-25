@@ -169,6 +169,11 @@ hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
+metafile = true
+
+[[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
 hash = "6d5975337f3f4faacf14a4ac9eb8977760ece76459ba66eabd44ecfbc921b874"
 metafile = true
