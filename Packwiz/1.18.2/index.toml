@@ -57,11 +57,6 @@ hash = "eb6110e4c7b24e302225c206c0a3c994c91fce14cbc62ff4b89a82589d347798"
 metafile = true
 
 [[files]]
-file = "mods/cubes-with-borders.pw.toml"
-hash = "a1c78b905a56c9c045b367afd6d0f6ee56792918a17d3b98978ca8834d9ecb30"
-metafile = true
-
-[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "d9619229d4b935af33a607b7b1d38e98c6f75d43279a7d655a4c1915a4178b6d"
 metafile = true
