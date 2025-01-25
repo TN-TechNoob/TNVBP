@@ -1,16 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
+file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "44a78c78fd43aa777088a917423f4ea14dbe405f2c79446b8c15d04de528a78c"
 
 [[files]]
-file = "config/sodium-extra-options.json"
+file = "config/yosbr/config/sodium-extra-options.json"
 hash = "0ba7fb55f219b7c02a36f67edee25abbe8c2ebc8f91bd5d8e1e12e69b0c10708"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/yosbr/config/sodium-options.json"
 hash = "5681693b83d98ebad7397abafdbec604eed636336c85bcbdc12bf6a80495b6b9"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "d4a75789896a4f5d90067d599bf371c08b46473a747b3abb3701ca34db5204c5"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -256,7 +260,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "854fde9a34c1f7ef2b07140d5f8d4e90d97f8a80d4e6e1a0124a4c74794492e8"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "d4a75789896a4f5d90067d599bf371c08b46473a747b3abb3701ca34db5204c5"
