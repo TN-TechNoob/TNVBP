@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/sodium-extra-options.json"
+file = "config/yosbr/config/sodium-extra-options.json"
 hash = "7efe95beaa111b8059c9ed42a223e46695bcb8db6e055a73f94bec6cd4b9685f"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/yosbr/config/sodium-options.json"
 hash = "1c4a3423a7048bf84682dd1c9ebf1b3e50fc28a464317a000178c1ddcecde41b"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "13ec348391d75a44342e3dae55c0bb1bb22d51cd366127d6d39ed4ec3fd0c03c"
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
@@ -217,7 +221,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "9114ef636222c33a1e4149c230fc8541bb18864a55594b6fb9e267571ae01191"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "13ec348391d75a44342e3dae55c0bb1bb22d51cd366127d6d39ed4ec3fd0c03c"
