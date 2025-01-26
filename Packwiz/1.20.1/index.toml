@@ -29,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d29740a35beb957121bb1a5d4934f98fbc7256d3c4682257d52368e60effaa7f"
+hash = "85767e8112e440488a02b18545a6a3565097fb54834c0c421eb9e87de00a1380"
 metafile = true
 
 [[files]]
@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "9785349f8a7f87dedf7dea38d2fd7cc51161e254cea0337268424c6a4df8faad"
+hash = "b949a5fa30a0198a928c82a0df032740aad132d54bf7d07b6e91b5e9d2de3819"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b126bd044acd5fdd9d612a4bae43561bd840f6ba783da15d553ceaf5bac73f8e"
+hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "29ebe8defa6795117b3fcb9b5b0f52994754789b1d2e266564238b67be1d64ee"
+hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
 metafile = true
 
 [[files]]
