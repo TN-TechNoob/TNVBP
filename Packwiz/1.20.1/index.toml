@@ -248,6 +248,16 @@ hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "10b6a4137e030a03598f86b28fe03c9001d6eb2accb2668d5d68d7eca9a7f575"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "59f575f2f181805ccc5cba8ff817e5c501319efa5ef6da01084e2912ee0bed0c"
 metafile = true
