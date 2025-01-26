@@ -57,11 +57,6 @@ hash = "2d88434fe7ff251854d593e4b242c11e1d751dded23f198ac3b9d00dd85172f2"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "30f4d82fba9ec64f6ea639de73465573b655f2ac5781541d227f27c580ac8a34"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "ee1e98b40803c9d6d1e032dc4b0424cb958b52364e175e0d5691019c8f3fc784"
 metafile = true
