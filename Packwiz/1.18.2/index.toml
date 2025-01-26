@@ -228,6 +228,11 @@ hash = "c24ef593ece60f41b3aeed694018d99cac1a73f6255f96d2f3ed6c31bd3445e9"
 metafile = true
 
 [[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "9408f416e3505fdebc3f7092b1f1055c81229a234181426e795789bf6262080f"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "c31f26af774e869f7e9304dbb172994cf06595016cd5831f6abd288fbd0cd857"
 metafile = true
