@@ -233,6 +233,11 @@ hash = "9408f416e3505fdebc3f7092b1f1055c81229a234181426e795789bf6262080f"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "a991f3c5c1001e4eb4d2d576167f4818fa5d35458960f4f899a215c187a40d46"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "c31f26af774e869f7e9304dbb172994cf06595016cd5831f6abd288fbd0cd857"
 metafile = true
