@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "44a78c78fd43aa777088a917423f4ea14dbe405f2c79446b8c15d04de528a78c"
-
-[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "0ba7fb55f219b7c02a36f67edee25abbe8c2ebc8f91bd5d8e1e12e69b0c10708"
 
@@ -164,11 +160,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "15a57d24f1ff21f483a586528e0d8610d45c44d2f34d6acb9eae0703062e452c"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "e895f6729d1cde5c91cc62a40fe60d36d11108188cb0bf15a4a31c048dcef70e"
 metafile = true
 
 [[files]]
