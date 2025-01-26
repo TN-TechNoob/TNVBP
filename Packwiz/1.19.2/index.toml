@@ -57,6 +57,11 @@ hash = "b2b995751eaded32d26e3343360abcddc0c1b70dfb48cc2281d0cdebd55c9c71"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "4a422375753771e6e02da21b97fb01f7c857a82ba199704efb4beebb01d5f810"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "ec4084efe5e841ba77356ad95ca39a75f25d1af55824f7dc833a1b60340baf96"
 metafile = true
