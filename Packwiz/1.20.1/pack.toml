@@ -1,12 +1,12 @@
 name = "1.20.1"
 author = "TN_TechNoob"
-version = "v8.0.1"
+version = "v9.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "65b48d0630b2c5a95b0c8bfee6be687ec6f617b997d5cb0741575651f03bbb58"
+hash = "2c9fd66a2d5619b6a32d3e22f578fcaf191cd423da2a76e7353bb3444ef384d8"
 
 [versions]
 fabric = "0.16.10"

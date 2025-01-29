@@ -188,11 +188,6 @@ hash = "515b1bbd8e92bb4ad03a9cd63a28c499f4ebb13fab4716b3e486eb5dd0f3d36c"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "f8879a5a06411d47d27dc543c718307afb95286a0b91a593692b5a5033ade53d"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "83a830577bb6d2e14dd8a1d2e4205ad3bd97c1f6221afab25347edbf84bc2e89"
 metafile = true
