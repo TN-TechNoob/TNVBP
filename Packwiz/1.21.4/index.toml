@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e3550af2fdf8bcb734926839e20a0abd7de777340896ed023466cf743b22b106"
+hash = "fd77c9acb7d638b7cde4bb46b8aac239d808155c51b3e40ebbdeb40a1b80e016"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dd4c3c3ee97fa946926784db25da0b5a9984c9959681f412d6b402cc5bdfc83e"
+hash = "65177e2687bb181a7f5d974c284cd7aa0dcfe1b1761b81b1ce759c7480884af5"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "de71db1e4ff087d579c4340efe7bba4eb5eb148b9521a1d4d526af66de74a7a1"
+hash = "2041332a08d6cb723727bba746a859181c10f6d8a3e9d5d79cc53fd6d6973773"
 metafile = true
 
 [[files]]
@@ -104,12 +104,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "3088bd4bd4613acdb7f15073a3b910d9d9b613e8cd5d034bc3f1d5a1af2d439c"
+hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
 metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "9c81e800ea2f6d6029f3f89b97fad0e499b5fbec89acbe4bf9f15e555b64b6a6"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "189ffd9cebd2dd46397826288ab8946429bdd47e1d43e0000159ebbf34757c25"
+hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "618bc239b9c55be96d4e0e2786149cf0065f2cd0ecd3aa065bd2438ca60dffdb"
+hash = "9e87fa69a09d5532e6e6c8bd17f007a5be2cff3607683294f04bdef67494fbe5"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "819ee0fe48288b330da9bb50056ba377cd4e059ffd1ab48c2f34111b63d2bb77"
+hash = "bccd06a5e9fee3d41ceb1c3746619be49182cc5be4fa9ea271158245e91f5061"
 metafile = true
 
 [[files]]
