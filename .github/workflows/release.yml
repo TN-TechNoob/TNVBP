@@ -44,7 +44,7 @@ jobs:
         if: env.changed == 'true'
         run: |
           sudo apt-get install -y unzip zip curl
-          wget -O packwiz.zip "https://nightly.link/TN-TechNoob/packwiz/actions/runs/12161716944/Linux%2064-bit%20x86.zip" && unzip ./packwiz.zip && rm -rf ./packwiz.zip
+          wget -O packwiz.zip "https://nightly.link/TN-TechNoob/packwiz/actions/runs/13737235409/Linux%2064-bit%20x86.zip" && unzip ./packwiz.zip && rm -rf ./packwiz.zip
           mkdir -p /tmp/dist
           chmod +x ./packwiz && mv ./packwiz /tmp/packwiz
           pushd Packwiz/${{ matrix.mc_version}}
