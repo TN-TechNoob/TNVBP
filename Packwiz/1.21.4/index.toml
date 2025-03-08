@@ -94,12 +94,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2041332a08d6cb723727bba746a859181c10f6d8a3e9d5d79cc53fd6d6973773"
+hash = "22b5b185b7bb958675eec297276e20564befde977e92a7e3438149b1e97a6235"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f293bc44a5350f8c10eca8b634e0f2b7f10aa240bad0239a0735a5631cc00091"
+hash = "c29648a250d8b767119dd0526bc1ddbbdba5b1b29d7c82c1578e506682ca495b"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "c37dcee10bedbb5b6c68c76488d904e9da59431b9d0220566c12ec28c1069212"
+hash = "0c32fe0ba692994312c8934087ea948fb4326cb02412adb646a9f21c37de0ccc"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
+hash = "fe56e851eb796c9a20491ddb6034fb3b51baf762f09b9daecfe756df602e7349"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6ff2d13b8fec782d3a55207c90470591fd5aa36d4fab3562f8334a66cab60ab"
+hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
 metafile = true
 
 [[files]]
