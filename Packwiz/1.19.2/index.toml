@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f14e846437f253d9766cc8be2ab235eaf88e542e2a36053434ad57fe12d91cd9"
+hash = "00f8682073bc573c027baf8b9f03168e0de803de5d31cc6faa3e01d38f3fdabb"
 metafile = true
 
 [[files]]
