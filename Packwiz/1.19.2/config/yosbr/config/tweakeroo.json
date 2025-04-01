@@ -1,0 +1,14 @@
+{
+  "Generic": {
+    "shulkerDisplayRequireShift": false
+  },
+  "GenericHotkeys": {
+    "zoomActivate": {
+      "keys": "C"
+    }
+  },
+  "TweakToggles": {
+    "tweakFlexibleBlockPlacement": true,
+    "tweakZoom": true
+  }
+}
