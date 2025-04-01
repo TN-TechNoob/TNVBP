@@ -20,7 +20,6 @@ joinedFirstServer:true
 
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.wi_zoom.zoom:key.keyboard.c
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
