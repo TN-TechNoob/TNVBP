@@ -268,6 +268,11 @@ hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "9b51c35206dd74dac90e3cc3f2ff9e1c45552500e6a01be183bc64260a0e5815"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "59f575f2f181805ccc5cba8ff817e5c501319efa5ef6da01084e2912ee0bed0c"
 metafile = true
