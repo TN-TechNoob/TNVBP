@@ -143,6 +143,11 @@ hash = "fe0985c7410169318b984421acd7237a1fc7d7c200cae321ac43e482d55dc3e5"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "70f92510abcf2d6be10235637eb40c4280d09cd283c2010eb5cd2cf19bf81d16"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "04f05c2e9a375d5c0a2a2a71ce11cccc2ab1fcf9477235db68c9da2b977a30f1"
 metafile = true
