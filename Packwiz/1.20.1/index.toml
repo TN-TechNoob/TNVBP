@@ -18,6 +18,11 @@ hash = "ea6c3717d879ef17f22b9b24a5e136f398e02caa2b03b91ab694ac9de864e34f"
 metafile = true
 
 [[files]]
+file = "mods/auto-reauth.pw.toml"
+hash = "8c677e681282f62dc0da555146cccb2fc4e6d59516a48f8dbd6da90dc3d8e596"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "93f29cbc24c14587bd5122dff5b894219fdf0da7df5f10a1bdb277492a6844aa"
 metafile = true
