@@ -6,15 +6,6 @@
     "fog_distance": 33
   },
   "extra_settings": {
-    "overlay_corner": "TOP_LEFT",
-    "show_fps": true,
-    "show_f_p_s_extended": true,
     "tutorial_toast": false
-  },
-  "super_secret_settings": {
-    "fetch_sodium_extra_crowdin_translations": true,
-    "sodium_extra_crowdin_project_identifier": "sodium-extra",
-    "fetch_sodium_crowdin_translations": true,
-    "sodium_crowdin_project_identifier": "sodium-fabric"
   }
 }
