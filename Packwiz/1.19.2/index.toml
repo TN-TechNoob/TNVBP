@@ -233,11 +233,6 @@ hash = "c3458e135f705946e9817f2514f7935cfb16c545d429d0c3cf18c24d3cd95440"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "cd26526fed312fa984603f84d2dfe353e7bdcb0c6dd30fc675a8bbd5a2cbf528"
-metafile = true
-
-[[files]]
 file = "mods/simple-shulker-preview.pw.toml"
 hash = "7ca099516434bb52a590f55524ba5998ec824ee45648d8caf4b89bfacc7a1efc"
 metafile = true
