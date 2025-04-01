@@ -218,11 +218,6 @@ hash = "a61df159a04036d8f6a1fbba5b405157696f4580f0f3be6f58cd4768ea2ac0e2"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "462378a073056db5318664f19eb6061fa2ecad66c8827d1fe528ea3ff2f00365"
-metafile = true
-
-[[files]]
 file = "mods/simple-shulker-preview.pw.toml"
 hash = "19b58504b1c51d9138567c806e6b9b9085dbf9facc1f6863449d1f6839aa4857"
 metafile = true
