@@ -1,0 +1,13 @@
+{
+  "Generic": {
+    "shulkerBoxPreview": true,
+    "shulkerDisplayRequireShift": false
+  },
+  "InfoTypeToggles": {
+    "infoFacing": false,
+    "infoFPS": true,
+    "infoPing": true,
+    "infoServerTPS": true,
+    "infoTimeIRL": false
+  }
+}

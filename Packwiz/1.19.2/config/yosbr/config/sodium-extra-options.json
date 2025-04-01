@@ -6,9 +6,6 @@
     "fog_distance": 33
   },
   "extra_settings": {
-    "overlay_corner": "TOP_LEFT",
-    "show_fps": true,
-    "show_f_p_s_extended": true,
     "tutorial_toast": false
   }
 }
