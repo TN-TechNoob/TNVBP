@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "0ba7fb55f219b7c02a36f67edee25abbe8c2ebc8f91bd5d8e1e12e69b0c10708"
+hash = "9739115680442d5323d2d296e775a5dc87c73c8709aa2f9d3c3977ed018165b7"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
