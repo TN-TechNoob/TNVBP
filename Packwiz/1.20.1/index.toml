@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+hash = "fe3e6bdf7ee24ca65e68ffe7110f0eb6c9c27bfcb94b190f63063aba4c7ff2bd"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "b6db84c2fde960f8c358e510a1c9972a0903ff03ed0d004042b2fdf31ac08210"
+hash = "d5d16985f2ed2b9d189b1921822d73d8a1e991eb3ec5245601e6c0a0f18058d9"
 metafile = true
 
 [[files]]
@@ -245,11 +245,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "3ddb90a2f09561136433ce9de60eb0e1c6da64824f4a7d2915ff0473615a7fde"
-metafile = true
-
-[[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "676675b9a64b174d22325bac927c03bdf75edd2f03a0c4205f712550b5a1633f"
 metafile = true
 
 [[files]]
@@ -264,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+hash = "196310c8f35ff43df20828f78aeaa532c62faa036c58a913ca9d419cfa39c2d4"
 metafile = true
 
 [[files]]
@@ -290,11 +285,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "59f575f2f181805ccc5cba8ff817e5c501319efa5ef6da01084e2912ee0bed0c"
-metafile = true
-
-[[files]]
-file = "mods/wi-zoom.pw.toml"
-hash = "44d8c335a317321656239b2dd2a90ade818d71f6f3b2de46467feb5442677c52"
 metafile = true
 
 [[files]]
