@@ -258,11 +258,6 @@ hash = "c31f26af774e869f7e9304dbb172994cf06595016cd5831f6abd288fbd0cd857"
 metafile = true
 
 [[files]]
-file = "mods/wi-zoom.pw.toml"
-hash = "4781e0d515f7915d8e34ad54621cb7d49341492f423890f2740158f55613a72c"
-metafile = true
-
-[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "854fde9a34c1f7ef2b07140d5f8d4e90d97f8a80d4e6e1a0124a4c74794492e8"
 metafile = true
