@@ -1,16 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "3072aa11aa4f532260c80d9794743f478ed5cdda46f1f74c8d51a518188601cd"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "7efe95beaa111b8059c9ed42a223e46695bcb8db6e055a73f94bec6cd4b9685f"
+hash = "9739115680442d5323d2d296e775a5dc87c73c8709aa2f9d3c3977ed018165b7"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "5681693b83d98ebad7397abafdbec604eed636336c85bcbdc12bf6a80495b6b9"
 
 [[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "0a6af299baf0ef358ca1230d80fe6492fd30dc839730b737e2bb58ab61fdb777"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "01e3bc976d7eec91a11914404d93a5c50160c68c989a0e909b900a780062d882"
+hash = "885f3bd4d5cbef58a9c0dadae9edac5f0e799872e9f1a01ca080df2e6fa24b63"
 
 [[files]]
 file = "mods/animatica.pw.toml"
