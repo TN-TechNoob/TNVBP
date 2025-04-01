@@ -133,6 +133,16 @@ hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "ab73712b95dc33bc4c1e706f480cd5a81e23b18d29960296308116a993a7f834"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "41bd4345c478676ae4a47858ac052797e867ebf1427839cfead9e5981b2ba97e"
 metafile = true
