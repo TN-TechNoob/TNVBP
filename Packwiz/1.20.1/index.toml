@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "7fb30b0bc18ed74e5be6bbaf09b94bc248fb83c90ca15c160c5857f806e91375"
+hash = "a80080c4b49817ac52821751afb4b87fefc6debcecba3b5c90283b4e6f668de8"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
+hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
 metafile = true
 
 [[files]]
