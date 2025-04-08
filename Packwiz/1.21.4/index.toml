@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "f8b0dc7ec5e2e58fdf6dff4445bbfaac0e305834eaa7c73ff084aae306df30d5"
+hash = "8c44562edf09960117d529e89343c7e591a27779e5c2e789884a5b04671aaca2"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
+hash = "18677747bc547d16bed5542b30691c6c7cdfa203e88c156ab367accd01273b93"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c2dbd2ace01c31f288a80142d688d8b2d04f552f3c7d6589a738c61cda55807f"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
