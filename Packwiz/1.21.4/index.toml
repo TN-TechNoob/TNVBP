@@ -1,16 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/itemscroller.json"
+hash = "fdb7e393d50f535437f00a8972af016f919721be7e7e3e5a6c320e69fb8d9241"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "ef609fe3985a11a26030cfeb07cd1ed195281428c0d495ce37c9200cbf8c5d65"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "7efe95beaa111b8059c9ed42a223e46695bcb8db6e055a73f94bec6cd4b9685f"
+hash = "9739115680442d5323d2d296e775a5dc87c73c8709aa2f9d3c3977ed018165b7"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "1c4a3423a7048bf84682dd1c9ebf1b3e50fc28a464317a000178c1ddcecde41b"
 
 [[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "0a6af299baf0ef358ca1230d80fe6492fd30dc839730b737e2bb58ab61fdb777"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "13ec348391d75a44342e3dae55c0bb1bb22d51cd366127d6d39ed4ec3fd0c03c"
+hash = "e127b2d7054bcca05610cb6212736b860d41cf2559cbdd7e611fa2003915f8a9"
 
 [[files]]
 file = "mods/auto-reauth.pw.toml"
@@ -30,11 +42,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
-metafile = true
-
-[[files]]
-file = "mods/caramel-chat.pw.toml"
-hash = "c3399fd85bd62065bdaabb48fdf31f483e576057902ece90cb57ae600eb91661"
 metafile = true
 
 [[files]]
