@@ -1,16 +1,13 @@
-filename = 'IAS-Fabric-1.19.2-9.0.2-alpha.1.jar'
-name = 'In-Game Account Switcher'
-side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.19.1', '1.19.2' ]
-x-prismlauncher-release-type = 'alpha'
+name = "In-Game Account Switcher"
+filename = "IAS-Fabric-1.19.2-9.0.2.jar"
+side = "client"
 
 [download]
-hash = '906f2f1a24365208bb6bbba613c00f3144417ff7d0933fb387b1c3931e39df551868851817007110f043c8a3f2d2bffcffc4b472dff228896e58963d00ffdbf2'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/cudtvDnd/versions/yVWPUiEv/IAS-Fabric-1.19.2-9.0.2-alpha.1.jar'
+url = "https://cdn.modrinth.com/data/cudtvDnd/versions/4mYhTtpf/IAS-Fabric-1.19.2-9.0.2.jar"
+hash-format = "sha512"
+hash = "6178894f221452da2b3fef2dcc44b406bece67ea8651f823da8ba98ad2d7600937350d51ea18c4f0dd75754d6a74b7c677055acd61d067e67ba2ef0860c78000"
 
+[update]
 [update.modrinth]
-mod-id = 'cudtvDnd'
-version = 'yVWPUiEv'
+mod-id = "cudtvDnd"
+version = "4mYhTtpf"
