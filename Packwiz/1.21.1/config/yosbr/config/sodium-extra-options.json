@@ -1,0 +1,11 @@
+{
+  "animation_settings": {
+    "portal": false
+  },
+  "render_settings": {
+    "fog_distance": 33
+  },
+  "extra_settings": {
+    "tutorial_toast": false
+  }
+}
