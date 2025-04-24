@@ -245,6 +245,11 @@ hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "27a11ffa5d6172ef941c23b18d83216818ead38f7c28b7302327971dc40cd8a4"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "0bfe8d0a4dc04d45a0b3c1efdc283f9482a1f1a6f5380cf50138ac3f49113ffa"
 metafile = true
