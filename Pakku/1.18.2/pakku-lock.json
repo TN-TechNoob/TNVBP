@@ -505,7 +505,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+                    "file_name": "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
                     "mc_versions": [
                         "1.14",
                         "1.14.1",
@@ -549,16 +549,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
-                    "id": "E4WyjCxJ",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/iqWDz8qt/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+                    "id": "iqWDz8qt",
                     "parent_id": "Ha28R6CL",
                     "hashes": {
-                        "sha512": "875c8ea380dce07c8a3dd5249226265745d3fc84876e2f1b235ce99084aa991f7d08c05ab12d73a3209649e3bd4d7c407b96d4b4f4a332179d40afdae836a92f",
-                        "sha1": "2dee22babe2a1f50fac96a115e9ec77e8b6758c1"
+                        "sha512": "805eb96067560fa8acc8fcc7dbfba4ad8eed1a2bc9b46566e184f122533fdff844288f3df635762e1af927a4efe8989e9f11007a24bcdc73a32fc2dbebd720c3",
+                        "sha1": "848dd463bc9d75de4c519dff30cfc0666ead10d6"
                     },
                     "required_dependencies": [],
-                    "size": 7159151,
-                    "date_published": "2025-03-21T08:55:27.595588Z"
+                    "size": 7163558,
+                    "date_published": "2025-05-14T07:49:20.408120Z"
                 }
             ]
         },
@@ -1599,7 +1599,8 @@
                         "25w16a",
                         "25w17a",
                         "25w18a",
-                        "25w19a"
+                        "25w19a",
+                        "25w20a"
                     ],
                     "loaders": [
                         "fabric",
