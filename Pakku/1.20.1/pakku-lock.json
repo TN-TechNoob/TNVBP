@@ -501,7 +501,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+                    "file_name": "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
                     "mc_versions": [
                         "1.14",
                         "1.14.1",
@@ -545,16 +545,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
-                    "id": "E4WyjCxJ",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/iqWDz8qt/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+                    "id": "iqWDz8qt",
                     "parent_id": "Ha28R6CL",
                     "hashes": {
-                        "sha512": "875c8ea380dce07c8a3dd5249226265745d3fc84876e2f1b235ce99084aa991f7d08c05ab12d73a3209649e3bd4d7c407b96d4b4f4a332179d40afdae836a92f",
-                        "sha1": "2dee22babe2a1f50fac96a115e9ec77e8b6758c1"
+                        "sha512": "805eb96067560fa8acc8fcc7dbfba4ad8eed1a2bc9b46566e184f122533fdff844288f3df635762e1af927a4efe8989e9f11007a24bcdc73a32fc2dbebd720c3",
+                        "sha1": "848dd463bc9d75de4c519dff30cfc0666ead10d6"
                     },
                     "required_dependencies": [],
-                    "size": 7159151,
-                    "date_published": "2025-03-21T08:55:27.595588Z"
+                    "size": 7163558,
+                    "date_published": "2025-05-14T07:49:20.408120Z"
                 }
             ]
         },
@@ -1701,7 +1701,8 @@
                         "25w16a",
                         "25w17a",
                         "25w18a",
-                        "25w19a"
+                        "25w19a",
+                        "25w20a"
                     ],
                     "loaders": [
                         "fabric",
@@ -1972,7 +1973,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "modernfix-fabric-5.21.0+mc1.20.1.jar",
+                    "file_name": "modernfix-fabric-5.22.0+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1980,16 +1981,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/srmUM7tY/modernfix-fabric-5.21.0+mc1.20.1.jar",
-                    "id": "srmUM7tY",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/62vS6mpx/modernfix-fabric-5.22.0+mc1.20.1.jar",
+                    "id": "62vS6mpx",
                     "parent_id": "nmDcB62a",
                     "hashes": {
-                        "sha512": "6b9d55e23c801e0a697237906b4a1df70a6d5795b774aa6e0c81cdab9b6d6c677c10ee0df840cdd010867d8128558ae791dc5042256828b9942a85c6baae403f",
-                        "sha1": "20d3ac96877b52e82dc52e42115a51dc3c2d4192"
+                        "sha512": "da4f7e62a75ff2ce6f63f76abebc28af183e2e57bcbb3a561bbda15769d868951f8a80c7ceb5162e7894417c065a40f5362dac8bd79b4e69850a0505f05c563c",
+                        "sha1": "07572d50026bfa96db39e171e0ef03633138a032"
                     },
                     "required_dependencies": [],
-                    "size": 507598,
-                    "date_published": "2025-04-06T19:29:01.515467Z"
+                    "size": 525109,
+                    "date_published": "2025-05-16T01:53:48.584350Z"
                 }
             ]
         },
