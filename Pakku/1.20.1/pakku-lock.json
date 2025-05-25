@@ -1973,7 +1973,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "modernfix-fabric-5.22.0+mc1.20.1.jar",
+                    "file_name": "modernfix-fabric-5.23.0+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1981,16 +1981,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/62vS6mpx/modernfix-fabric-5.22.0+mc1.20.1.jar",
-                    "id": "62vS6mpx",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/aFbw9h3x/modernfix-fabric-5.23.0+mc1.20.1.jar",
+                    "id": "aFbw9h3x",
                     "parent_id": "nmDcB62a",
                     "hashes": {
-                        "sha512": "da4f7e62a75ff2ce6f63f76abebc28af183e2e57bcbb3a561bbda15769d868951f8a80c7ceb5162e7894417c065a40f5362dac8bd79b4e69850a0505f05c563c",
-                        "sha1": "07572d50026bfa96db39e171e0ef03633138a032"
+                        "sha512": "051a13971dc1bc7534c5090bd48934771ae4229bc1ed1e93c6376156cc848da0d3c94b3c68e09b48e7fd1b19ab6d90d8708a713a739dad2daf3b85c6a9b0da9c",
+                        "sha1": "ee2a9f6ef1c038e6644f46af80f6ac2d6eda114b"
                     },
                     "required_dependencies": [],
-                    "size": 525109,
-                    "date_published": "2025-05-16T01:53:48.584350Z"
+                    "size": 530696,
+                    "date_published": "2025-05-19T20:50:21.067068Z"
                 }
             ]
         },
