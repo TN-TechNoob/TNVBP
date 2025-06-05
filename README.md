@@ -1,6 +1,5 @@
 ![TNVBP Banner](https://cdn.modrinth.com/data/Ohwb2cTF/images/93c0b00c68e304e503a976353e865c4fda87c313.png)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/Ohwb2cTF?label=Downloads&logo=modrinth&style=flat-square)
-![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/Ohwb2cTF?logo=modrinth&style=flat-square)
 [![Discord](https://img.shields.io/discord/607123183249653770?label=Discord&logo=discord&style=flat-square)](https://discord.gg/Yj9WH3P8RN)
 
 <details>
@@ -170,10 +169,10 @@
     <pre><code>-XX:+UseZGC -XX:+ZGenerational -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+PerfDisableSharedMem -XX:+UseDynamicNumberOfGCThreads</code></pre>
 </ul>
 
-<h3>Issues Report</h3>
+<h3>Issue Report or Suggestion</h3>
 <ul>
-    <li>If you have any questions or suggestions about modpack, please DM my Discord: tn_technoob</li>
-    <li>Or report at my Discord group: <a href="https://discord.gg/Yj9WH3P8RN">TNSU丨TechNoob's Space Utopia</a></li>
+    <li><a href="https://github.com/TN-TechNoob/TNVBP/issues">Github Issue Tracker</a></li>
+    <li>Discord Server: <a href="https://discord.gg/Yj9WH3P8RN">TNSU丨TechNoob's Space Utopia</a></li>
 </ul>
 
 </details>
@@ -339,10 +338,10 @@
     <pre><code>-XX:+UseZGC -XX:+ZGenerational -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+PerfDisableSharedMem -XX:+UseDynamicNumberOfGCThreads</code></pre>
 </ul>
 
-<h3>問題回報</h3>
+<h3>問題/意見回報</h3>
 <ul>
-    <li>若對模組包有任何問題和建議歡迎私訊我Discord：tn_technoob</li>
-    <li>或到我的 Discord 群 <a href="https://discord.gg/Yj9WH3P8RN">TNSU丨塔可努的太空烏托邦</a> 回報</li>
+    <li><a href="https://github.com/TN-TechNoob/TNVBP/issues">Github Issues Tracker</a></li>
+    <li>Discord 群：<a href="https://discord.gg/Yj9WH3P8RN">TNSU丨塔可努的太空烏托邦</a></li>
 </ul>
 
 <h3>支持塔可努丨TechNoob (ECPay綠界科技)</h3>
