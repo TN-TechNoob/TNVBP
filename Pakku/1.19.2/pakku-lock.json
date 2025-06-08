@@ -2284,43 +2284,6 @@
             ]
         },
         {
-            "pakku_id": "hfahQ3gX4nyiUj3z",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "servercore"
-            },
-            "name": {
-                "modrinth": "ServerCore"
-            },
-            "id": {
-                "modrinth": "4WWQxlQP"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "servercore-fabric-1.3.6+1.19.2.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/o4TGWM7w/servercore-fabric-1.3.6+1.19.2.jar",
-                    "id": "o4TGWM7w",
-                    "parent_id": "4WWQxlQP",
-                    "hashes": {
-                        "sha512": "c7057d27bcb38d0ddb313fa8bb12b694d5f0b9e42563f6a4732ee43ce48ec3a2116fac307f09c46bf6062107381385988b8622d6952b80fd75045e7ecbe6ef8c",
-                        "sha1": "443ef93c8829beae1243491674568032ebec64aa"
-                    },
-                    "required_dependencies": [],
-                    "size": 735212,
-                    "date_published": "2024-08-22T09:46:36.368501Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "KBNqOoiWePGkHfka",
             "type": "MOD",
             "side": "CLIENT",
