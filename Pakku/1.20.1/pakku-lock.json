@@ -464,7 +464,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.92.5+1.20.1.jar",
+                    "file_name": "fabric-api-0.92.6+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -472,16 +472,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/PB9Kjpo3/fabric-api-0.92.5+1.20.1.jar",
-                    "id": "PB9Kjpo3",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/UapVHwiP/fabric-api-0.92.6+1.20.1.jar",
+                    "id": "UapVHwiP",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "e42bf30f4c60d7e3b07579b3ecc1aed345dc76dd72633514c9df6e801e9753a582abe7d722797a0045d46ea860029bf138a301ec30397eb151a0611cea1069e7",
-                        "sha1": "3687efabc473ea26b3bf745e89aaaf413b639eb1"
+                        "sha512": "2bd2ed0cee22305b7ff49597c103a57c8fbe5f64be54a906796d48b589862626c951ff4cbf5cb1ed764a4d6479d69c3077594e693b7a291240eeea2bb3132b0c",
+                        "sha1": "3ec0a88b64f252257df6287e9a1d47ed96331e5d"
                     },
                     "required_dependencies": [],
-                    "size": 2107841,
-                    "date_published": "2025-03-19T09:56:38.606159Z"
+                    "size": 2107873,
+                    "date_published": "2025-05-31T13:33:53.630099Z"
                 }
             ]
         },
@@ -797,7 +797,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fzzy_config-0.6.9+1.20.1.jar",
+                    "file_name": "fzzy_config-0.7.0+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -806,19 +806,19 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/9fnoYC1X/fzzy_config-0.6.9+1.20.1.jar",
-                    "id": "9fnoYC1X",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/tbpj74o7/fzzy_config-0.7.0+1.20.1.jar",
+                    "id": "tbpj74o7",
                     "parent_id": "hYykXjDp",
                     "hashes": {
-                        "sha512": "0c99b0ba8780e14ce28fc8bb250c0156d177cca355f8e64df8d695e0473df6c99a9fc80ea34b9c034a134e70c08befff9e0215e1d16efad9bc3f7565df42f2c5",
-                        "sha1": "be059a15638f44a6486569aef8ca3e0a83acaec1"
+                        "sha512": "d6fbad0e32508fe0f33719610d6c70548e5f4cafc3eb359b93ff58ed3a4346895c8a5fc0b38b739b5ca0cb3512d63a7c453f1a2c325df5928fad3f0992520497",
+                        "sha1": "bd952feb3885966d66b4d53ab9eb9689b28e6384"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "Ha28R6CL"
                     ],
-                    "size": 2149833,
-                    "date_published": "2025-04-09T23:23:32.330984Z"
+                    "size": 2207440,
+                    "date_published": "2025-05-27T00:01:06.322943Z"
                 }
             ]
         },
@@ -1702,7 +1702,11 @@
                         "25w17a",
                         "25w18a",
                         "25w19a",
-                        "25w20a"
+                        "25w20a",
+                        "25w21a",
+                        "1.21.6-pre1",
+                        "1.21.6-pre2",
+                        "1.21.6-pre3"
                     ],
                     "loaders": [
                         "fabric",
@@ -1973,7 +1977,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "modernfix-fabric-5.23.0+mc1.20.1.jar",
+                    "file_name": "modernfix-fabric-5.23.1+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1981,16 +1985,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/aFbw9h3x/modernfix-fabric-5.23.0+mc1.20.1.jar",
-                    "id": "aFbw9h3x",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/sHT8jMZl/modernfix-fabric-5.23.1+mc1.20.1.jar",
+                    "id": "sHT8jMZl",
                     "parent_id": "nmDcB62a",
                     "hashes": {
-                        "sha512": "051a13971dc1bc7534c5090bd48934771ae4229bc1ed1e93c6376156cc848da0d3c94b3c68e09b48e7fd1b19ab6d90d8708a713a739dad2daf3b85c6a9b0da9c",
-                        "sha1": "ee2a9f6ef1c038e6644f46af80f6ac2d6eda114b"
+                        "sha512": "8d34f6907b2e5718bdc74b18a90908ab0ce682eeda44f67318917162e99dcb8f78ddbf6da3ce7411859b2a1733f88a0f4c03eb9b124841d29df6efaf0bfd5b7b",
+                        "sha1": "a686ecb5f4d610d1e5f0891df4a8f894ac5768fb"
                     },
                     "required_dependencies": [],
-                    "size": 530696,
-                    "date_published": "2025-05-19T20:50:21.067068Z"
+                    "size": 530761,
+                    "date_published": "2025-06-03T01:41:18.953273Z"
                 }
             ]
         },
@@ -2262,7 +2266,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Resourcify (1.20.1-fabric)-1.7.1.jar",
+                    "file_name": "Resourcify (1.20.1-fabric)-1.7.2.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -2272,19 +2276,19 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/37XKrVZu/Resourcify (1.20.1-fabric)-1.7.1.jar",
-                    "id": "37XKrVZu",
+                    "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/ZNJXxcKq/Resourcify (1.20.1-fabric)-1.7.2.jar",
+                    "id": "ZNJXxcKq",
                     "parent_id": "RLzHAoZe",
                     "hashes": {
-                        "sha512": "10c22b5014996dfddbcc2412030ad66a64065a9c53ebd8cb81076fef525d28a841f912f6d67914e7fdf31eb965982076bc0b99a9c7c0aace428a47c2e9f0bb60",
-                        "sha1": "0a325ef0cb6d0f4c718fcd27dd00c623b4048b39"
+                        "sha512": "d38ca51861852601148668b16586eda9fe98065576b60b23791564802e15fa9feb1928f40f218c53e0f82df54c40f053b81fb9f4e442763ad2d17e29d691fb81",
+                        "sha1": "362a308578aa021b710e4bdaa2ced677e0502254"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 2366870,
-                    "date_published": "2025-03-02T13:53:27.073914Z"
+                    "size": 2543187,
+                    "date_published": "2025-05-28T17:27:12.084742Z"
                 }
             ]
         },
