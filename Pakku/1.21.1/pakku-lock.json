@@ -8,6 +8,44 @@
     },
     "projects": [
         {
+            "pakku_id": "1vjx8DwChi5aQiV5",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "auth-me"
+            },
+            "name": {
+                "modrinth": "Auth Me"
+            },
+            "id": {
+                "modrinth": "yjgIrBjZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "authme-fabric-9.0.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/D0QqKqZn/authme-fabric-9.0.1+1.21.1.jar",
+                    "id": "D0QqKqZn",
+                    "parent_id": "yjgIrBjZ",
+                    "hashes": {
+                        "sha512": "c207cf1abe1058e2c00cd37c787834e2d7742c762d97e2b20edfba285f68f6e160cca1f80b205fab87e4c78379ba1a68d1a6b65606a71af2b68ed70ccbd69ffc",
+                        "sha1": "0e6e2f5e4bdbb7c29401e9435ee71f4ed8549838"
+                    },
+                    "required_dependencies": [],
+                    "size": 367160,
+                    "date_published": "2025-02-10T10:49:45.401481Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "mzdFrA4hGMV6eDGx",
             "type": "MOD",
             "side": "CLIENT",
