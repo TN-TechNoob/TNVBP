@@ -53,6 +53,49 @@
             ]
         },
         {
+            "pakku_id": "U94heP3CW5OqGYHH",
+            "pakku_links": [
+                "oggjfiR1vZZRFnxY"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "auth-me"
+            },
+            "name": {
+                "modrinth": "Auth Me"
+            },
+            "id": {
+                "modrinth": "yjgIrBjZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "authme-mc1.19.2-4.2.0.jar",
+                    "mc_versions": [
+                        "1.19.1",
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/X5k3gLRb/authme-mc1.19.2-4.2.0.jar",
+                    "id": "X5k3gLRb",
+                    "parent_id": "yjgIrBjZ",
+                    "hashes": {
+                        "sha512": "3436c9264d09bb1dedda81756bbb7ae71b68bb2e47e1f64b0aedb9093ca114df1263b6bb144607d3c1a96fedefd9885cf4ef8860ba11ed4b5142b3fd1ea9e256",
+                        "sha1": "16a99205b99e78d8c716c25b257fa5c42696f366"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1245095,
+                    "date_published": "2022-10-08T14:45:18.869982Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xLtayUiw0LOAo3xQ",
             "type": "MOD",
             "side": "CLIENT",
