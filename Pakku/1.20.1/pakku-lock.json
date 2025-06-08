@@ -865,46 +865,6 @@
             ]
         },
         {
-            "pakku_id": "V4LVvW1QIg9Tlwoc",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "in-game-account-switcher"
-            },
-            "name": {
-                "modrinth": "In-Game Account Switcher"
-            },
-            "id": {
-                "modrinth": "cudtvDnd"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "IAS-Fabric-1.20.1-9.0.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/cudtvDnd/versions/3tiNXNPB/IAS-Fabric-1.20.1-9.0.2.jar",
-                    "id": "3tiNXNPB",
-                    "parent_id": "cudtvDnd",
-                    "hashes": {
-                        "sha512": "40d1ae2d3cfb450c68bdfc04492efa0133caf402c4f494fdb1dc2fa6867a31d8ec08085d2f616485346e34cedd4b1955b96ed25762fc173b8e16e01165bca512",
-                        "sha1": "281be4bf77877a593f9a10485bd0416bcbde5fac"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 310467,
-                    "date_published": "2025-04-05T16:41:03.996356Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "eUlDltomAieUtGwY",
             "pakku_links": [
                 "HoKfmwr2CwFYX8Hs"
