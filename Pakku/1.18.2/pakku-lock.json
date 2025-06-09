@@ -495,6 +495,45 @@
             ]
         },
         {
+            "pakku_id": "4F0ytSnHt5SuKMAp",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "exordium"
+            },
+            "name": {
+                "modrinth": "Exordium"
+            },
+            "id": {
+                "modrinth": "DynYZEae"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "exordium-fabric-1.0.1-mc1.18.2.jar",
+                    "mc_versions": [
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DynYZEae/versions/jWOt1f90/exordium-fabric-1.0.1-mc1.18.2.jar",
+                    "id": "jWOt1f90",
+                    "parent_id": "DynYZEae",
+                    "hashes": {
+                        "sha512": "5445f0cf8ff77ceaadeda83b3348c644882c6d83b539d348a636a162fd9060c65b48a7672718d1f36b7e84d1dd161f2dfc0736e502c38aad59ae5f63744e3353",
+                        "sha1": "5f1e8064d303eef366f7e2fc8599cdf2a6254843"
+                    },
+                    "required_dependencies": [],
+                    "size": 132957,
+                    "date_published": "2022-09-27T19:52:25.514614Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "css5TQnEsnp9ezGi",
             "type": "MOD",
             "side": "CLIENT",
