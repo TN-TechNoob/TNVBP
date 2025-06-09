@@ -24,6 +24,10 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.unknown
+key_key.jade.config:key.keyboard.unknown
+key_key.jade.show_overlay:key.keyboard.unknown
+key_key.jade.toggle_liquid:key.keyboard.unknown
+key_key.jade.narrate:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
