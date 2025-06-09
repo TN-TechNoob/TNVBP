@@ -128,7 +128,7 @@
         {
             "pakku_id": "PWFaajwMMMoGfLGR",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "carpet"
             },
