@@ -95,49 +95,6 @@
             ]
         },
         {
-            "pakku_id": "RLNw5DqXN9dmpphq",
-            "pakku_links": [
-                "ZFMJnuffktNJl5lo"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "auto-reauth"
-            },
-            "name": {
-                "modrinth": "Auto Reauth"
-            },
-            "id": {
-                "modrinth": "lab8OplF"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "auth-reauth-0.2.0-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/lab8OplF/versions/4dJCRm41/auth-reauth-0.2.0-1.20.1.jar",
-                    "id": "4dJCRm41",
-                    "parent_id": "lab8OplF",
-                    "hashes": {
-                        "sha512": "19ec6b831acebaa01cd872bc112f8af81cb93a13cf2610dd52ae71a89be1f526860e775f2ef9688026e4256e6b9eda15a2d3b1896310d5249f00a6c32a4baf99",
-                        "sha1": "f72b1e88233b2eeb2963160f6609548a1e99178b"
-                    },
-                    "required_dependencies": [
-                        "mOgUt4GM",
-                        "P7dR8mSH"
-                    ],
-                    "size": 68653,
-                    "date_published": "2024-07-26T17:36:18.780135Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "8aBCim0iWT2UXhzA",
             "type": "MOD",
             "side": "CLIENT",
