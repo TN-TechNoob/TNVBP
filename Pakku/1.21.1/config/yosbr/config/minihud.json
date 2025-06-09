@@ -3,6 +3,7 @@
     "shulkerBoxPreview": true,
     "shulkerDisplayRequireShift": false,
     "fontScale": 1.0,
+    "useFontShadow": true,
     "useTextBackground": false,
     "textPosX": 0,
     "textPosY": 20
