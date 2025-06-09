@@ -487,6 +487,48 @@
             ]
         },
         {
+            "pakku_id": "QvhrNpygJPcTcPho",
+            "pakku_links": [
+                "rc5YM1TzWlRc8N8U"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "exordium"
+            },
+            "name": {
+                "modrinth": "Exordium"
+            },
+            "id": {
+                "modrinth": "DynYZEae"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "exordium-fabric-1.4.1-mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DynYZEae/versions/V2cPMZzn/exordium-fabric-1.4.1-mc1.20.1.jar",
+                    "id": "V2cPMZzn",
+                    "parent_id": "DynYZEae",
+                    "hashes": {
+                        "sha512": "fed2f131e436aba05dd149115ee509fb2c02474021bdb2b048528b19fb716c2d0ae6d087e04e6fb5fbc56a33d0c0d88bdf2a1b65cbe0da6181a9b5b142e4be87",
+                        "sha1": "060ff07c4a52ac060b7a90c6eac0412afe2a6b18"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 219439,
+                    "date_published": "2025-01-29T18:01:32.095791Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "rc5YM1TzWlRc8N8U",
             "type": "MOD",
             "side": "CLIENT",
