@@ -126,6 +126,43 @@
             ]
         },
         {
+            "pakku_id": "PWFaajwMMMoGfLGR",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "carpet"
+            },
+            "name": {
+                "modrinth": "Carpet"
+            },
+            "id": {
+                "modrinth": "TQTTVgYE"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "fabric-carpet-1.21.4-1.4.161+v241203.jar",
+                    "mc_versions": [
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/aVB2lYQQ/fabric-carpet-1.21.4-1.4.161+v241203.jar",
+                    "id": "aVB2lYQQ",
+                    "parent_id": "TQTTVgYE",
+                    "hashes": {
+                        "sha512": "fd42f43ae89af7553ee1b8240efda178a05f5b0f45fe359651cea468cfd11fe24996e991c338522f4a17b07b917e9ebda4a5cfa8551fca280c81e536b240a96c",
+                        "sha1": "41d979ea73de8cd42383eb461d45f2a434573c4b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1526554,
+                    "date_published": "2025-02-05T13:44:20.094788Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "BfjEZkIJJD1nfbSh",
             "type": "MOD",
             "side": "CLIENT",
