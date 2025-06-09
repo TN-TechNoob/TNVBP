@@ -1,13 +1,18 @@
 {
   "Generic": {
     "shulkerBoxPreview": true,
-    "shulkerDisplayRequireShift": false
+    "shulkerDisplayRequireShift": false,
+    "fontScale": 1.0,
+    "useTextBackground": false,
+    "textPosX": 0,
+    "textPosY": 20
+
   },
   "InfoTypeToggles": {
-    "infoFPS": true,
-    "infoTimeIRL": false,
     "infoFacing": false,
+    "infoPing": true,
     "infoServerTPS": true,
-    "infoPing": true
+    "infoCoordinates": false,
+    "infoTimeIRL": false
   }
 }
