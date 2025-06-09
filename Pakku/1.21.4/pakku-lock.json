@@ -46,46 +46,6 @@
             ]
         },
         {
-            "pakku_id": "9DaCq0XhIqzRk1M7",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "auto-reauth"
-            },
-            "name": {
-                "modrinth": "Auto Reauth"
-            },
-            "id": {
-                "modrinth": "lab8OplF"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "auto-reauth-0.2.3-1.21.4.jar",
-                    "mc_versions": [
-                        "1.21.4"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/lab8OplF/versions/SahieDV2/auto-reauth-0.2.3-1.21.4.jar",
-                    "id": "SahieDV2",
-                    "parent_id": "lab8OplF",
-                    "hashes": {
-                        "sha512": "45b40fb7158a3f65180d562e6894540453862b0d88ef99aa302aa7dbe80b5aec3249d534a139493bf79b2f42ac7dd28bb937e0dcae1bff096520cd2f51fce6b2",
-                        "sha1": "2ceb79d944f5896f2fcb5488f193a2f94c838278"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "mOgUt4GM"
-                    ],
-                    "size": 69948,
-                    "date_published": "2025-01-29T15:18:09.705528Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "PjTUovscSxsB5Fvd",
             "type": "MOD",
             "side": "CLIENT",
