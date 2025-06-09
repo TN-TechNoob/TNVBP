@@ -498,6 +498,43 @@
             ]
         },
         {
+            "pakku_id": "vQL19uxueNkJ41Ew",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "exordium"
+            },
+            "name": {
+                "modrinth": "Exordium"
+            },
+            "id": {
+                "modrinth": "DynYZEae"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "exordium-fabric-1.0.2-mc1.19.2-hotfix.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DynYZEae/versions/2UOKWlBe/exordium-fabric-1.0.2-mc1.19.2-hotfix.jar",
+                    "id": "2UOKWlBe",
+                    "parent_id": "DynYZEae",
+                    "hashes": {
+                        "sha512": "aa6b14695430965a9467a908798830650cd87f974c6432166631fe4c00582b436d94a2d627da8a6ab24a3556a14c29b72981a7c04c4b36bd7ee95e90d15889ff",
+                        "sha1": "f4b717df1a9e1bfaf7db07728957078c742f9f8d"
+                    },
+                    "required_dependencies": [],
+                    "size": 134003,
+                    "date_published": "2023-05-28T15:03:22.355075Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "oggjfiR1vZZRFnxY",
             "type": "MOD",
             "side": "CLIENT",
