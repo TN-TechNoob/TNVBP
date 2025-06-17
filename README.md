@@ -166,7 +166,7 @@
         </tr>
     </table>
     <h4>JVM arguments</h4>
-    <pre><code>-XX:+UseZGC -XX:+ZGenerational -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+PerfDisableSharedMem -XX:+UseDynamicNumberOfGCThreads</code></pre>
+    <pre><code>-XX:+UseZGC -XX:+ZGenerational</code></pre>
 </ul>
 
 <h3>Issue Report or Suggestion</h3>
@@ -335,7 +335,7 @@
         </tr>
     </table>
     <h4>JVM 參數</h4>
-    <pre><code>-XX:+UseZGC -XX:+ZGenerational -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+PerfDisableSharedMem -XX:+UseDynamicNumberOfGCThreads</code></pre>
+    <pre><code>-XX:+UseZGC -XX:+ZGenerational</code></pre>
 </ul>
 
 <h3>問題/意見回報</h3>
