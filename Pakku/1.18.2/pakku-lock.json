@@ -624,7 +624,8 @@
                         "1.21.2",
                         "1.21.3",
                         "1.21.4",
-                        "1.21.5"
+                        "1.21.5",
+                        "1.21.6"
                     ],
                     "loaders": [
                         "fabric"
@@ -679,48 +680,6 @@
                     ],
                     "size": 46879,
                     "date_published": "2023-07-16T18:33:22.291427Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "XPGD6CJJZy03Jl77",
-            "pakku_links": [
-                "css5TQnEsnp9ezGi"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "nuit"
-            },
-            "name": {
-                "modrinth": "FabricSkyboxes"
-            },
-            "id": {
-                "modrinth": "YBz7DOs8"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "fabricskyboxes-0.7.2+mc1.18.2.jar",
-                    "mc_versions": [
-                        "1.18.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/qZfQOkIm/fabricskyboxes-0.7.2+mc1.18.2.jar",
-                    "id": "qZfQOkIm",
-                    "parent_id": "YBz7DOs8",
-                    "hashes": {
-                        "sha512": "769b54868a846b805bf683f45b8ac0bf86237ceb796f667cdfade78c3930026aab53a1f765f29971ee0b90a22178be3686b0f466601df5a66726150076aa816a",
-                        "sha1": "676fa6eccb61a09fe5719856e6d693e16b3c31a9"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 188494,
-                    "date_published": "2023-07-12T16:11:00.497237Z"
                 }
             ]
         },
@@ -1642,7 +1601,10 @@
                         "25w21a",
                         "1.21.6-pre1",
                         "1.21.6-pre2",
-                        "1.21.6-pre3"
+                        "1.21.6-pre3",
+                        "1.21.6-pre4",
+                        "1.21.6-rc1",
+                        "1.21.6"
                     ],
                     "loaders": [
                         "fabric",
@@ -2029,6 +1991,48 @@
                     ],
                     "size": 1141482,
                     "date_published": "2022-07-31T20:02:23.416406Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "XPGD6CJJZy03Jl77",
+            "pakku_links": [
+                "css5TQnEsnp9ezGi"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "nuit"
+            },
+            "name": {
+                "modrinth": "Nuit (formerly FabricSkyboxes)"
+            },
+            "id": {
+                "modrinth": "YBz7DOs8"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "fabricskyboxes-0.7.2+mc1.18.2.jar",
+                    "mc_versions": [
+                        "1.18.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/qZfQOkIm/fabricskyboxes-0.7.2+mc1.18.2.jar",
+                    "id": "qZfQOkIm",
+                    "parent_id": "YBz7DOs8",
+                    "hashes": {
+                        "sha512": "769b54868a846b805bf683f45b8ac0bf86237ceb796f667cdfade78c3930026aab53a1f765f29971ee0b90a22178be3686b0f466601df5a66726150076aa816a",
+                        "sha1": "676fa6eccb61a09fe5719856e6d693e16b3c31a9"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 188494,
+                    "date_published": "2023-07-12T16:11:00.497237Z"
                 }
             ]
         },
