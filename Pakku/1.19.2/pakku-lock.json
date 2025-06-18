@@ -2292,43 +2292,6 @@
             ]
         },
         {
-            "pakku_id": "UrWDGe6w23DCoqJV",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "server-resource-pack-checker"
-            },
-            "name": {
-                "modrinth": "Server Resourcepack Checker"
-            },
-            "id": {
-                "modrinth": "fCpuZIcM"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "resourcepackchecker-1.19.2-1.0.0.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/fCpuZIcM/versions/j82fQkJK/resourcepackchecker-1.19.2-1.0.0.jar",
-                    "id": "j82fQkJK",
-                    "parent_id": "fCpuZIcM",
-                    "hashes": {
-                        "sha512": "62a8a62249ad73dadb76afd0bfda319b56824c14eb3dc9406a33e435d768281cf086575a7cec2fc7b38274c80595923186d4c97f3c73b8a1788ec962e551e97a",
-                        "sha1": "0439e26ec1ccab776a2b453e8fa5b89f45923f90"
-                    },
-                    "required_dependencies": [],
-                    "size": 28586,
-                    "date_published": "2022-10-11T06:21:30.264183Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "KBNqOoiWePGkHfka",
             "type": "MOD",
             "side": "CLIENT",
