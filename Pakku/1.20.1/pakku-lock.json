@@ -619,7 +619,8 @@
                         "1.21.2",
                         "1.21.3",
                         "1.21.4",
-                        "1.21.5"
+                        "1.21.5",
+                        "1.21.6"
                     ],
                     "loaders": [
                         "fabric"
@@ -678,46 +679,6 @@
                     ],
                     "size": 49495,
                     "date_published": "2023-10-14T02:14:04.202120Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "WD3vBQaaOapiGbGZ",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "nuit"
-            },
-            "name": {
-                "modrinth": "FabricSkyboxes"
-            },
-            "id": {
-                "modrinth": "YBz7DOs8"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "fabricskyboxes-0.7.3+mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/cezLH6eB/fabricskyboxes-0.7.3+mc1.20.1.jar",
-                    "id": "cezLH6eB",
-                    "parent_id": "YBz7DOs8",
-                    "hashes": {
-                        "sha512": "e71c12b81f10b42c06fac9719a2135c6d34f298fb12d926bce9aca6af8655b76ccb31dce9561543499a019e43e93cf4036dc051fe2a97ca2a8fe112f646a99a5",
-                        "sha1": "31a13b9ca0a500b4caad993ec42e1199142d86d1"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 207272,
-                    "date_published": "2023-09-21T17:14:48.403898Z"
                 }
             ]
         },
@@ -1746,7 +1707,10 @@
                         "25w21a",
                         "1.21.6-pre1",
                         "1.21.6-pre2",
-                        "1.21.6-pre3"
+                        "1.21.6-pre3",
+                        "1.21.6-pre4",
+                        "1.21.6-rc1",
+                        "1.21.6"
                     ],
                     "loaders": [
                         "fabric",
@@ -1784,7 +1748,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "language-reload-1.7.3+1.20.1.jar",
+                    "file_name": "language-reload-1.7.4+1.20.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -1794,18 +1758,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/FPUn6G4h/language-reload-1.7.3+1.20.1.jar",
-                    "id": "FPUn6G4h",
+                    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/7g8j3tHH/language-reload-1.7.4+1.20.1.jar",
+                    "id": "7g8j3tHH",
                     "parent_id": "uLbm7CG6",
                     "hashes": {
-                        "sha512": "8e75db1ff5fd5017cb53a011f5dfc7a9548ca7d71964ae63ce6efdfc17118d7488ed290d9c999ff320ba04086a2e84b8a52d4cc4924b6b5edf5aa1ec912a7272",
-                        "sha1": "757f5e55314c50f4cbe6930a94362eb920276e94"
+                        "sha512": "0df0c486b02a86e33a29e48615d5379b5824104a9c34ce76d7072c7cb41a5578e2195fc5bd21c8627869f8101f378b97d620632335dc360e784f67e954ab0290",
+                        "sha1": "7851c30019c35808d40a88782085d6c641bcc091"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 72285,
-                    "date_published": "2025-03-25T23:39:41.903318Z"
+                    "size": 73375,
+                    "date_published": "2025-06-17T17:54:54.790658Z"
                 }
             ]
         },
@@ -2155,6 +2119,46 @@
                     "required_dependencies": [],
                     "size": 214902,
                     "date_published": "2024-08-21T17:24:09.232362Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WD3vBQaaOapiGbGZ",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "nuit"
+            },
+            "name": {
+                "modrinth": "Nuit (formerly FabricSkyboxes)"
+            },
+            "id": {
+                "modrinth": "YBz7DOs8"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "fabricskyboxes-0.7.3+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/cezLH6eB/fabricskyboxes-0.7.3+mc1.20.1.jar",
+                    "id": "cezLH6eB",
+                    "parent_id": "YBz7DOs8",
+                    "hashes": {
+                        "sha512": "e71c12b81f10b42c06fac9719a2135c6d34f298fb12d926bce9aca6af8655b76ccb31dce9561543499a019e43e93cf4036dc051fe2a97ca2a8fe112f646a99a5",
+                        "sha1": "31a13b9ca0a500b4caad993ec42e1199142d86d1"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 207272,
+                    "date_published": "2023-09-21T17:14:48.403898Z"
                 }
             ]
         },
