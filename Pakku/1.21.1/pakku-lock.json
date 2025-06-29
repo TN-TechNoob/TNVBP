@@ -8,6 +8,50 @@
     },
     "projects": [
         {
+            "pakku_id": "PtuKimZSn9d8Rp7Y",
+            "pakku_links": [
+                "zImUjhxowmOArH8U"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "animatica"
+            },
+            "name": {
+                "modrinth": "Animatica"
+            },
+            "id": {
+                "modrinth": "PRN43VSY"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "animatica-0.6.1+1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PRN43VSY/versions/LHBm6fEV/animatica-0.6.1+1.21.jar",
+                    "id": "LHBm6fEV",
+                    "parent_id": "PRN43VSY",
+                    "hashes": {
+                        "sha512": "d8cba8839c2ed329f32f63978e431a75b4e72e506282cf49d151a43302915524c50edbd29af2f5247f479d7456b074011bd768efbd0f4ece311c6e0e2ee0de3c",
+                        "sha1": "fd805fa03e25013b9fe824bf43f7d8a90f565c84"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 71502,
+                    "date_published": "2024-06-14T07:53:35.905476Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "1vjx8DwChi5aQiV5",
             "type": "MOD",
             "side": "CLIENT",
