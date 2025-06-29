@@ -587,7 +587,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+                    "file_name": "fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
                     "mc_versions": [
                         "1.14",
                         "1.14.1",
@@ -632,55 +632,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/iqWDz8qt/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
-                    "id": "iqWDz8qt",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+                    "id": "mccDBWqV",
                     "parent_id": "Ha28R6CL",
                     "hashes": {
-                        "sha512": "805eb96067560fa8acc8fcc7dbfba4ad8eed1a2bc9b46566e184f122533fdff844288f3df635762e1af927a4efe8989e9f11007a24bcdc73a32fc2dbebd720c3",
-                        "sha1": "848dd463bc9d75de4c519dff30cfc0666ead10d6"
+                        "sha512": "26b6b4499bf872ebc2c666227b2ed721ce0e33a8e8b19632971250e5cb6e0b9f35aef15a07ce53cf4755285d9d38c4e05a5f1357bad544d44b9e30b87c0a0055",
+                        "sha1": "2120226cd81107dd52eaf5a9a4607035ff26100c"
                     },
                     "required_dependencies": [],
-                    "size": 7163558,
-                    "date_published": "2025-05-14T07:49:20.408120Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "3OgqjplQ8HFeKkW8",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "nuit-interop"
-            },
-            "name": {
-                "modrinth": "FabricSkyBoxes Interop"
-            },
-            "id": {
-                "modrinth": "HpdHOPOp"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "fsb-interop-1.3.2+mc1.19.2-build.40.jar",
-                    "mc_versions": [
-                        "1.19.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/Bz2Z4Lrk/fsb-interop-1.3.2+mc1.19.2-build.40.jar",
-                    "id": "Bz2Z4Lrk",
-                    "parent_id": "HpdHOPOp",
-                    "hashes": {
-                        "sha512": "58017fa3099a59c7af0dcefad0d20edac70d5dff95e9fcfb2c6a7fbdb2963739fab41c5ffdede9af24fe5e412096999834c17c03c895158a06e46be2be425fda",
-                        "sha1": "aa8411ec0f14264bc6da9a9f8ad551c471c1bd69"
-                    },
-                    "required_dependencies": [
-                        "YBz7DOs8"
-                    ],
-                    "size": 46916,
-                    "date_published": "2023-07-12T16:26:49.400120Z"
+                    "size": 7387359,
+                    "date_published": "2025-06-23T19:01:07.393175Z"
                 }
             ]
         },
@@ -2143,6 +2104,45 @@
             ]
         },
         {
+            "pakku_id": "3OgqjplQ8HFeKkW8",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "nuit-interop"
+            },
+            "name": {
+                "modrinth": "Nuit Interop (formerly FabricSkyBoxes Interop)"
+            },
+            "id": {
+                "modrinth": "HpdHOPOp"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "fsb-interop-1.3.2+mc1.19.2-build.40.jar",
+                    "mc_versions": [
+                        "1.19.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/Bz2Z4Lrk/fsb-interop-1.3.2+mc1.19.2-build.40.jar",
+                    "id": "Bz2Z4Lrk",
+                    "parent_id": "HpdHOPOp",
+                    "hashes": {
+                        "sha512": "58017fa3099a59c7af0dcefad0d20edac70d5dff95e9fcfb2c6a7fbdb2963739fab41c5ffdede9af24fe5e412096999834c17c03c895158a06e46be2be425fda",
+                        "sha1": "aa8411ec0f14264bc6da9a9f8ad551c471c1bd69"
+                    },
+                    "required_dependencies": [
+                        "YBz7DOs8"
+                    ],
+                    "size": 46916,
+                    "date_published": "2023-07-12T16:26:49.400120Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4ERfmkj03FCGf9sC",
             "pakku_links": [
                 "iyrJ6xheXAlx6ZQa",
@@ -2785,7 +2785,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "e4mc_minecraft-fabric-5.3.1.jar",
+                    "file_name": "e4mc_minecraft-fabric-5.4.0.jar",
                     "mc_versions": [
                         "1.18",
                         "1.18.1",
@@ -2807,25 +2807,26 @@
                         "1.21.2",
                         "1.21.3",
                         "1.21.4",
-                        "1.21.5"
+                        "1.21.5",
+                        "1.21.6"
                     ],
                     "loaders": [
                         "fabric",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/71uPp5Hx/e4mc_minecraft-fabric-5.3.1.jar",
-                    "id": "71uPp5Hx",
+                    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/5QrLKdlJ/e4mc_minecraft-fabric-5.4.0.jar",
+                    "id": "5QrLKdlJ",
                     "parent_id": "qANg5Jrr",
                     "hashes": {
-                        "sha512": "d0e76923d8627f55c8980c1b1518162140e2706403eaa2f5e44136cca9fa6c1105e49fd537ac28020422612f60b8a3ad119643089c2f714f94f93bcb14983ebb",
-                        "sha1": "8b815ce0b3e8e8305827d1ea041e1ee1b4a6a7b6"
+                        "sha512": "147dde2c42415884e591388ef3f90a08ad8658e60fb0fac1454cfefa50a271d06202b952954147bb11b90e7699e7ebbc6d0c0dcffcf1952fd1d61adf65574a3b",
+                        "sha1": "cdbd24152545b3ab0feaf7fd7619f820d1a92fcd"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 575182,
-                    "date_published": "2025-04-13T11:14:05.829150Z"
+                    "size": 582913,
+                    "date_published": "2025-06-29T09:23:48.383200Z"
                 }
             ]
         },
