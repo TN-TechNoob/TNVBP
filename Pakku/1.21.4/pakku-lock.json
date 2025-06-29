@@ -1885,6 +1885,51 @@
             ]
         },
         {
+            "pakku_id": "vEualAv5oqGA23u1",
+            "pakku_links": [
+                "CA5lL2VqJW2X1y4E",
+                "DJMtkU5Izf4ON8H7"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "nuit-interop"
+            },
+            "name": {
+                "modrinth": "Nuit Interop (formerly FabricSkyBoxes Interop)"
+            },
+            "id": {
+                "modrinth": "HpdHOPOp"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "nuit-interop-fabric-1.0.0-beta.1+mc1.21.4.jar",
+                    "mc_versions": [
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/k0W3XjIr/nuit-interop-fabric-1.0.0-beta.1+mc1.21.4.jar",
+                    "id": "k0W3XjIr",
+                    "parent_id": "HpdHOPOp",
+                    "hashes": {
+                        "sha512": "ac314e2b5ffca705ca4d8c324d7e1a8dc91af38eeb6d7420ce19f5bc121b24c7fdf741835cd23e83f55ed9a64addb571e3c0bb01cc51fd16d4e1c75a2ee67da7",
+                        "sha1": "acbe27b13d89e15d53b12f4952fa59015c4ada11"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "YBz7DOs8"
+                    ],
+                    "size": 66642,
+                    "date_published": "2025-06-26T04:57:10.060074Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xGXX0bMQAnMxHZwW",
             "type": "MOD",
             "side": "CLIENT",
