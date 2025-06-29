@@ -1885,6 +1885,44 @@
             ]
         },
         {
+            "pakku_id": "DJMtkU5Izf4ON8H7",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "nuit"
+            },
+            "name": {
+                "modrinth": "Nuit (formerly FabricSkyboxes)"
+            },
+            "id": {
+                "modrinth": "YBz7DOs8"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "nuit-fabric-1.0.0-beta.1+mc1.21.4.jar",
+                    "mc_versions": [
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/5UXtojrL/nuit-fabric-1.0.0-beta.1+mc1.21.4.jar",
+                    "id": "5UXtojrL",
+                    "parent_id": "YBz7DOs8",
+                    "hashes": {
+                        "sha512": "6731767b6d48cb60d8a3c4f72b87d698a9dfb9af02f63164b0abc3c38f4d3e612a206fffa1adbbacaae8e0d8278a7d18c2fa27469d0a8e7f70ce817988be4d47",
+                        "sha1": "edfdff652269655ed0dc025da7071b796c1628d2"
+                    },
+                    "required_dependencies": [],
+                    "size": 143855,
+                    "date_published": "2025-06-15T22:46:42.833201Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "vEualAv5oqGA23u1",
             "pakku_links": [
                 "CA5lL2VqJW2X1y4E",
