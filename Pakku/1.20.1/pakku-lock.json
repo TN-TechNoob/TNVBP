@@ -686,57 +686,6 @@
             ]
         },
         {
-            "pakku_id": "ghV6rNLskUz5FMgV",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "faster-random"
-            },
-            "name": {
-                "modrinth": "Faster Random"
-            },
-            "id": {
-                "modrinth": "RfFxanNh"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "fasterrandom-5.1.0.jar",
-                    "mc_versions": [
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar",
-                    "id": "BbFqiKvi",
-                    "parent_id": "RfFxanNh",
-                    "hashes": {
-                        "sha512": "af2d0825ec4e3521fd82b0a5fd5a3f04daf98e09b138d099407861c03a4e17546900befd791a7abe7cbe109c3045dee0646d02f1703b8e68bc37903d21c20acd",
-                        "sha1": "440720daaf51d5ad88a96ed59e1f59c63fad3f73"
-                    },
-                    "required_dependencies": [],
-                    "size": 20697,
-                    "date_published": "2024-07-23T08:45:45.159601Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "n82zCUJNmWkfpTIn",
             "type": "MOD",
             "side": "CLIENT",
