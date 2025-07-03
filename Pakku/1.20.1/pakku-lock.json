@@ -8,6 +8,50 @@
     },
     "projects": [
         {
+            "pakku_id": "KhXb2F1hpT6Ky8MM",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "alternate-current"
+            },
+            "name": {
+                "modrinth": "Alternate Current"
+            },
+            "id": {
+                "modrinth": "r0v8vy1s"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "alternate-current-mc1.20-1.9.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/r0v8vy1s/versions/ckuIQWvo/alternate-current-mc1.20-1.9.0.jar",
+                    "id": "ckuIQWvo",
+                    "parent_id": "r0v8vy1s",
+                    "hashes": {
+                        "sha512": "9818c421ccd24f46d74985c17e4c04165abe68f8491f9afa73317651c162586c800f4ca073401623bab2e8bf6316d7fc4c7ac1d66ad6f0887f1775da7a5e6ccd",
+                        "sha1": "f09b6c60556ca329b82d4bdb965dd4f574c0e1e3"
+                    },
+                    "required_dependencies": [],
+                    "size": 51875,
+                    "date_published": "2024-08-26T14:07:14.457992Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "34gcnEsSnSpxFreO",
             "type": "MOD",
             "side": "CLIENT",
