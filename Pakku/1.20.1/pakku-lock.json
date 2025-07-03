@@ -620,7 +620,8 @@
                         "1.21.3",
                         "1.21.4",
                         "1.21.5",
-                        "1.21.6"
+                        "1.21.6",
+                        "1.21.7"
                     ],
                     "loaders": [
                         "fabric"
@@ -1616,7 +1617,10 @@
                         "1.21.6-pre3",
                         "1.21.6-pre4",
                         "1.21.6-rc1",
-                        "1.21.6"
+                        "1.21.6",
+                        "1.21.7-rc1",
+                        "1.21.7-rc2",
+                        "1.21.7"
                     ],
                     "loaders": [
                         "fabric",
@@ -1887,7 +1891,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "modernfix-fabric-5.23.1+mc1.20.1.jar",
+                    "file_name": "modernfix-fabric-5.24.1+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -1895,16 +1899,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/sHT8jMZl/modernfix-fabric-5.23.1+mc1.20.1.jar",
-                    "id": "sHT8jMZl",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/QtunKFLa/modernfix-fabric-5.24.1+mc1.20.1.jar",
+                    "id": "QtunKFLa",
                     "parent_id": "nmDcB62a",
                     "hashes": {
-                        "sha512": "8d34f6907b2e5718bdc74b18a90908ab0ce682eeda44f67318917162e99dcb8f78ddbf6da3ce7411859b2a1733f88a0f4c03eb9b124841d29df6efaf0bfd5b7b",
-                        "sha1": "a686ecb5f4d610d1e5f0891df4a8f894ac5768fb"
+                        "sha512": "fca2be3f52dec20cd55a9fb7a1ad0d6daaca88615e95620095d5b4fa4ceb4e7e36c9ae59a5f55b5f2f23aad4d8e84307d880487c5cfae5d54c0fd2f84e908b76",
+                        "sha1": "56155c7b5586231faab8d8f5cc50855607ae278a"
                     },
                     "required_dependencies": [],
-                    "size": 530761,
-                    "date_published": "2025-06-03T01:41:18.953273Z"
+                    "size": 532477,
+                    "date_published": "2025-07-03T12:22:53.267956Z"
                 }
             ]
         },
@@ -2778,7 +2782,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "e4mc_minecraft-fabric-5.4.0.jar",
+                    "file_name": "e4mc_minecraft-fabric-5.4.1.jar",
                     "mc_versions": [
                         "1.18",
                         "1.18.1",
@@ -2808,18 +2812,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/5QrLKdlJ/e4mc_minecraft-fabric-5.4.0.jar",
-                    "id": "5QrLKdlJ",
+                    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/baNcxaPZ/e4mc_minecraft-fabric-5.4.1.jar",
+                    "id": "baNcxaPZ",
                     "parent_id": "qANg5Jrr",
                     "hashes": {
-                        "sha512": "147dde2c42415884e591388ef3f90a08ad8658e60fb0fac1454cfefa50a271d06202b952954147bb11b90e7699e7ebbc6d0c0dcffcf1952fd1d61adf65574a3b",
-                        "sha1": "cdbd24152545b3ab0feaf7fd7619f820d1a92fcd"
+                        "sha512": "39436cd5094b22bd0669f08ea0883b910f16873717f6a8e3fbd92e1bf5dc9037aacf5f3d60d338c09a89f498f69cf7472da4dffa38e728961944f517b3ef7e7c",
+                        "sha1": "6642811581b3d56d836a1239ff5b686d07046ac6"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 582913,
-                    "date_published": "2025-06-29T09:23:48.383200Z"
+                    "size": 583322,
+                    "date_published": "2025-06-30T03:37:21.051104Z"
                 }
             ]
         },

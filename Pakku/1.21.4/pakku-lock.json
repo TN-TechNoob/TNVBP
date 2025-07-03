@@ -258,24 +258,24 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.4-0.3.1.3.0.jar",
+                    "file_name": "c2me-fabric-mc1.21.4-0.3.2+alpha.0.44.jar",
                     "mc_versions": [
                         "1.21.4"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/EzvMx6b2/c2me-fabric-mc1.21.4-0.3.1.3.0.jar",
-                    "id": "EzvMx6b2",
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/WfGkrMP6/c2me-fabric-mc1.21.4-0.3.2+alpha.0.44.jar",
+                    "id": "WfGkrMP6",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "f944bf4319cfa6fb645d0cbe807b82c74784f44ef7ac75273efa161be4625aa80390ec8cf32a232c0ebce0d0cb23b090979019d93e7550771de56d09d920dd13",
-                        "sha1": "c9e972309d6a8535fc2f144c9506c075224a513e"
+                        "sha512": "23872ca1c0565b02e8e7595c055616766482a47dd07fe3ea74c948eacadeed02ec9e8a69de84c420956381142b45cac2dfdee488410785ff58ad85cc091fe3c3",
+                        "sha1": "efefa714fbced46bf201dae8d6f93801fa24a70f"
                     },
                     "required_dependencies": [],
-                    "size": 4661246,
-                    "date_published": "2025-03-31T08:30:37.833732Z"
+                    "size": 4665464,
+                    "date_published": "2025-07-03T06:19:16.900663Z"
                 }
             ]
         },
@@ -571,7 +571,8 @@
                         "1.21.3",
                         "1.21.4",
                         "1.21.5",
-                        "1.21.6"
+                        "1.21.6",
+                        "1.21.7"
                     ],
                     "loaders": [
                         "fabric"
@@ -1513,7 +1514,10 @@
                         "1.21.6-pre3",
                         "1.21.6-pre4",
                         "1.21.6-rc1",
-                        "1.21.6"
+                        "1.21.6",
+                        "1.21.7-rc1",
+                        "1.21.7-rc2",
+                        "1.21.7"
                     ],
                     "loaders": [
                         "fabric",
@@ -2639,7 +2643,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "e4mc_minecraft-fabric-5.4.0.jar",
+                    "file_name": "e4mc_minecraft-fabric-5.4.1.jar",
                     "mc_versions": [
                         "1.18",
                         "1.18.1",
@@ -2669,18 +2673,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/5QrLKdlJ/e4mc_minecraft-fabric-5.4.0.jar",
-                    "id": "5QrLKdlJ",
+                    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/baNcxaPZ/e4mc_minecraft-fabric-5.4.1.jar",
+                    "id": "baNcxaPZ",
                     "parent_id": "qANg5Jrr",
                     "hashes": {
-                        "sha512": "147dde2c42415884e591388ef3f90a08ad8658e60fb0fac1454cfefa50a271d06202b952954147bb11b90e7699e7ebbc6d0c0dcffcf1952fd1d61adf65574a3b",
-                        "sha1": "cdbd24152545b3ab0feaf7fd7619f820d1a92fcd"
+                        "sha512": "39436cd5094b22bd0669f08ea0883b910f16873717f6a8e3fbd92e1bf5dc9037aacf5f3d60d338c09a89f498f69cf7472da4dffa38e728961944f517b3ef7e7c",
+                        "sha1": "6642811581b3d56d836a1239ff5b686d07046ac6"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 582913,
-                    "date_published": "2025-06-29T09:23:48.383200Z"
+                    "size": 583322,
+                    "date_published": "2025-06-30T03:37:21.051104Z"
                 }
             ]
         },
