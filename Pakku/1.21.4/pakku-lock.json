@@ -10,7 +10,7 @@
         {
             "pakku_id": "Y3uhd4tRhbloOagk",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "alternate-current"
             },
