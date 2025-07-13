@@ -493,7 +493,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.8.0-mc1.21.jar",
+                    "file_name": "entityculling-fabric-1.8.1-mc1.21.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -502,18 +502,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/wZSIbKbB/entityculling-fabric-1.8.0-mc1.21.jar",
-                    "id": "wZSIbKbB",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/84LNy1pR/entityculling-fabric-1.8.1-mc1.21.jar",
+                    "id": "84LNy1pR",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "e6e1e7f75016b8cc0c7288f42e4eccecb6a70f51e09e48a48f1b2f28269a3c6eb6db295f9e9b0b8a09c80998e7cc8ca4ca73b37d19005794e24fe769fc75167e",
-                        "sha1": "9ba701abb01eeb144ceb4f138ccd6c9f4d9db73f"
+                        "sha512": "53158ad29138643ffa14f7de8664761875d31bc803bcd4aa5c17ed56b9640149f6834283737120aa9c5dcddb1af8512b604e5577a082b5bdcfbb3224697fa4b5",
+                        "sha1": "5dae3efc671b8a616aadbae1e35bd63a9458134f"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 463536,
-                    "date_published": "2025-06-20T15:45:29.565161Z"
+                    "size": 468222,
+                    "date_published": "2025-07-05T23:08:34.402218Z"
                 }
             ]
         },
@@ -816,7 +816,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ImmediatelyFast-Fabric-1.6.5+1.21.1.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.6.6+1.21.1.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -826,16 +826,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/UDgEo3mK/ImmediatelyFast-Fabric-1.6.5+1.21.1.jar",
-                    "id": "UDgEo3mK",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/giRXGeHH/ImmediatelyFast-Fabric-1.6.6+1.21.1.jar",
+                    "id": "giRXGeHH",
                     "parent_id": "5ZwdcRci",
                     "hashes": {
-                        "sha512": "928cc4c14e90107383195b1a1ee57ae48f4299a13b15909473479f49f1bd86cd7e2bcaa129c9cb239d50eb3b5558798f2cafd9b229b12fea06e0e4e0f5eabd61",
-                        "sha1": "f6461831d895d84d6cae8bcc1c970d350e3baa67"
+                        "sha512": "7855cbfc71f24d5a6a09211061bc0a88c2b7c597bb38850e6c8c15796ad0ad1daf5c1c7b1cf519124e97ab0ef1241cb2e9509a9b4f998aa18c7a2588a9b1eca7",
+                        "sha1": "8929468087041b6b07b65aa8e31407f5c9e43b79"
                     },
                     "required_dependencies": [],
-                    "size": 231496,
-                    "date_published": "2025-04-02T08:37:48.287049Z"
+                    "size": 228315,
+                    "date_published": "2025-07-08T20:12:54.422517Z"
                 }
             ]
         },
@@ -942,7 +942,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Jade-1.21.1-Fabric-15.10.1.jar",
+                    "file_name": "Jade-1.21.1-Fabric-15.10.2.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -950,17 +950,17 @@
                         "fabric",
                         "quilt"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/aYVY3zTC/Jade-1.21.1-Fabric-15.10.1.jar",
-                    "id": "aYVY3zTC",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/PtcHhnOY/Jade-1.21.1-Fabric-15.10.2.jar",
+                    "id": "PtcHhnOY",
                     "parent_id": "nvQzSEkH",
                     "hashes": {
-                        "sha512": "41e896c1866609de9c2261f5da7592803c5c4eb14fbcc58e2d2df50bd441c4ff4c9632ba8708d8b6d21ead4e6b4a0b7854f973531b961c0459041b8830aa73a5",
-                        "sha1": "52aa2edf601db5de2db7928865bf9da09c303cfb"
+                        "sha512": "41da113b48d8c5f834a0c36008e65ae13ef8c36563130bb47e2b24cefda8a1f407434f7b32b835f889199dd9a73f66105401561ed9015c997e69239d91c09f9a",
+                        "sha1": "d9ddb9890b1633cf7506d1cfecabcb3ab7fc9f6f"
                     },
                     "required_dependencies": [],
-                    "size": 738992,
-                    "date_published": "2025-05-04T08:17:25.544706Z"
+                    "size": 739001,
+                    "date_published": "2025-07-06T20:12:11.567816Z"
                 }
             ]
         },

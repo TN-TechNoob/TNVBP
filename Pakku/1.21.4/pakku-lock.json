@@ -454,7 +454,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "entityculling-fabric-1.8.0-mc1.21.4.jar",
+                    "file_name": "entityculling-fabric-1.8.1-mc1.21.4.jar",
                     "mc_versions": [
                         "1.21.4"
                     ],
@@ -462,18 +462,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/D7kYv61h/entityculling-fabric-1.8.0-mc1.21.4.jar",
-                    "id": "D7kYv61h",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/5oZ3eZcA/entityculling-fabric-1.8.1-mc1.21.4.jar",
+                    "id": "5oZ3eZcA",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "3a3feace03700adfc5bca89f245e92d27706623f851599c3f8992e0c03b4d57cdd9091754367b63607934f3d6b07b1e66bd464825163058174d0f7ecdb80ddc2",
-                        "sha1": "d4eb92b9eb7c47fc5ea44147e616b5d321be818a"
+                        "sha512": "7ade644dc0b2876e30470c085de7e622cd9927a9968fdcea152be39d24d25030d434a966f93c0c8e522828a7e761ab608469ac0b46bcf3f671d51f61fa932ef8",
+                        "sha1": "4fe4b53c8b38205219d65a4742305cedaf4fa9b4"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 465405,
-                    "date_published": "2025-06-20T15:45:34.137148Z"
+                    "size": 470102,
+                    "date_published": "2025-07-05T23:08:39.572085Z"
                 }
             ]
         },
@@ -774,7 +774,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ImmediatelyFast-Fabric-1.8.0+1.21.4.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.8.1+1.21.4.jar",
                     "mc_versions": [
                         "1.21.4"
                     ],
@@ -783,16 +783,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/ddjmgf0b/ImmediatelyFast-Fabric-1.8.0+1.21.4.jar",
-                    "id": "ddjmgf0b",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/TBPG2PYa/ImmediatelyFast-Fabric-1.8.1+1.21.4.jar",
+                    "id": "TBPG2PYa",
                     "parent_id": "5ZwdcRci",
                     "hashes": {
-                        "sha512": "0e9f4d75938ded02e18830277360a5c7327a2f4438250e33d5db8c82adb66b0053677bc5b07f76d0fe9eab63d493e3e9b3a2ddb3ee35743bc425200d2835892c",
-                        "sha1": "c18647140192d2f1eb5b09390ea5cabe0e0e1681"
+                        "sha512": "b3379168a1576ee80abf3ae7c6234dbc541df0616ec6d95e7a9d9af44619100bacd11a85366e17cc2157beb15ad6e254191f532cb28fb2e89ad0a47777176211",
+                        "sha1": "1cdc3bd1185052a0f9f9e03be65129d718eceb0e"
                     },
                     "required_dependencies": [],
-                    "size": 227072,
-                    "date_published": "2025-03-16T17:32:43.388103Z"
+                    "size": 224739,
+                    "date_published": "2025-07-08T20:42:48.936066Z"
                 }
             ]
         },
