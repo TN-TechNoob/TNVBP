@@ -11,6 +11,11 @@ jobs:
       matrix:
         mc_version: ["1.18.2", "1.19.2", "1.20.1", "1.21.1", "1.21.4"]
     runs-on: ubuntu-latest
+    environment: github-actions
+    permissions:
+      id-token: write
+      attestations: write
+      contents: write
     steps:
       - name: Clone Repo
         uses: actions/checkout@v4
@@ -25,51 +30,47 @@ jobs:
           COMMIT_LOG=$(git log --pretty='format:[%h](${{ github.server_url }}/${{ github.repository }}/commit/%H) - %s <br>' "${PREVIOUS_TAG}".."${LATEST_TAG}" -- Pakku/${{ matrix.mc_version }})
             
           if [ -n "$COMMIT_LOG" ]; then
+              echo "Commit Log between $PREVIOUS_TAG and $LATEST_TAG:"
+              echo "prev=${{ github.server_url }}/${{ github.repository }}/commit/$PREVIOUS_TAG" >> $GITHUB_ENV
+              echo "latest=${{ github.server_url }}/${{ github.repository }}/commit/$LATEST_TAG" >> $GITHUB_ENV
+              echo "commit_log<<EOF" >> $GITHUB_ENV
+              echo $COMMIT_LOG>> $GITHUB_ENV 
+              echo "EOF" >> $GITHUB_ENV
               echo "changed=true" >> $GITHUB_ENV
           else
+              echo "No commits found between $PREVIOUS_TAG and $LATEST_TAG."
               echo "changed=false" >> $GITHUB_ENV
-              exit 0
           fi
-
-  build-pack:
-    needs: release
-    strategy:
-      matrix:
-        mc_version: ["1.18.2", "1.19.2", "1.20.1", "1.21.1", "1.21.4"]
-    runs-on: ubuntu-latest
-    steps:
       - name: Setup Java JDK
+        if: env.changed == 'true'
         uses: actions/setup-java@v4.7.1
         with:
           distribution: "temurin"
           java-version: "21"
           java-package: "jre"
-      - name: Cache Pakku Jar
-        id: cache-pakku
-        uses: actions/cache@v3
-        with:
-          path: pakku.jar
-          key: pakku-v1.2.1
-          restore-keys: pakku-
-
-      - name: Download Pakku Jar if not cached
-        if: steps.cache-pakku.outputs.cache-hit != 'true'
-        run: |
-          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v1.2.1/pakku.jar
       - name: Build Pack
+        if: env.changed == 'true'
         run: |
           pushd Pakku/${{ matrix.mc_version}}
           PACK_VERSION=$(jq -r '.version' pakku.json)
           echo "PACK_VERSION=$PACK_VERSION" >> $GITHUB_ENV
+          wget https://github.com/juraj-hrivnak/Pakku/releases/download/v1.2.1/pakku.jar
           java -jar pakku.jar export
           popd
+      - name: Attest mrpack
+        id: attest-mrpack
+        if: env.changed == 'true'
+        uses: actions/attest-build-provenance@v1
+        with:
+          subject-path: ./Pakku/${{ matrix.mc_version}}/build/modrinth/*
       - name: Publish to Modrinth
+        if: env.changed == 'true'
         uses: Kir-Antipov/mc-publish@v3.3
         with:
           name: MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}
           modrinth-id: Ohwb2cTF
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: ./Pakku/${{ matrix.mc_version}}/build/modrinth/*.mrpack
+          files: ./Pakku/${{ matrix.mc_version}}/build/modrinth/TNVBP_MC${{ matrix.mc_version}}-${{ env.PACK_VERSION }}.mrpack
           changelog: |
             ${{ env.commit_log }}
           loaders: fabric
