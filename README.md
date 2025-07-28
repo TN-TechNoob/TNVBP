@@ -57,7 +57,17 @@
             <th rowspan="20"><p>Minecraft</p>Versions</th>
             <th></th>
             <th></th>
+            <th>1.21.8</th>
+        </tr>
+        <tr>
+            <th>1.21.5 ~ 1.21.7</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th></th>
             <th>1.21.4</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.21.2 ~ 1.21.3</th>
@@ -226,7 +236,17 @@
             <th rowspan="20"><p>Minecraft</p>版本</th>
             <th></th>
             <th></th>
+            <th>1.21.8</th>
+        </tr>
+        <tr>
+            <th>1.21.5 ~ 1.21.7</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th></th>
             <th>1.21.4</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.21.2 ~ 1.21.3</th>
