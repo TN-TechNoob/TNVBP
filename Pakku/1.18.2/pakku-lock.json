@@ -666,7 +666,8 @@
                         "1.21.4",
                         "1.21.5",
                         "1.21.6",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric"
@@ -1609,7 +1610,9 @@
                         "1.21.6",
                         "1.21.7-rc1",
                         "1.21.7-rc2",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8-rc1",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric",
@@ -1781,24 +1784,24 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "malilib-fabric-1.18.2-0.12.1.jar",
+                    "file_name": "malilib-fabric-1.18.2-0.12.3-alpha.1.jar",
                     "mc_versions": [
                         "1.18.2"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/V21ryIsV/malilib-fabric-1.18.2-0.12.1.jar",
-                    "id": "V21ryIsV",
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/MQW8YqA0/malilib-fabric-1.18.2-0.12.3-alpha.1.jar",
+                    "id": "MQW8YqA0",
                     "parent_id": "GcWjdA9I",
                     "hashes": {
-                        "sha512": "e2f437b340d6b0710e9b62a18a4dbe9d9caaf1b93fb6eb2eff5d06f388c2792d68a1a35a5602527a9f43831851787091b1251087a2b98fb89d082add2c8c7589",
-                        "sha1": "a810cf1f28751ac2681ab94a1f00b58c49884649"
+                        "sha512": "fb88afe17d90f00ab6cc9a0dc05643ec14575a242a32689b50a890871759ce9e3ddc0f4253de5e3f24ba002c1484221e25c39b0a24af689c6a3a44fc99b493f3",
+                        "sha1": "02fc97a4df395c5ac99a8cb986c8d65706e60e1e"
                     },
                     "required_dependencies": [],
-                    "size": 495524,
-                    "date_published": "2024-01-03T20:37:59.092907Z"
+                    "size": 495410,
+                    "date_published": "2025-07-15T16:43:46.137221Z"
                 }
             ]
         },
