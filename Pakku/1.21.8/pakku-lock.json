@@ -2,14 +2,15 @@
     "target": "modrinth",
     "mc_versions": [
         "1.21.8",
-        "1.21.7"
+        "1.21.7",
+        "1.21.6"
     ],
     "loaders": {
         "fabric": "0.17.2"
     },
     "projects": [
         {
-            "pakku_id": "Y3uhd4tRhbloOagk",
+            "pakku_id": "peR37syKboDDWIwW",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -50,7 +51,52 @@
             ]
         },
         {
-            "pakku_id": "GfhhHf85F8HnDgj5",
+            "pakku_id": "PtuKimZSn9d8Rp7Y",
+            "pakku_links": [
+                "zImUjhxowmOArH8U",
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "animatica"
+            },
+            "name": {
+                "modrinth": "Animatica"
+            },
+            "id": {
+                "modrinth": "PRN43VSY"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "animatica-0.6.1+1.21.5.jar",
+                    "mc_versions": [
+                        "1.21.5",
+                        "1.21.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PRN43VSY/versions/CVlwSVpU/animatica-0.6.1+1.21.5.jar",
+                    "id": "CVlwSVpU",
+                    "parent_id": "PRN43VSY",
+                    "hashes": {
+                        "sha512": "2e4de7ac455996d3fc79cec1645018f698b9bd184db3e990cb774ae9eaf0208f75605cae09f93ead9aa22fbe324c07b73348468af29b97757c205f99e91bc7d0",
+                        "sha1": "48746e8fbf005ffd4b7018cf37339a312865c57b"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 70838,
+                    "date_published": "2025-06-22T00:26:51.550159Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1vjx8DwChi5aQiV5",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -89,10 +135,11 @@
             ]
         },
         {
-            "pakku_id": "LMtlk1bqWM4cdF7a",
+            "pakku_id": "aGO4T2jkFFg0EsV9",
             "pakku_links": [
-                "CA5lL2VqJW2X1y4E",
-                "o6yxGckjzjvhVho3"
+                "zImUjhxowmOArH8U",
+                "6usI0f2PXLtuTZuS",
+                "yLSfRN69vcd1WJm9"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -135,10 +182,7 @@
             ]
         },
         {
-            "pakku_id": "hUhsOXz9NXtVNWFk",
-            "pakku_links": [
-                "BfjEZkIJJD1nfbSh"
-            ],
+            "pakku_id": "6BrMLgxnMBkGOkHj",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -180,7 +224,7 @@
             ]
         },
         {
-            "pakku_id": "PWFaajwMMMoGfLGR",
+            "pakku_id": "KpTycIkKtQkLKlSY",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -217,7 +261,7 @@
             ]
         },
         {
-            "pakku_id": "BfjEZkIJJD1nfbSh",
+            "pakku_id": "SgA3mI3fNf8SL5Nm",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -235,7 +279,8 @@
                     "file_name": "cloth-config-19.0.147-fabric.jar",
                     "mc_versions": [
                         "1.21.6",
-                        "1.21.7"
+                        "1.21.7",
+                        "1.21.8"
                     ],
                     "loaders": [
                         "fabric"
@@ -255,7 +300,7 @@
             ]
         },
         {
-            "pakku_id": "WydNUzNUEmsYR490",
+            "pakku_id": "VUY7P15t6EYtziol",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -270,29 +315,34 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "c2me-fabric-mc1.21.8-0.3.5+alpha.0.7.jar",
+                    "file_name": "c2me-fabric-mc1.21.8-0.3.4.0.0.jar",
                     "mc_versions": [
+                        "1.21.6",
+                        "1.21.7",
                         "1.21.8"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/EF9HwabQ/c2me-fabric-mc1.21.8-0.3.5+alpha.0.7.jar",
-                    "id": "EF9HwabQ",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/tlZRTK1v/c2me-fabric-mc1.21.8-0.3.4.0.0.jar",
+                    "id": "tlZRTK1v",
                     "parent_id": "VSNURh3q",
                     "hashes": {
-                        "sha512": "cc92affb4f0b363b1bb72599cf6664c5e6893be36ee756671cd7c7a9bb74ddfa8fd1b62fa31069593393e56200a7cf4d60fd2a3c07f547178b4ffeb7fafc34dc",
-                        "sha1": "9760b89e2f7f66c9fe62fd7a65199266524e4bb9"
+                        "sha512": "30cbc520cb8349036d55a1cb1f26964cf02410cf6d6a561d9cc07164d7566a3a7564367de62510f2bab50723c2c7c401718001153fa833560634ce4b2e212767",
+                        "sha1": "0951ad76de856b2e8804f06efc4302f828dc3bff"
                     },
                     "required_dependencies": [],
-                    "size": 4682024,
-                    "date_published": "2025-07-27T15:57:29.352524Z"
+                    "size": 4681084,
+                    "date_published": "2025-07-29T15:56:39.847132Z"
                 }
             ]
         },
         {
-            "pakku_id": "RPrfPmaSyskeC4xe",
+            "pakku_id": "EDhCLWO0Xo69l72D",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -334,7 +384,7 @@
             ]
         },
         {
-            "pakku_id": "J8srkUCh7ZrWd20U",
+            "pakku_id": "7ySE45dpE8C0hsQa",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -375,7 +425,10 @@
             ]
         },
         {
-            "pakku_id": "FF7AbX9zcHnzGxW8",
+            "pakku_id": "hcvY8kAAHdXxTmn2",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -416,7 +469,52 @@
             ]
         },
         {
-            "pakku_id": "CA5lL2VqJW2X1y4E",
+            "pakku_id": "dsvFrc8Vn89YO64n",
+            "pakku_links": [
+                "zImUjhxowmOArH8U",
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "exordium"
+            },
+            "name": {
+                "modrinth": "Exordium"
+            },
+            "id": {
+                "modrinth": "DynYZEae"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "exordium-fabric-2.0.0-mc1.21.6.jar",
+                    "mc_versions": [
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DynYZEae/versions/OvoUlTEq/exordium-fabric-2.0.0-mc1.21.6.jar",
+                    "id": "OvoUlTEq",
+                    "parent_id": "DynYZEae",
+                    "hashes": {
+                        "sha512": "46d06f879b82700e2daadd53ebc80b1e4c56d736e2b73583712d18fe6716ada1d97b7241cd55fa198148948118eaad7608a15487909b72bad4e3446c2a4346ba",
+                        "sha1": "607bdbf6bbfe7489cb8eddc733c25bb6ab10cda2"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 491863,
+                    "date_published": "2025-08-05T20:40:05.260392Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yLSfRN69vcd1WJm9",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -431,7 +529,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.130.0+1.21.8.jar",
+                    "file_name": "fabric-api-0.131.0+1.21.8.jar",
                     "mc_versions": [
                         "1.21.8"
                     ],
@@ -439,21 +537,21 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/zhzhM2yQ/fabric-api-0.130.0+1.21.8.jar",
-                    "id": "zhzhM2yQ",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/ax9iQEs0/fabric-api-0.131.0+1.21.8.jar",
+                    "id": "ax9iQEs0",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "27399d629d3fb955c8fc1e5e86cacb9b124814bb97ee7fe283336b0e28f5eb9ae31619814ab4aef70c5beea908d2a1ed5a8dd6b8641a53ecd50375d50067f061",
-                        "sha1": "5d8c74464535d569991dcdacf9bb61203c6cd73a"
+                        "sha512": "a4c7030d16eb012745b1ff3cb5487b08b88500259f5269a87815868ee686c02d5ba93cf2645de0f023f74c7cd78415c5be8938ce3d8fff24ccb1219ebb7a3a2b",
+                        "sha1": "c76a1cd624d8ad517f307ad0fc8484c4b3eabe97"
                     },
                     "required_dependencies": [],
-                    "size": 2212919,
-                    "date_published": "2025-07-26T14:36:57.665275Z"
+                    "size": 2224100,
+                    "date_published": "2025-08-03T14:07:46.332986Z"
                 }
             ]
         },
         {
-            "pakku_id": "WE03BjSe0hgztveI",
+            "pakku_id": "MFoCFKLdjdqCUSBD",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -529,9 +627,10 @@
             ]
         },
         {
-            "pakku_id": "aknBPQpmLK1lHddn",
+            "pakku_id": "K7viNaq4JjrQLBXc",
             "pakku_links": [
-                "BfjEZkIJJD1nfbSh"
+                "SgA3mI3fNf8SL5Nm",
+                "yLSfRN69vcd1WJm9"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -574,7 +673,7 @@
             ]
         },
         {
-            "pakku_id": "fixFf13lJR0tdVez",
+            "pakku_id": "lSi2rnEI8H7kA9OU",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -614,9 +713,10 @@
             ]
         },
         {
-            "pakku_id": "1HWJmHh1gp5AFNS2",
+            "pakku_id": "ekMuvp1a7i5dwUGU",
             "pakku_links": [
-                "CA5lL2VqJW2X1y4E"
+                "MFoCFKLdjdqCUSBD",
+                "yLSfRN69vcd1WJm9"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -632,7 +732,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fzzy_config-0.7.1+1.21.6.jar",
+                    "file_name": "fzzy_config-0.7.2+1.21.6.jar",
                     "mc_versions": [
                         "1.21.6",
                         "1.21.7",
@@ -643,24 +743,24 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/EbpDDtdT/fzzy_config-0.7.1+1.21.6.jar",
-                    "id": "EbpDDtdT",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/d0v9rl51/fzzy_config-0.7.2+1.21.6.jar",
+                    "id": "d0v9rl51",
                     "parent_id": "hYykXjDp",
                     "hashes": {
-                        "sha512": "5e4198abdb456b1e63840a3ba0c9b2bb2784298e9edb6efcace0395e5904b4cc22546042e99508fdba34c3de19475bbe41da9cbbd762212121478df91c0cbdaf",
-                        "sha1": "813c0a9874fc2ce2c9cca9bba0a09b8a84e9fa99"
+                        "sha512": "7225908b08c99d6cf982833e288bd27d1627fcfbc1dbbfb3644c7e5bbd459e0db4245b34dfd81ecc85148dfd3da97b929fccac6f4994b9f816e76e158d6f32c4",
+                        "sha1": "10a461530ddbd8cc5c39aaeda90662deea75abd1"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 2206443,
-                    "date_published": "2025-07-14T22:28:34.536128Z"
+                    "size": 2261921,
+                    "date_published": "2025-08-03T17:25:34.250905Z"
                 }
             ]
         },
         {
-            "pakku_id": "qot0RLKhLCMYSKSI",
+            "pakku_id": "cq19xz8nu4vmW4RO",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -675,7 +775,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ImmediatelyFast-Fabric-1.12.0+1.21.8.jar",
+                    "file_name": "ImmediatelyFast-Fabric-1.12.1+1.21.8.jar",
                     "mc_versions": [
                         "1.21.8"
                     ],
@@ -684,23 +784,23 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/dFWSDYH8/ImmediatelyFast-Fabric-1.12.0+1.21.8.jar",
-                    "id": "dFWSDYH8",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/XxwOC2sk/ImmediatelyFast-Fabric-1.12.1+1.21.8.jar",
+                    "id": "XxwOC2sk",
                     "parent_id": "5ZwdcRci",
                     "hashes": {
-                        "sha512": "91a8a42407061d152ba65592cf1131f069ca5a0eaa450e84b50ee6e8ad7e2a1f48765b1408475d9f1e156cf677343b283c24ca30f98436d71725e095834b586e",
-                        "sha1": "6b915bdd3762ac1bcc73497db21aa2ea8ab181bb"
+                        "sha512": "5277ba33c2f8255c65946a9e785a046d1c211aa974e679d881b9a259a50f42fc5f77a92d620a377d5992c66fa1ca581bb2fd902d1f93cdced4318fc2b10e45a8",
+                        "sha1": "318608e466371772a4b0d2a6cd3fe86cf983e718"
                     },
                     "required_dependencies": [],
-                    "size": 193177,
-                    "date_published": "2025-07-17T23:50:21.510901Z"
+                    "size": 194728,
+                    "date_published": "2025-07-29T16:34:13.397769Z"
                 }
             ]
         },
         {
-            "pakku_id": "wwIBn1itbGmHZ9WL",
+            "pakku_id": "FbUh5mbzPRat6hCK",
             "pakku_links": [
-                "RZ4VBITHg54BIS3I"
+                "Vl962DNaqUmIWOHV"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -743,7 +843,10 @@
             ]
         },
         {
-            "pakku_id": "GTy0vAVoGwMwzDOR",
+            "pakku_id": "CqaT7R6ILJB8wK1t",
+            "pakku_links": [
+                "3h34elO7jCT2Ebjj"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -784,7 +887,7 @@
             ]
         },
         {
-            "pakku_id": "z9J1FTsjwjqQlLpU",
+            "pakku_id": "y1dhvQjBzMzbzMJT",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -799,7 +902,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Jade-1.21.7-Fabric-19.0.4.jar",
+                    "file_name": "Jade-1.21.8-Fabric-19.3.0.jar",
                     "mc_versions": [
                         "1.21.6",
                         "1.21.7",
@@ -809,22 +912,22 @@
                         "fabric",
                         "quilt"
                     ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/NNvRcygS/Jade-1.21.7-Fabric-19.0.4.jar",
-                    "id": "NNvRcygS",
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eM01zcHw/Jade-1.21.8-Fabric-19.3.0.jar",
+                    "id": "eM01zcHw",
                     "parent_id": "nvQzSEkH",
                     "hashes": {
-                        "sha512": "183dc1714ce51ebb6afaea641f641f13e65530583479c1022d6f452a422a9fe1b1b9362f3d7e92657a888c30734ec160f53e58425392c4e6d96fb5b1989d5194",
-                        "sha1": "3a7516ca617afc046bab936ddbb7550e284fd863"
+                        "sha512": "42a1b4914ed5eaab46ecbed72fccd75894a8f2498a42a71fcfc3c082988ebcdcb9f9c15157146f8848eff8cf38f8fcfecafc06eea377a63182a177768c53a70a",
+                        "sha1": "374f5cde6f6a780d378973a26eb1a9e171cee5cc"
                     },
                     "required_dependencies": [],
-                    "size": 884665,
-                    "date_published": "2025-06-30T19:46:39.179782Z"
+                    "size": 896698,
+                    "date_published": "2025-08-11T09:12:22.288237Z"
                 }
             ]
         },
         {
-            "pakku_id": "fhEifsrwk8WEJUZQ",
+            "pakku_id": "hYcRlVd3YhF40IA2",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -839,7 +942,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Ksyxis-1.3.3.jar",
+                    "file_name": "Ksyxis-1.3.4.jar",
                     "mc_versions": [
                         "1.8",
                         "1.8.1-pre1",
@@ -1471,25 +1574,30 @@
                     "loaders": [
                         "fabric",
                         "forge",
+                        "legacy-fabric",
                         "neoforge",
+                        "ornithe",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/ueN87SNs/Ksyxis-1.3.3.jar",
-                    "id": "ueN87SNs",
+                    "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/vCQj9Ui7/Ksyxis-1.3.4.jar",
+                    "id": "vCQj9Ui7",
                     "parent_id": "2ecVyZ49",
                     "hashes": {
-                        "sha512": "e754d8709d4a4c4ea894dda7bc5c3b017c8baddaaaa67b2319881d52dcce5ecd12d626087d55008de5eb942b02cf9e2099c71602296c5b63ea75abb2452b0bc7",
-                        "sha1": "2fff901eeb095c0a17ee16590e1be76c968224fc"
+                        "sha512": "f085627a6dd242bec916fc5dbec5694733f3a44e7826f51ba64887ae50860b5b6e9f89ceac4ca9beefee356c428211260ce4a40bee6bb136bfe636c42753c972",
+                        "sha1": "143fe088170e5777d3ccf5b488d61ee3635ebffe"
                     },
                     "required_dependencies": [],
-                    "size": 28484,
-                    "date_published": "2025-02-09T11:57:39.221784Z"
+                    "size": 29869,
+                    "date_published": "2025-07-31T10:06:08.088076Z"
                 }
             ]
         },
         {
-            "pakku_id": "boqX4ygLHONYc295",
+            "pakku_id": "nIqbIR4wQ3gJ8eZp",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1531,7 +1639,7 @@
             ]
         },
         {
-            "pakku_id": "w784HubNL9qSibuc",
+            "pakku_id": "0Zq0Kp6ybXue8pK7",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1569,7 +1677,7 @@
             ]
         },
         {
-            "pakku_id": "WH9y7OFnhthK7NUa",
+            "pakku_id": "3h34elO7jCT2Ebjj",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1608,7 +1716,7 @@
             ]
         },
         {
-            "pakku_id": "AakzcmwxYZ6WDlu2",
+            "pakku_id": "vHaD4a59dawb4TTZ",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1649,7 +1757,10 @@
             ]
         },
         {
-            "pakku_id": "yptHxAZieehWKecA",
+            "pakku_id": "XZ1p8er5dJw3ltsX",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1692,7 +1803,10 @@
             ]
         },
         {
-            "pakku_id": "UqUnpCsyY1pDTnMB",
+            "pakku_id": "riYbYNcKQYeUAPNY",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1733,9 +1847,9 @@
             ]
         },
         {
-            "pakku_id": "a5TjopB9rOZJRUEX",
+            "pakku_id": "USxc20DV6hNrjNcs",
             "pakku_links": [
-                "BfjEZkIJJD1nfbSh"
+                "SgA3mI3fNf8SL5Nm"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -1778,7 +1892,10 @@
             ]
         },
         {
-            "pakku_id": "1Bbx7fRF8SSYZAat",
+            "pakku_id": "KNV3oWPyB4ggIIIe",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1818,7 +1935,12 @@
             ]
         },
         {
-            "pakku_id": "xGXX0bMQAnMxHZwW",
+            "pakku_id": "vOJZ97Xz7PELCGJd",
+            "pakku_links": [
+                "zImUjhxowmOArH8U",
+                "MFoCFKLdjdqCUSBD",
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1861,7 +1983,11 @@
             ]
         },
         {
-            "pakku_id": "h9W7G5wMemu8yZX5",
+            "pakku_id": "sSVbfEQXJAj7rLyx",
+            "pakku_links": [
+                "MFoCFKLdjdqCUSBD",
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1896,8 +2022,8 @@
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
-                        "hYykXjDp",
-                        "Ha28R6CL"
+                        "Ha28R6CL",
+                        "hYykXjDp"
                     ],
                     "size": 96975,
                     "date_published": "2025-07-05T14:27:14.059426Z"
@@ -1905,9 +2031,9 @@
             ]
         },
         {
-            "pakku_id": "VAWLJ7Sbvakzo8F0",
+            "pakku_id": "NV5sg9mwoX6uo7e7",
             "pakku_links": [
-                "RZ4VBITHg54BIS3I"
+                "Vl962DNaqUmIWOHV"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -1950,7 +2076,12 @@
             ]
         },
         {
-            "pakku_id": "94EBSpeFRJ2ZHq7v",
+            "pakku_id": "YnYq9RpQvmDmb6o8",
+            "pakku_links": [
+                "zImUjhxowmOArH8U",
+                "MFoCFKLdjdqCUSBD",
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1993,7 +2124,7 @@
             ]
         },
         {
-            "pakku_id": "uz48zx99fTrYCpf1",
+            "pakku_id": "6QLuTSiRlQaI6FPT",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -2032,7 +2163,10 @@
             ]
         },
         {
-            "pakku_id": "LQYAYGbP7DUpIw8j",
+            "pakku_id": "KUlAJxMBwOqAuAgN",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -2071,7 +2205,7 @@
             ]
         },
         {
-            "pakku_id": "RZ4VBITHg54BIS3I",
+            "pakku_id": "Vl962DNaqUmIWOHV",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -2111,9 +2245,9 @@
             ]
         },
         {
-            "pakku_id": "2whRgPJ1T7o9kv3T",
+            "pakku_id": "XIsFZt9HdTCgQEf5",
             "pakku_links": [
-                "RZ4VBITHg54BIS3I"
+                "Vl962DNaqUmIWOHV"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -2156,9 +2290,9 @@
             ]
         },
         {
-            "pakku_id": "5oEYMbverA9r2iXI",
+            "pakku_id": "RvRyKiNc1DhptyM0",
             "pakku_links": [
-                "BfjEZkIJJD1nfbSh"
+                "SgA3mI3fNf8SL5Nm"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -2200,10 +2334,7 @@
             ]
         },
         {
-            "pakku_id": "chO5ZPfe9d9U7cT9",
-            "pakku_links": [
-                "WH9y7OFnhthK7NUa"
-            ],
+            "pakku_id": "W2iDXukGOT0vSUOy",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -2244,7 +2375,7 @@
             ]
         },
         {
-            "pakku_id": "OKVGKsveJoHSyxzP",
+            "pakku_id": "uac6jEPY9So07na2",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -2281,12 +2412,13 @@
             ]
         },
         {
-            "pakku_id": "o6yxGckjzjvhVho3",
+            "pakku_id": "6usI0f2PXLtuTZuS",
             "pakku_links": [
-                "CA5lL2VqJW2X1y4E"
+                "zImUjhxowmOArH8U",
+                "yLSfRN69vcd1WJm9"
             ],
             "type": "MOD",
-            "side": "BOTH",
+            "side": "CLIENT",
             "slug": {
                 "modrinth": "yacl"
             },
@@ -2325,7 +2457,7 @@
             ]
         },
         {
-            "pakku_id": "WXST2WAFJqoiRJaH",
+            "pakku_id": "SqQ7ZdwzLaPG6o94",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -2398,10 +2530,7 @@
             ]
         },
         {
-            "pakku_id": "5Zv1GKlpRGIFTAUA",
-            "pakku_links": [
-                "rkL3ltixbxNJNnuV"
-            ],
+            "pakku_id": "56LRqFLI9nv7Yr0l",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -2443,7 +2572,7 @@
             ]
         },
         {
-            "pakku_id": "rkL3ltixbxNJNnuV",
+            "pakku_id": "vWaIv794aT032LJl",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -2483,7 +2612,71 @@
             ]
         },
         {
-            "pakku_id": "4zmCjmuYNEm8liep",
+            "pakku_id": "W59P2SlYvwJykDjg",
+            "pakku_links": [
+                "yLSfRN69vcd1WJm9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "e4mc"
+            },
+            "name": {
+                "modrinth": "e4mc"
+            },
+            "id": {
+                "modrinth": "qANg5Jrr"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "e4mc_minecraft-fabric-5.4.1.jar",
+                    "mc_versions": [
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/baNcxaPZ/e4mc_minecraft-fabric-5.4.1.jar",
+                    "id": "baNcxaPZ",
+                    "parent_id": "qANg5Jrr",
+                    "hashes": {
+                        "sha512": "39436cd5094b22bd0669f08ea0883b910f16873717f6a8e3fbd92e1bf5dc9037aacf5f3d60d338c09a89f498f69cf7472da4dffa38e728961944f517b3ef7e7c",
+                        "sha1": "6642811581b3d56d836a1239ff5b686d07046ac6"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 583322,
+                    "date_published": "2025-06-30T03:37:21.051104Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9DhIZTvJxeModXdz",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
