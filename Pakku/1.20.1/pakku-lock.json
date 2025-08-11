@@ -139,43 +139,6 @@
             ]
         },
         {
-            "pakku_id": "8aBCim0iWT2UXhzA",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "better-ping-display-fabric"
-            },
-            "name": {
-                "modrinth": "Better Ping Display [Fabric]"
-            },
-            "id": {
-                "modrinth": "MS1ZMyR7"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/MS1ZMyR7/versions/FbxcDBxy/BetterPingDisplay-Fabric-1.20.1-1.1.1.jar",
-                    "id": "FbxcDBxy",
-                    "parent_id": "MS1ZMyR7",
-                    "hashes": {
-                        "sha512": "5651a271904dc73f868a8cf307a6a517fc29631472af1258b5da90183afbf770205eb3a6404fa65c599d4fd3c04710ab47fe8339799cce7fc648f4929648c120",
-                        "sha1": "c9c7a272b371dc3362cb40bfb4550f7d4be59002"
-                    },
-                    "required_dependencies": [],
-                    "size": 16226,
-                    "date_published": "2023-06-17T03:00:48.512627Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "IawZs867g6AGoLJh",
             "type": "MOD",
             "side": "CLIENT",
