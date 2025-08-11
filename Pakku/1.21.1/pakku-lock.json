@@ -1,6 +1,7 @@
 {
     "target": "modrinth",
     "mc_versions": [
+        "1.21",
         "1.21.1"
     ],
     "loaders": {
@@ -575,7 +576,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-api-0.116.4+1.21.1.jar",
+                    "file_name": "fabric-api-0.116.5+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -583,16 +584,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/19viawBV/fabric-api-0.116.4+1.21.1.jar",
-                    "id": "19viawBV",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/gymiiTwJ/fabric-api-0.116.5+1.21.1.jar",
+                    "id": "gymiiTwJ",
                     "parent_id": "P7dR8mSH",
                     "hashes": {
-                        "sha512": "95060def77b54ba6c6eb5af45b478ec6926f33f145d8f3933cd90cb2b6ab6913459d3d0afa3afcb01fca07d714628414a41ee8b6845261e88d92b83bfc668ad8",
-                        "sha1": "39d1a6b6213d012649821ecc516ed5b5142478ef"
+                        "sha512": "de38aca8c7b7c2a28a39a847a3d92b5c00e162734f29df38600bd4aeaa4b41f4de610b56b157caf0cbaf833ac7f0bf007496e6248fddf61b9ff7835ee1c8dbc0",
+                        "sha1": "75f198a62690829b4bf38fc5cab80e04001a26f6"
                     },
                     "required_dependencies": [],
-                    "size": 2423497,
-                    "date_published": "2025-06-27T12:09:19.269119Z"
+                    "size": 2424801,
+                    "date_published": "2025-08-08T13:04:23.691986Z"
                 }
             ]
         },
@@ -775,7 +776,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fzzy_config-0.7.1+1.21.jar",
+                    "file_name": "fzzy_config-0.7.2+1.21.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -785,19 +786,19 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/fz7Msfrc/fzzy_config-0.7.1+1.21.jar",
-                    "id": "fz7Msfrc",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/Vc90gJvJ/fzzy_config-0.7.2+1.21.jar",
+                    "id": "Vc90gJvJ",
                     "parent_id": "hYykXjDp",
                     "hashes": {
-                        "sha512": "a68240b3d560e8dece69b6a699a466fecd8242ae6b636256ccd2273fd297fb5bc26a0fead29c7464c77a64969953ab150ea5672dbda1f845e7c49d2db490bf79",
-                        "sha1": "93343d6114f3a8908703621fbb4b14e8e8c82cf3"
+                        "sha512": "1b2b7a8ed4c0d337f96778ca2020a68adca9f572911cafc3f353d61680f1b403ef7600f8ed8393dea3bdd1ca0d8ce5f5d4e39de7f7cad967f99b57d4e6009e31",
+                        "sha1": "f71518991ff8e55b93a4ab2570207050c2f1e237"
                     },
                     "required_dependencies": [
                         "Ha28R6CL",
                         "P7dR8mSH"
                     ],
-                    "size": 2205675,
-                    "date_published": "2025-07-14T21:42:54.607500Z"
+                    "size": 2260199,
+                    "date_published": "2025-08-03T16:39:27.595278Z"
                 }
             ]
         },
@@ -981,7 +982,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Ksyxis-1.3.3.jar",
+                    "file_name": "Ksyxis-1.3.4.jar",
                     "mc_versions": [
                         "1.8",
                         "1.8.1-pre1",
@@ -1613,20 +1614,22 @@
                     "loaders": [
                         "fabric",
                         "forge",
+                        "legacy-fabric",
                         "neoforge",
+                        "ornithe",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/ueN87SNs/Ksyxis-1.3.3.jar",
-                    "id": "ueN87SNs",
+                    "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/vCQj9Ui7/Ksyxis-1.3.4.jar",
+                    "id": "vCQj9Ui7",
                     "parent_id": "2ecVyZ49",
                     "hashes": {
-                        "sha512": "e754d8709d4a4c4ea894dda7bc5c3b017c8baddaaaa67b2319881d52dcce5ecd12d626087d55008de5eb942b02cf9e2099c71602296c5b63ea75abb2452b0bc7",
-                        "sha1": "2fff901eeb095c0a17ee16590e1be76c968224fc"
+                        "sha512": "f085627a6dd242bec916fc5dbec5694733f3a44e7826f51ba64887ae50860b5b6e9f89ceac4ca9beefee356c428211260ce4a40bee6bb136bfe636c42753c972",
+                        "sha1": "143fe088170e5777d3ccf5b488d61ee3635ebffe"
                     },
                     "required_dependencies": [],
-                    "size": 28484,
-                    "date_published": "2025-02-09T11:57:39.221784Z"
+                    "size": 29869,
+                    "date_published": "2025-07-31T10:06:08.088076Z"
                 }
             ]
         },
