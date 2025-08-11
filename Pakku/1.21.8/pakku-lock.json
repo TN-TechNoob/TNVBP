@@ -5,7 +5,7 @@
         "1.21.7"
     ],
     "loaders": {
-        "fabric": "0.16.14"
+        "fabric": "0.17.2"
     },
     "projects": [
         {
