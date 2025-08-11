@@ -89,6 +89,52 @@
             ]
         },
         {
+            "pakku_id": "LMtlk1bqWM4cdF7a",
+            "pakku_links": [
+                "CA5lL2VqJW2X1y4E",
+                "o6yxGckjzjvhVho3"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "bettertab"
+            },
+            "name": {
+                "modrinth": "Better Tab"
+            },
+            "id": {
+                "modrinth": "OSMu7zRz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bettertab-2.1.2+1.21.6.jar",
+                    "mc_versions": [
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OSMu7zRz/versions/T2Qiwp6k/bettertab-2.1.2+1.21.6.jar",
+                    "id": "T2Qiwp6k",
+                    "parent_id": "OSMu7zRz",
+                    "hashes": {
+                        "sha512": "2f9d2c12bce05e80335e7d05572633d960e3ccbd568c746addfe0cb76db182cde10a75b89b4b23074db522547778f5c136d73af97c16bb7a6f8b1e2ef9d11154",
+                        "sha1": "2dd69a92a1aa320d6dbdd2a042676fed08aa0257"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "1eAoo2KR"
+                    ],
+                    "size": 46233,
+                    "date_published": "2025-06-21T21:43:55.320856Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hUhsOXz9NXtVNWFk",
             "pakku_links": [
                 "BfjEZkIJJD1nfbSh"
@@ -2231,6 +2277,50 @@
                     "required_dependencies": [],
                     "size": 424324,
                     "date_published": "2025-07-22T15:35:03.447546Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "o6yxGckjzjvhVho3",
+            "pakku_links": [
+                "CA5lL2VqJW2X1y4E"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "yacl"
+            },
+            "name": {
+                "modrinth": "YetAnotherConfigLib (YACL)"
+            },
+            "id": {
+                "modrinth": "1eAoo2KR"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "yet_another_config_lib_v3-3.7.1+1.21.6-fabric.jar",
+                    "mc_versions": [
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/WxYlHLu6/yet_another_config_lib_v3-3.7.1+1.21.6-fabric.jar",
+                    "id": "WxYlHLu6",
+                    "parent_id": "1eAoo2KR",
+                    "hashes": {
+                        "sha512": "838f57724346a295ed82eba0e9e94880273cc20a7b7825f5d17cac711989311aa4040c61964e9c4a18ef56dba5ec066d3537ad540196eed66c6a56940ac9a1fa",
+                        "sha1": "932e1011a9ddef31fb4f4d7934f16a091aa5004b"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1122817,
+                    "date_published": "2025-06-17T20:04:29.050903Z"
                 }
             ]
         },
