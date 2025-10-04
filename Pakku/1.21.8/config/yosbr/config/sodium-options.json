@@ -3,6 +3,6 @@
     "enable_vignette": false
   },
   "performance": {
-    "always_defer_chunk_updates_v2": true
+    "chunk_build_defer_mode": "ALWAYS"
   }
 }
