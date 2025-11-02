@@ -1,11 +1,11 @@
-![TNVBP Banner](https://cdn.modrinth.com/data/Ohwb2cTF/images/93c0b00c68e304e503a976353e865c4fda87c313.png)
+![TN-Vanilla_Banner](https://cdn.modrinth.com/data/Ohwb2cTF/images/3bca616164686d38ef2d694453ef7289abf2c68c.png)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/Ohwb2cTF?label=Downloads&logo=modrinth&style=flat-square)
 [![Discord](https://img.shields.io/discord/607123183249653770?label=Discord&logo=discord&style=flat-square)](https://discord.gg/Yj9WH3P8RN)
 
 <details>
     <summary>
         <img src="https://i.imgur.com/4XuDWHv.png" alt="English" width="18">
-        English
+        English Description
     </summary>
 
 <h3>About Modpack</h3>
@@ -16,107 +16,45 @@
     <li><a href="https://modrinth.com/modpack/tnvbp/gallery">In-game benchmark screenshots</a></li>
 </ul>
 
-<h3>Other TNVBP Modpack Differences</h3>
-<ul>
-    <li><a href="https://modrinth.com/modpack/tnvbp">TNVBP</a> is for those who just want to install the modpack and play</li>
-    <li><a href="https://modrinth.com/modpack/tnvbp-lite">TNVBP Lite</a> is more suitable as a basic performance optimization modpack, so you can add your other favourite mods in it</li>
-    <table>
-        <tr>
-            <th></th>
-            <th><a href="https://modrinth.com/modpack/tnvbp">TNVBP</a></th>
-            <th><a href="https://modrinth.com/modpack/tnvbp-lite">TNVBP Lite</a></th>
-        </tr>
-        <tr>
-            <th>Shulker Box Preview</th>
-            <th>✅</th>
-            <th>❌</th>
-        </tr>
-        <tr>
-            <th>In-game Account Switcher</th>
-            <th>✅</th>
-            <th>❌</th>
-        </tr>
-        <tr>
-            <th>Other QOL Mods</th>
-            <th>✅</th>
-            <th>❌</th>
-        </tr>
-    </table>
-</ul>
-
-<h3><a href="https://en.wikipedia.org/wiki/Long-term_support">Long-term support</a></h3>
+<h3>Update Status</h3>
 <ul>
     <table>
         <tr>
             <th></th>
-            <th>❌ Unavailable</th>
             <th>⛔ Deprecated</th>
             <th>✅ Current</th>
         </tr>
         <tr>
             <th rowspan="20"><p>Minecraft</p>Versions</th>
             <th></th>
-            <th></th>
             <th>1.21.8</th>
         </tr>
         <tr>
-            <th>1.21.5 ~ 1.21.7</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th></th>
             <th>1.21.4</th>
             <th></th>
         </tr>
         <tr>
-            <th>1.21.2 ~ 1.21.3</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th></th>
             <th></th>
             <th>1.21.1</th>
         </tr>
         <tr>
-            <th></th>
             <th>1.21</th>
             <th></th>
         </tr>
         <tr>
-            <th></th>
             <th>1.20.6</th>
             <th></th>
         </tr>
         <tr>
-            <th>1.20.2 ~ 1.20.5</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th></th>
             <th></th>
             <th>1.20.1</th>
         </tr>
         <tr>
-            <th></th>
             <th>1.19.2 ~ 1.20</th>
             <th></th>
         </tr>
         <tr>
-            <th>1.19 ~ 1.19.1</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th></th>
             <th>1.18.2</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>1.18.1 and older</th>
-            <th></th>
             <th></th>
         </tr>
     </table>
@@ -190,107 +128,45 @@
     <li>遊戲內各種特殊場景效能<a href="https://modrinth.com/modpack/tnvbp/gallery">截圖圖庫</a></li>
 </ul>
 
-<h3>TNVBP 模組包分支說明</h3>
-<ul>
-    <li><a href="https://modrinth.com/modpack/tnvbp">TNVBP</a> 較適合安裝模組包後直接遊玩的玩家</li>
-    <li><a href="https://modrinth.com/modpack/tnvbp-lite">TNVBP Lite</a> 則比較適合拿來當作優化效能的基底模組包，相比 TNVBP 有更好的相容性及彈性，方便玩家再加上自己想要的其他模組</li>
-    <table>
-        <tr>
-            <th></th>
-            <th><a href="https://modrinth.com/modpack/tnvbp">TNVBP</a></th>
-            <th><a href="https://modrinth.com/modpack/tnvbp-lite">TNVBP Lite</a></th>
-        </tr>
-        <tr>
-            <th>界伏盒預覽</th>
-            <th>✅</th>
-            <th>❌</th>
-        </tr>
-        <tr>
-            <th>遊戲內帳號切換</th>
-            <th>✅</th>
-            <th>❌</th>
-        </tr>
-        <tr>
-            <th>其他 QOL 模組</th>
-            <th>✅</th>
-            <th>❌</th>
-        </tr>
-    </table>
-</ul>
-
-<h3>長期支援(<a href="https://zh.wikipedia.org/zh-tw/%E9%95%B7%E6%9C%9F%E6%94%AF%E6%8F%B4">LTS</a>)版本</h3>
+<h3>更新狀態</h3>
 <ul>
     <table>
         <tr>
             <th></th>
-            <th>❌ 未支援</th>
             <th>⛔ 已停止</th>
             <th>✅ 支援中</th>
         </tr>
         <tr>
-            <th rowspan="20"><p>Minecraft</p>版本</th>
-            <th></th>
+            <th rowspan="20"><p>Minecraft</p>Versions</th>
             <th></th>
             <th>1.21.8</th>
         </tr>
         <tr>
-            <th>1.21.5 ~ 1.21.7</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th></th>
             <th>1.21.4</th>
             <th></th>
         </tr>
         <tr>
-            <th>1.21.2 ~ 1.21.3</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th></th>
             <th></th>
             <th>1.21.1</th>
         </tr>
         <tr>
-            <th></th>
             <th>1.21</th>
             <th></th>
         </tr>
         <tr>
-            <th></th>
             <th>1.20.6</th>
             <th></th>
         </tr>
         <tr>
-            <th>1.20.2 ~ 1.20.5</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th></th>
             <th></th>
             <th>1.20.1</th>
         </tr>
         <tr>
-            <th></th>
             <th>1.19.2 ~ 1.20</th>
             <th></th>
         </tr>
         <tr>
-            <th>1.19 ~ 1.19.1</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th></th>
             <th>1.18.2</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>1.18.1 以下</th>
-            <th></th>
             <th></th>
         </tr>
     </table>
