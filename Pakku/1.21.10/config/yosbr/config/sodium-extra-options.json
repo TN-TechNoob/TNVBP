@@ -1,0 +1,11 @@
+{
+  "animation_settings": {
+    "portal": false
+  },
+  "extra_settings": {
+    "text_contrast": "SHADOW",
+    "show_fps": true,
+    "show_f_p_s_extended": false,
+    "tutorial_toast": false
+  }
+}
