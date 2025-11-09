@@ -1,6 +1,6 @@
 {
     "name": "TN-Vanilla_MC1.21.10",
-    "version": "v1.0.0",
+    "version": "v1.0.1",
     "author": "TN_TechNoob",
     "client_overrides": [
         "config"

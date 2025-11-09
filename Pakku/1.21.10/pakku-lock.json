@@ -1,11 +1,10 @@
 {
     "target": "modrinth",
     "mc_versions": [
-        "1.21.10",
-        "1.21.9"
+        "1.21.10"
     ],
     "loaders": {
-        "fabric": "0.17.2"
+        "fabric": "0.17.3"
     },
     "projects": [
         {
@@ -532,7 +531,7 @@
             ]
         },
         {
-            "pakku_id": "0Zq0Kp6ybXue8pK7",
+            "pakku_id": "EtkdHf8pu9ic4RfR",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -547,25 +546,25 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "lithium-fabric-0.19.2+mc1.21.9.jar",
+                    "file_name": "lithium-fabric-0.20.0+mc1.21.10.jar",
                     "mc_versions": [
-                        "1.21.9"
+                        "1.21.10"
                     ],
                     "loaders": [
                         "fabric",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/L1sSIxFm/lithium-fabric-0.19.2+mc1.21.9.jar",
-                    "id": "L1sSIxFm",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/oGKQMdyZ/lithium-fabric-0.20.0+mc1.21.10.jar",
+                    "id": "oGKQMdyZ",
                     "parent_id": "gvQqBUqZ",
                     "hashes": {
-                        "sha512": "ecbebb18f82e589c1d24056b6cfe6a923acb8fea5dd038ed931568db7dc8dad1cfe4b42f9c0f7752ba45f39d4f0cab219deb61fcb54bcc7252c9fe34afc2549a",
-                        "sha1": "0f9b70bd70c14f293b76e90917dd7de78c47c073"
+                        "sha512": "755c0e0fc7f6f38ac4d936cc6023d1dce6ecfd8d6bdc2c544c2a3c3d6d04f0d85db53722a089fa8be72ae32fc127e87f5946793ba6e8b4f2c2962ed30d333ed2",
+                        "sha1": "6f828c09ad43641bed3438e7ea6a4ab313f78d40"
                     },
                     "required_dependencies": [],
                     "size": 830020,
-                    "date_published": "2025-10-17T09:18:48.623172Z"
+                    "date_published": "2025-10-07T22:29:28.516315Z"
                 }
             ]
         },
