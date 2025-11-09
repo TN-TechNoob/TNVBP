@@ -27,7 +27,11 @@
         <tr>
             <th rowspan="20"><p>Minecraft</p>Versions</th>
             <th></th>
+            <th>1.21.10</th>
+        </tr>
+        <tr>
             <th>1.21.8</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.21.4</th>
@@ -62,37 +66,13 @@
 
 <h3>Java Download & Configuration</h3>
 <ul>
-    <p>Minecraft 1.20.6 and below can actually run with Java 21, just check the <code>Skip Java compatibility checks</code> check box</p>
+    <p>The latest version of Java is recommended</p>
     <table>
         <tr>
-            <th colspan="7">Java 21 Download</th>
+            <th>Java 25</th>
         </tr>
         <tr>
-            <th rowspan="2"><a href="https://adoptium.net/">Adoptium</a></th>
-            <th colspan="2">Windows</th>
-            <th colspan="2">Linux</th>
-            <th colspan="2">macOS</th>
-        </tr>
-        <tr>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=windows&arch=x64">x64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=windows&arch=aarch64">aarch64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=linux&arch=x64">x64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=linux&arch=aarch64">aarch64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=mac&arch=x64">x64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=mac&arch=aarch64">aarch64</a></th>
-        </tr>
-        <tr>
-            <th rowspan="2"><a href="https://www.graalvm.org/">GraalVM</a></th>
-            <th colspan="2">Windows</th>
-            <th colspan="2">Linux</th>
-            <th colspan="2">macOS</th>
-        </tr>
-        <tr>
-            <th colspan="2"><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_windows-x64_bin.zip">x64</a></th>
-            <th><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_linux-x64_bin.tar.gz">x64</a></th>
-            <th><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_linux-aarch64_bin.tar.gz">aarch64</a></th>
-            <th><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_macos-x64_bin.tar.gz">x64</a></th>
-            <th><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_macos-aarch64_bin.tar.gz">aarch64</a></th>
+            <th><a href="https://adoptium.net/temurin/releases?version=25&os=any&arch=any">Adoptium</a></th>
         </tr>
     </table>
     <table>
@@ -109,7 +89,7 @@
         </tr>
     </table>
     <h4>JVM arguments</h4>
-    <pre><code>-XX:+UseZGC -XX:+ZGenerational</code></pre>
+    <pre><code>-XX:+UseZGC</code></pre>
 </ul>
 
 <h3>Issue Report or Suggestion</h3>
@@ -139,7 +119,11 @@
         <tr>
             <th rowspan="20"><p>Minecraft</p>Versions</th>
             <th></th>
+            <th>1.21.10</th>
+        </tr>
+        <tr>
             <th>1.21.8</th>
+            <th></th>
         </tr>
         <tr>
             <th>1.21.4</th>
@@ -174,37 +158,13 @@
 
 <h3>Java 下載及設定</h3>
 <ul>
-    <p>Minecraft 1.20.6 以下版本其實也可以使用 Java 21 執行，只要勾選 <code>略過 Java 相容性檢查</code> 即可</p>
+    <p>推薦使用最新的 Java 版本</p>
     <table>
         <tr>
-            <th colspan="7">Java 21 下載</th>
+            <th>Java 25</th>
         </tr>
         <tr>
-            <th rowspan="2"><a href="https://adoptium.net/">Adoptium</a></th>
-            <th colspan="2">Windows</th>
-            <th colspan="2">Linux</th>
-            <th colspan="2">macOS</th>
-        </tr>
-        <tr>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=windows&arch=x64">x64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=windows&arch=aarch64">aarch64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=linux&arch=x64">x64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=linux&arch=aarch64">aarch64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=mac&arch=x64">x64</a></th>
-            <th><a href="https://adoptium.net/temurin/releases/?variant=openjdk21&jvmVariant=hotspot&package=jre&os=mac&arch=aarch64">aarch64</a></th>
-        </tr>
-        <tr>
-            <th rowspan="2"><a href="https://www.graalvm.org/">GraalVM</a></th>
-            <th colspan="2">Windows</th>
-            <th colspan="2">Linux</th>
-            <th colspan="2">macOS</th>
-        </tr>
-        <tr>
-            <th colspan="2"><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_windows-x64_bin.zip">x64</a></th>
-            <th><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_linux-x64_bin.tar.gz">x64</a></th>
-            <th><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_linux-aarch64_bin.tar.gz">aarch64</a></th>
-            <th><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_macos-x64_bin.tar.gz">x64</a></th>
-            <th><a href="https://download.oracle.com/graalvm/21/latest/graalvm-jdk-21_macos-aarch64_bin.tar.gz">aarch64</a></th>
+            <th><a href="https://adoptium.net/temurin/releases?version=25&os=any&arch=any">Adoptium</a></th>
         </tr>
     </table>
     <table>
@@ -221,7 +181,7 @@
         </tr>
     </table>
     <h4>JVM 參數</h4>
-    <pre><code>-XX:+UseZGC -XX:+ZGenerational</code></pre>
+    <pre><code>-XX:+UseZGC</code></pre>
 </ul>
 
 <h3>問題/意見回報</h3>
